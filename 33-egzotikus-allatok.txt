@@ -1,0 +1,32 @@
+alligator 	aligátor
+antelope 	antilop
+bear 	medve
+bison 	bölény
+buffalo 	bivaly
+camel 	teve
+chimpanzee 	csimpánz
+cockatoo 	kakadu
+crocodile 	krokodil
+elephant 	elefánt
+emu 	emu
+giraffe 	zsiráf
+gorilla 	gorilla
+hippo (a következő rövidítése: hippopotamus) 	viziló
+jaguar 	jaguár
+kangaroo 	kenguru
+leopard 	leopárd
+lion 	oroszlán
+monkey 	majom
+ocelot 	ocelot
+orangutan 	orángután
+ostrich 	strucc
+panda 	panda
+penguin 	pingvin
+polar bear 	jegesmedve
+reindeer 	rénszarvas
+rhino (a következő rövidítése: rhinoceros) 	orrszarvú (rinocérosz)
+snake 	kígyó
+tiger 	tigris
+toucan 	tukán
+wolf 	farkas
+zebra 	zebra

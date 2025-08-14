@@ -1,0 +1,27 @@
+address card 	lakcímkártya
+birth certificate 	születési anyakönyvi kivonat
+college 	főiskola
+court 	bíróság
+driving licence 	jogosítvány
+elementary school 	általános iskola
+fire department 	tűzoltóság
+grammar school 	gimnázium
+health records 	egészségügyi kiskönyv
+hospital 	kórház
+id card 	személyigazolvány
+institue 	intézet
+library 	könyvtár
+local government 	önkormányzat
+museum 	múzeum
+nursery 	óvoda
+office 	hivatal
+orphanage 	árvaház
+passport 	útlevél
+police 	rendőrség
+poorhouse 	szociális otthon
+prison 	fegyház
+railway station 	pályaudvar
+social security card 	taj/tb kártya
+student card 	diákigazolvány
+tax card 	adókártya
+think-tank 	kutatóközpont

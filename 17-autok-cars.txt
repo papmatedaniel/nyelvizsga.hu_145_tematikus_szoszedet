@@ -1,0 +1,83 @@
+(a set of) traffic lights 	közlekedési lámpa
+a write-off 	leírás (veszteségé)
+accelerator 	gázpedál
+amber light 	sárga jelzés
+at 60 miles per hour 	60 mérföld per órás sebességgel
+back seat 	hátsó ülés
+bonnet 	motorháztető
+breathalyser 	szonda
+bumper 	lökhárító
+by car 	autóval, kocsival
+car brand 	autómárka
+clutch 	kuplung
+dead-end street 	zsákutca
+driver’s seat 	vezetőülés
+driving licence 	jogosítvány
+driving test 	gépjármű-vezetői vizsga
+drunk driving 	ittas vezetés
+filling station 	benzinkút
+gearstick, gear-shift 	kézifék
+green light 	zöld jelzés
+headlight 	világítás
+horn 	duda
+ignition 	gyújtás
+ignition key 	indítókulcs
+indicator 	irányjelző
+jeep 	terepjáró
+lorry, truck 	kisteherautó, furgon
+motorbike 	motorbicikli
+motoring 	autózás
+motorist 	autóvezető
+number plate 	rendszámtábla
+one-way street 	egyirányú utca
+parts of the car 	autó részei
+passenger seat 	vezető melleti utasülés, „anyósülés”
+pedestrian crossing 	gyalogosátkelő hely
+petrol station, gas station 	benzinkút
+petrol, gas 	benzin, üzemanyag
+rear window 	hátsó ablak
+rear-view mirror 	visszapillantó tükör
+red light 	piros jelzés
+speeding 	gyorshajtás
+sports coupe 	csukott sportautó
+steering wheel 	kormánykerék
+the highway code 	kresz
+to accelerate 	gyorsít
+to break down 	lerobban
+to change (up) into second gear 	második sebességbe tesz
+to change lanes 	sávot vált
+to crash into 	karambolozik
+to drive 	vezet
+to fasten your seat belt 	bekapcsolja a biztonsági övet
+to give sy a lift 	elviszi autóval
+to give way 	elsőbbséget ad
+to go in sy’s car 	vkinek az autójában utazik
+to have (the) right of way 	elsőbbsége van
+to have an accident 	balesetet szenved
+to indicate left 	jelez balra
+to indicate right 	jelez jobbra
+to knock sy down 	elgázol, elüt vkit
+to park illegally 	illegális helyen parkol
+to park the car 	leparkolja az autót
+to press the accelerator 	rálép a gázpedálra
+to press the gas pedal 	to pull away
+to pull out and overtake 	kihúzódik és előz
+to pull out into traffic (from a side-street) 	behajt a forgalomba egy mellékutcából
+to pull over (by the pavement) 	félreáll (a járdára)
+to pull up 	megáll, lefékez
+to put on the handbrake 	behúzza a kéziféket
+to release the handbrake 	kiengedi a kéziféket
+to ride in sy’s car 	to get a lift
+to run sy over 	elgázol, elüt vkit
+to signal left 	jelez balra
+to signal right 	jelez jobbra
+to slow down 	lassít
+to speed up 	gyorsít
+to start the engine 	beindítja a motort
+to travel in sy’s car 	vkinek az autójában utazik
+to turn the ignition key 	elfordítja az indítókulcsot / a slusszkulcsot
+to wreck the car 	összetöri az autót
+trailer 	lakókocsi
+vehicles 	járművek
+windscreen 	szélvédő
+windscreen wiper 	ablaktörlő

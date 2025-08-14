@@ -1,0 +1,116 @@
+(young / juvenile) offender 	(fiatalkorú) bűnöző
+a traffic offence 	közlekedési vétség
+armed robbery 	fegyveres rablás
+arson 	gyújtogatás
+arsonist 	gyújtogató
+assassin 	gyilkos, merénylő
+attacker 	támadó
+break-in 	betörés
+breaking the law 	törvénysértés
+bribery 	(meg)vesztegetés
+burglar 	betörő
+burglary 	betörés
+car theft 	autólopás
+cheating 	csalás
+con 	átverés
+concision 	csonkítás
+conman 	szélhámos
+convict 	elítélt
+counterfeit 	hamisítvány
+criminal 	bűnöző
+culprit 	vádlott, bűnös, tettes
+deception 	becsapás
+drug abuse 	kábítószerrel való visszaélés
+drug dealer 	kábítószer-kereskedő
+drug trafficking 	kábítószerrel való kereskedés
+fake 	hamisítvány
+forged 	hamisított
+forgery 	hamisítás
+fraud 	csalás
+gangster 	gengszter
+hijack 	eltérítés
+hijacker 	géprabló, légi kalóz
+hijacking 	eltérítés
+hold-up 	fegyveres rablótámadás
+hooligan 	huligán
+housebreaker 	betörő
+illegal 	illegális
+judiciary 	bírósági eljárás
+kidnap 	(ember)rablás
+kidnapper 	(ember)rabló
+kidnapping 	(ember)rablás
+mafia 	maffia
+mugger 	rabló, útonálló
+mugging 	rablótámadás
+murder 	gyilkosság
+murderer 	gyilkos
+murderess 	gyilkos nő
+outlaw 	zsivány
+outlawry 	jogfosztás
+pickpocket 	zsebtolvaj
+prostitution 	prostitúció
+racketeering 	zsarolás
+rape 	nemi erőszak
+rapist 	nemi erőszakot elkövető
+robber 	rabló
+shoplifter 	bolti, áruházi tolvaj
+shoplifting 	bolti lopás, tolvajlás
+stick-up 	revolveres rablótámadás
+swindle 	csalás
+swindler 	szélhámos
+tax evasion 	adócsalás
+terrorist 	terrorista
+theft and robbery 	lopás és rablás
+thief 	tolvaj
+thug 	bandita, orgyilkos
+to assassinate 	orvul meggyilkol vkit, merényletet követ el
+to assault 	bántalmaz
+to attack 	(meg)támad
+to be against the law 	törvényellenes
+to be taken in 	becsap
+to blackmail 	(meg)zsarol
+to break in 	betör
+to break the law 	megsérti a törvényt
+to bribe sy 	megveszteget
+to burgle 	betör
+to cheat 	csal
+to commit a crime 	bűntényt követ el
+to commit an offence 	bűnt követ el
+to con 	átver
+to counterfeit 	(pénzt) hamisít
+to deceive 	becsap
+to do sy in 	megöl, kinyír vkit
+to eliminate 	megsemmisít
+to embezzle 	sikkaszt
+to evade tax 	adót csal
+to extort sg out of sy 	kizsarol vkitől vmit
+to fake 	hamisít
+to forge 	hamisít
+to hang someone 	felkötni valakit
+to hijack 	eltérít
+to hold up 	megállít és kirabol
+to kidnap 	(embert) rabol
+to kill 	megöl
+to libel 	rágalmaz
+to lift 	elemel
+to liquidate 	likvidál
+to murder 	meggyilkol
+to mutilate somebody 	megcsonkítani valakit
+to nick 	elcsór
+to pinch 	elcsen
+to poison 	megmérgez
+to rape 	megerőszakol
+to rob 	rabol
+to run over 	elgázol vkit
+to shoot 	lő, tüzel
+to slaughter 	lemészárol, tömegesen pusztít
+to smuggle 	csempészik
+to stab 	leszúr
+to steal 	lop
+to strangle 	megfojt vkit
+to swindle sy out of sg 	átejt
+to torture somebody 	megkínozni valakit
+to trick sy 	rászed
+torture 	kínzás
+violence 	erőszak
+violent crimes 	erőszakos bűntények

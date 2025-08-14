@@ -1,0 +1,28 @@
+bill 	számla
+billing 	számlázás
+career 	karrier
+cashier 	pénztár vagy kassza
+cheque 	csekk
+contact 	kapcsolat
+cost 	költség
+currency 	valuta
+delivery 	kézbesítés
+depositor’s book 	takarékbetétkönyv
+envelope 	boríték
+finance 	pénzügy
+letter/mail 	levél
+logistics 	logisztika
+mailing 	feladás postán
+message 	üzenet
+money 	pénz
+newspaper 	újság
+order 	rendelés
+package 	küldemény
+parcel 	csomag
+partner 	partner
+payment 	fizetés
+pension 	nyugdíj
+postman 	postás
+service provider 	szolgáltató
+stamp 	bélyeg
+transport 	szállítás

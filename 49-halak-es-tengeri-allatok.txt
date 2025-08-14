@@ -1,0 +1,42 @@
+amur 	amur
+anchovy 	szardella
+aquarium 	akvárium
+bream 	keszeg
+carp (többesszáma: carp) 	ponty
+catfish 	harcsa
+cod (többesszáma: cod) 	tőkehal
+crab 	rák
+crayfish 	folyami rák
+dolphin 	delfin
+eel 	angolna
+fin 	uszony
+fish tank 	akvárium
+gills 	kopoltyúk
+haddock (többesszáma: haddock) 	foltos tőkehal
+herring 	hering
+jellyfish 	medúza
+lobster 	homár
+mackerel (többesszáma: mackerel) 	makréla
+mussel 	kagyló
+octopus 	polip
+oyster 	osztriga
+pincers 	ollók
+plaice (többesszáma: plaice) 	lepényhal
+prawn 	rák
+ray-maid 	rája
+salmon (többesszáma: salmon) 	lazac
+scales 	pikkely
+sea lion 	oroszlánfóka
+sea urchin 	tengeri sün
+seal 	fóka
+shark 	cápa
+shrimp 	kagyló
+squid 	tintahal
+starfish 	tengeri csillag
+stingray 	tüskésrája
+to swim 	úszni
+trout (többesszáma: trout) 	pisztráng
+tuna (többesszáma: tuna) 	tonhal
+unicorn-fish 	narvál
+walrus 	rozmár
+whale 	bálna

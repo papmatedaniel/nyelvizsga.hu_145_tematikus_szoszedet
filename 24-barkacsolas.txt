@@ -1,0 +1,49 @@
+angle grider 	sarokcsiszoló
+bar 	bontóvas
+bolt 	csavar
+brick 	tégla
+broken 	eltörött/elromlott
+cement 	cement
+chisel 	véső
+drill 	fúró
+file 	reszelő
+hammer 	kalapács
+impact wrench 	ütvecsavarozó
+ladder 	létra
+methylated spirits (közismert nevén meths) 	denaturált szesz
+nail 	szög
+nut 	anya
+paint 	festék
+paint brush 	ecset
+pipe 	cső
+plaster 	gipsz
+pliers 	fogó
+punch 	szegecselő
+ruler 	vonalzó
+rusty 	rozsdás
+sandpaper 	smirgli
+saw 	fűrész
+screw 	csavarok
+screwdriver 	csavarhúzó
+sinker 	fúrókalapács
+spanner 	csavarkulcs
+spirit level 	vízmérték
+stepladder 	kétágú létra
+string 	zsinór
+tape 	szalag
+tape measure 	mérőszalag
+tile 	csempe
+to build 	építeni
+to cut 	vágni
+to loosen 	meglazítani
+to measure 	mérni
+to paint 	festeni
+to repair vagy to mend 	javítani/rendbehozni
+to screw in 	becsavarni
+to tighten 	meghúzni
+to unscrew 	kicsavarni
+toolbox 	szerszámosláda
+wallpaper 	tapéta
+washer 	alátét
+white spirit 	higító
+wire 	drót

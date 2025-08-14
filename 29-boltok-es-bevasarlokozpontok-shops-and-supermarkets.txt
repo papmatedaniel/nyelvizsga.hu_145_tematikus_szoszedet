@@ -1,0 +1,23 @@
+attainability 	megközelíthetőség
+bakery 	pékáru
+butcher counter 	hentespult
+butcher’s meat 	hentesáru
+cashier 	kassza
+choice 	választék
+crowd 	tömeg
+customer 	vásárló
+discount 	akció
+distance 	távolság
+feedback 	visszajelzés
+foodstuff 	élelmiszer
+goods 	áru
+popular 	kedvelt
+price 	ár
+product 	termék
+replenishment 	árufeltöltés
+shelf-stacker/shelf filler 	árufeltöltő
+shopping cart 	bevásárlókocsi
+size 	méret
+supply 	utánpótlás
+toiletries 	tisztálkodási szer
+vegetables 	zöldségek

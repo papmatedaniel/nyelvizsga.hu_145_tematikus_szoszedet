@@ -1,0 +1,22 @@
+adopted 	örökbefogadott
+adoption 	örökbefogadás
+bachelor 	agglegény
+cohabitation 	együttélés
+divorced 	elvált
+engaged 	eljegyzett
+married (to sy) 	házas
+only child 	egyetlen gyermek
+separated 	külön(váltan) él
+single 	egyedülálló
+single mother 	egyedülálló anyuka
+single parent 	egyedülálló apuka
+to adopt 	örökbefogadni
+to cohabit with sy 	együtt él vkivel (élettársként)
+to get divorced 	elválni
+to get married 	megházasodni
+to go out with sy 	együtt jár vkivel
+to live with sy 	együtt él vkivel (élettársként)
+to split up 	szakít
+unmarried 	nőtlen, hajadon
+widow 	özvegyasszony
+widower 	özvegyember

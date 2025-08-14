@@ -1,0 +1,39 @@
+a heart attack 	szívroham
+a heart failure 	szívelégtelenség
+a nervous breakdown 	ideg-összeroppanás
+a virus 	vírus
+a(cquired) i(mmune) d(eficiency) s(yndrome) 	aids (szerzett immunhiányos betegség)
+an allergy 	allergia
+an ulcer 	fekély
+blindness 	vakság
+cancer 	rák
+chickenpox 	bárányhimlő
+conjunctivitis 	kötőhártyagyulladás
+deafness 	süketség
+earache 	fülfájás
+fever 	láz
+fever-patient 	lázas beteg
+flu 	influenza
+headache 	fejfájás
+hereditary disease 	örökletes betegség
+hyperglycaemia 	magas vércukortartalom
+indigestion 	emésztési zavar/gyomorronttás
+infection 	fertőzés
+inflammation of the throat 	torokgyulladás
+iron-deficient anaemia 	vashiányos vérszegénység
+low fever 	hőemelkedés
+measles 	kanyaró
+mumps 	mumpsz, járványos fültőmirigygyulladás
+pneumonia 	tüdőgyulladás
+poisoning 	mérgezés
+rheumatism 	reuma
+scarlet fever 	skarlát, vörheny
+thyroid hyperfunction 	pajzsmirigy túlműködés/túltengés
+to be a hypochondriac 	hipochondriás, képzelt beteg
+to be allergic to … 	allergiás vmire
+to be pregnant 	terhes
+to catch a cold 	megfázik
+to have a cold 	megfázott
+tooth decay 	fogszuvasodás
+travel sickness 	utazási betegség
+whooping cough 	szamárköhögés

@@ -1,0 +1,47 @@
+accordion 	harmonika
+acoustic guitar 	akusztikus gitár
+audio-mixer 	keverőpult
+bagpipes 	skót duda
+banjo 	bendzsó
+bass drum 	nagydob
+bass guitar vagy bass 	basszusgitár
+bassoon 	fagott
+bugle 	trombita
+cello 	cselló / gordonka
+clarinet 	klarinét
+classical guitar (más néven spanish guitar) 	klasszikus gitár / akusztikus gitár
+concert 	koncert
+conductor 	karmester
+cornet 	kürt
+cymbals 	cintányérok
+dj (disc jockey) 	dj
+double bass 	nagybőgő
+drum kit 	dobfelszerelés
+drums 	dobok / dobszerelés
+electric guitar 	elektromos gitár
+electronic keyboard (gyakran úgy rövidítik, hogy keyboard) 	billentyűs hangszer / szintetizátor
+flute 	fuvola
+gong 	gong
+grand piano 	versenyzongora
+guitar 	gitár
+harmonica vagy mouth organ 	szájharmonika
+harp 	hárfa
+horn vagy french horn 	kürt
+musician 	zenész
+oboe 	oboa
+organ 	orgona
+piano 	zongora
+piccolo 	pikoló
+recorder 	furulya
+saxophone 	szakszofon
+snare drum 	pergődob
+sounding 	hangzás
+tambourine 	tamburin (csörgődob)
+triangle 	háromszög
+trombone 	harsona
+trumpet 	trombita
+tuba 	tuba
+ukulele 	ukulele
+viola 	brácsa
+violin 	hegedű
+xylophone 	szilofon

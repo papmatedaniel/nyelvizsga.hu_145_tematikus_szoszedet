@@ -1,0 +1,22 @@
+ammo 	lőszer
+army 	hadsereg
+artificer officer 	hadmérnök
+captain 	százados
+carabine 	karabély
+cavalry 	lovasság
+colonel 	ezredes
+compulsory military service 	hadkötelezettség
+corporal 	tizedes
+discipline 	fegyelem
+division 	szakasz
+endurance 	állóképesség
+ensign 	zászlós
+general 	tábornok
+legion 	hadtest
+lieutenant 	hadnagy
+major 	őrnagy
+private 	sorkatona
+sergeant 	szakaszvezető
+soldier 	katona
+the military industry 	hadipar
+weapon 	fegyver

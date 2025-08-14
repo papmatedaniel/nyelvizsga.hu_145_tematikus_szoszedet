@@ -1,0 +1,47 @@
+beak 	csőr
+bird of prey 	ragadozó madár
+blackbird 	feketerigó
+bluetit 	kék cinege
+buzzard 	ölyv
+chick 	csibe
+crow 	varjú
+cuckoo 	kakukk
+dove 	galamb
+duck 	kacsa
+duckling 	kiskacsa
+eagle 	sas
+egg 	tojás
+falcon 	sólyom
+feathers 	tollak
+finch 	pinty
+flamingo 	flamingó
+hawk 	héja
+heron 	gém
+hummingbird 	kolibri
+kingfisher 	jégmadár
+lunda 	lunda
+magpie 	szarka
+nest 	fészek
+nightingale 	fülemüle
+owl 	bagoly
+peacock 	páva
+pheasant 	fácán
+pigeon 	galamb
+raven 	holló
+robin 	vörösbegy
+seabird 	tengeri madár
+seagull 	sirály
+snow owl 	hóbagoly
+sparrow 	veréb
+stork 	gólya
+swallow 	fecske
+swan 	hattyú
+thrush 	rigó
+titmouse 	cinke
+to fly 	repülni
+to hatch 	kikelni
+toucan 	tukán
+vulture 	keselyű
+wing 	szárny
+woodpecker 	fakopáncs
+wren 	ökörszem

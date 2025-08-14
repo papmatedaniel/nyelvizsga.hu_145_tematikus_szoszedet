@@ -1,0 +1,209 @@
+accountant 	könyvelő
+actor 	színész
+actress 	színésznő
+actuary 	biztosítási matematikus
+advertising executive 	hirdetési ügyintéző
+air traffic controller 	légiforgalmi irányító
+airman / airwoman 	pilóta
+antique dealer 	régiségkereskedő
+archaeologist 	régész
+architect 	építészmérnök
+arms dealer 	fegyverkereskedő
+art dealer 	műkereskedő
+artist 	művész
+baggage handler 	poggyászrakodó
+baker 	pék
+bank clerk 	banktisztviselő
+bank manager 	bank menedzser
+barber 	borbély
+barmaid 	bár pincérnő
+barman 	bár pincér
+barrister 	peres ügyvéd
+bartender 	csapos
+beautician 	kozmetikus
+biologist 	biológus
+bishop 	püspök
+blacksmith 	kovács
+bodyguard 	testőr
+bookkeeper 	könyvelő
+botanist 	botanikus
+bouncer 	kidobóember
+bricklayer 	kőműves
+builder 	építő szakember
+burglar 	betörő
+bus driver 	buszvezető
+businessman 	üzletember
+businesswoman 	üzletasszony
+butcher 	hentes
+buyer 	vevő / vásárló
+carer 	gondozó
+carpenter 	asztalos / ács
+cashier 	pénztáros
+charity worker 	jótékonysági munkás
+chef 	főszakács / séf
+chemist 	vegyész
+chimney sweep 	kéményseprő
+choreographer 	koreográfus
+civil servant 	köztisztviselő
+cleaner 	takarító
+comedian 	komikus
+composer 	dalszerző
+construction manager 	építésvezető
+cook 	szakács
+counsellor 	tanácsos
+customs officer 	vámtisztviselő
+dance teacher vagy dance instructor 	tánctanár
+dancer 	táncos
+database administrator 	adatbázis adminisztrátor
+decorator 	szobafestő
+dentist 	fogorvos
+detective 	nyomozó
+diplomat 	diplomata
+dj (a következő rövidítése: disc jockey) 	lemezlovas
+doctor 	orvos
+driving instructor 	járművezetési oktató
+drug dealer 	drogkereskedő
+economist 	közgazdász
+editor 	szerkesztő
+electrician 	villanyszerelő
+engineer 	mérnök
+estate agent 	ingatlan ügynök
+factory worker 	gyári dolgozó
+farmer 	farmer / gazda
+fashion designer 	divattervező
+film director 	filmrendező
+financial adviser 	pénzügyi tanácsadó
+firefighter (régebben fireman néven hívták) 	tűzoltó
+fisherman 	halász
+fishmonger 	halárus
+fitness instructor 	fitneszedző
+flight attendant (régebben air steward, air stewardess vagy air hostess néven hívták) 	légiutas-kísérő
+florist 	virágkötő
+forger 	hamisító
+gardener 	kertész
+glazier 	üveges
+graphic designer 	grafikus tervező
+greengrocer 	zöldség-gyümölcs árus
+hairdresser 	fodrász
+health and safety officer 	munkavédelmi felügyelő
+hotel manager 	szállodai menedzser
+hotel porter 	szállodai portás
+illustrator 	illusztrátor
+insurance broker 	biztosítási ügynök
+interior designer 	belsőépítész
+interpreter 	tolmács
+investment analyst 	befektetési elemző
+journalist 	újságíró
+judge 	bíró
+lab technician (a következő rövidítése: laboratory technician) 	labortechnikus
+landlord 	főbérlő
+lap dancer 	lap dance táncos
+lawyer 	ügyvéd
+lecturer 	egyetemi tanár / előadó
+librarian 	könyvtáros
+lorry driver 	kamionsofőr
+management consultant 	üzletviteli tanácsadó
+manager 	menedzser
+marketing director 	marketing igazgató
+martial arts instructor 	harcművészeti oktató
+masseur 	masszőr (férfi)
+masseuse 	masszőr (nő)
+mechanic 	szerelő (autószerelő)
+mercenary 	zsoldos
+meteorologist 	meterológus
+midwife 	szülésznő
+miner 	bányász
+model 	modell
+music teacher 	zenetanár
+musician 	zenész
+nanny 	dada
+newsreader 	hírolvasó
+nurse 	nővér
+office worker 	irodai dolgozó
+optician 	szemész
+pa (a következő rövidítése: personal assistant) 	személyi titkár
+painter 	festőművész
+paramedic 	mentős
+personal trainer 	személyi edző
+pest controller 	kártevőirtó
+pharmacist vagy chemist 	gyógyszerész
+photographer 	fényképész
+physicist 	fizikus
+physiotherapist 	fizikoterápiai szakorvos
+pickpocket 	zsebtolvaj
+pilot 	pilóta
+pimp 	kerítő
+plasterer 	vakoló
+playwright 	színműíró / drámaíró
+plumber 	vízvezeték-szerelő
+poet 	költő
+police officer (régebben policeman vagy policewoman néven hívták) 	rendőr
+politician 	politikus
+postman 	postás
+priest 	pap
+prison officer 	börtönőr
+private detective 	magánnyomozó
+professional footballer 	hivatásos futballista
+programmer 	programozó
+project manager 	projektmenedzser
+property developer 	ingatlanfejlesztő
+prostitute 	prostituált
+psychiatrist 	pszihológus
+pub landlord 	kocsmáros
+receptionist 	recepciós
+recruitment consultant 	fejvadász
+refuse collector (közismert nevén bin man) 	kukás
+researcher 	kutató
+roofer 	tetőfedő
+sailor 	tengerész
+sales assistant 	eladó aszisztens
+sales rep (a következő rövidítése: sales representative) 	üzletkötő
+salesman / saleswoman 	eladó / eladónő
+scientist 	tudós
+sculptor 	szobrász
+sea captain vagy ship’s captain 	hajóskapitány
+secretary 	titkár / titkárnő
+security officer 	biztonsági őr
+shop assistant 	üzleti aszisztens
+shopkeeper 	üzletvezető
+singer 	énekes
+smuggler 	csempész
+social worker 	szociális gondozó
+software developer 	szoftverfejlesztő
+soldier 	katona
+solicitor 	közjegyző
+sportsman 	sportoló (férfi)
+sportswoman 	sportoló (nő)
+stockbroker 	bróker
+stonemason 	kőfaragó
+store detective 	áruházi nyomozó
+store manager 	üzlet menedzser
+stripper 	sztriptíztáncos
+surgeon 	sebész
+surveyor 	földmérő
+tailor 	szabó
+tattooist 	tetováló
+taxi driver 	taxisofőr
+teacher 	tanár
+teaching assistant 	segédtanár
+telephonist 	telefonkezelő
+television producer 	televíziós producer
+thief 	tolvaj
+tiler 	hidegburkoló
+tour guide vagy tourist guide 	idegenvezető
+train driver 	vonatvezető
+translator 	fordító
+travel agent 	utazási ügynök
+tv presenter 	tv-s műsorvezető
+undertaker 	temetkezési vállalkozó
+vet vagy veterinary surgeon 	állatorvos
+vicar 	plébános
+waiter 	pincér
+waitress 	pincérnő
+weather forecaster 	meterológus
+web designer 	webtervező
+web developer 	webfejlesztő
+welder 	hegesztő
+window cleaner 	ablaktisztító
+wine merchant 	borkereskedő
+writer 	író

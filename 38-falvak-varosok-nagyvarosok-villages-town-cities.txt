@@ -1,0 +1,51 @@
+50 kilometres south of the capital 	50 km-re a fővárostól délre
+agricultural area 	mezőgazdasági vidék
+cathedral 	székesegyház
+chain bridge 	lánchíd
+compass 	iránytű
+county 	megye
+elizabeth bridge 	erzsébet híd
+has a population of … 	… népessége van
+heroes’ square 	hősök tere
+in the east 	keleten
+in the north 	északon
+in the south 	délen
+in the west 	nyugaton
+industrial area 	ipari vidék
+is famous for 	híres vmiről
+known for 	ismert vmiről
+localization 	elhelyezkedés
+map 	térkép
+margaret island 	margitsziget
+matthias church 	mátyás-templom
+monument 	emlékmű
+museum 	múzeum
+statue 	szobor
+the baths 	fürdők
+the buda hills 	a budai hegyek
+the castle district 	várnegyed
+the castle hill 	vár
+the citadel 	citadella
+the city park 	városliget
+the countryside 	vidék
+the danube bank 	duna-part
+the danube bend 	dunakanyar
+the fishermen’s bastion 	halászbástya
+the great hungarian plain 	alföld
+the hungarian national gallery 	nemzeti galéria
+the liberty monument 	szabadság-szobor
+the millenary monument 	millenniumi emlékmű
+the museum of fine arts 	szépművészeti múzeum
+the national museum 	nemzeti múzeum
+the parliament building 	parlament
+the royal palace 	királyi palota
+the sights 	látnivalók
+the sights of budapest and hungary 	budapest és magyarország nevezetességei
+the tunnel 	alagút
+the zoo 	állatkert
+to the north-east 	északkeleten
+to the north-west 	északnyugaton
+to the south-east 	délkeleten
+to the south-west 	délnyugaton
+tourist attraction 	turisztikai látványosság
+transdanubia 	dunántúl

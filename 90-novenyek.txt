@@ -1,0 +1,95 @@
+alder 	éger
+apple tree 	almafa
+ash 	kőrisfa
+banana tree 	banánfa
+bark 	kéreg
+beech 	bükk
+berry 	bogyó
+birch 	nyírfa
+blossom 	virág
+bluebell 	harangvirág
+bouquet of flowers vagy flower bouquet 	virágcsokor
+bracken 	páfrány
+brambles 	szeder
+branch 	ág
+bud 	bimbó/rügy
+bush 	bokor / bozót
+buttercup 	boglárka
+cactus (többesszáma: cacti) 	kaktusz (kaktuszok)
+carnation 	szegfű
+cedar 	cédrus
+cherry tree 	meggy-/cseresznyefa
+chestnut tree 	gesztenye
+coconut tree 	kókuszpálma
+coniferous 	tűlevelű
+corn 	kukorica
+daffodil 	nárcisz
+dahlia 	dália
+daisy 	margaréta
+dandelion 	gyermekláncfű / pitypang
+deciduous 	lombhullató
+elm 	szilfa
+evergreen 	örökzöld
+fern 	páfrány
+fig tree 	fügefa
+fir 	erdei fenyő
+flower 	virág
+forget-me-not 	nefelejcs
+fruit tree 	gyümölcsfa
+fungus (többesszáma: fungi) 	gomba (gombák)
+geranium 	muskátli
+gladiolus 	kardvirág
+grass 	fű
+hawthorn 	galagonya
+hazel 	mogyoró
+heather 	hanga
+hedge 	sövény
+herb 	fűszernövény
+ivy 	borostyán
+jacinth 	jácint
+leaf 	levél
+lily 	liliom
+lime 	hársfa
+maple 	juharfa
+moss 	moha
+mushroom 	gomba
+nettle 	csalán
+oak 	tölgy
+olive tree 	olajfa
+orchid 	orchidea
+palm tree 	pálmafa
+pansy 	árvácska
+peach tree 	barackfa
+pear tree 	körtefa
+petal 	szirom
+pine 	fenyő
+pine cone 	fenyőtoboz
+plane 	platán
+plum tree 	szilvafa
+pollen 	pollen
+pomegranate tree 	gránátalmafa
+poplar 	nyár
+poppy 	pipacs
+primrose 	primula / kankalin
+root 	gyökér
+rose 	rózsa
+sap 	nedv
+shrub 	bokor
+snowdrop 	hóvirág
+stalk 	szár
+sunflower 	napraforgó
+sycamore 	platánfa
+thistle 	bogáncs
+thorn 	tövis
+toadstool 	mérgesgomba
+tree 	fa
+tree stump vagy stump 	fatuskó vagy tuskó
+trunk 	törzs
+tulip 	tulipán
+twig 	gally
+waterlily 	vízililiom
+weed 	gaz
+wheat 	búza
+wild flower 	vadvirág
+willow 	fűzfa
+yew 	tiszafa

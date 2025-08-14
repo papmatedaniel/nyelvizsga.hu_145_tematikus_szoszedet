@@ -1,0 +1,170 @@
+academy of dramatic and cinematographic art 	színház- és filmművészeti egyetem
+academy of fine arts 	képzőművészeti egyetem
+academy of music 	zeneakadémia
+advanced level exam 	felsőfokú vizsga
+answer 	válasz
+arithmetic 	számtan
+art college 	képzőművészeti főiskola
+art/arts 	history of art
+assembly 	iskolai gyűlés
+attendance 	jelenlévők
+bachelor’s degree 	bsc fokozat
+biology 	biológia
+blackboard 	iskolatábla
+boarding school 	bentlakásos iskola
+break 	szünet
+calculator 	számológép
+certificate 	oklevél
+chalk 	kréta
+changing room 	öltöző
+class 	osztály
+classroom 	osztályterem
+cloakroom 	ruhatár
+college of finance and accountancy 	pénzügyi és számviteli főiskola
+college of foreign trade 	külkereskedelmi főiskola
+college of trade, tourism and catering 	kereskedelmi és vendéglátó-ipari főiskola
+computer room 	számítógépes terem
+computer science 	informatika
+course 	kurzus
+curriculum 	tananyag
+debate 	vita
+degree 	egyetemi diploma
+desk 	iskolapad
+dissertation 	disszertáció
+entrance exam 	felvételi vizsga
+essay vagy paper 	esszé
+exam (a következő rövidítése: examination) 	vizsga
+exam results 	vizsga eredmények
+exercise book 	füzet
+eötvös loránd university 	eötvös loránd tudományegyetem
+faculty of arts 	bölcsészettudományi kar
+faculty of law 	jogi kar
+faculty of science 	természettudományi kar
+foreign languages 	idegen nyelvek
+gcse 	a-levels =
+geography 	földrajz
+grade 	osztályzat
+graduate 	egyetemet végzett
+gym (a következő rövidítése: gymnasium) 	tornaterem
+half term 	félévi iskolai szünet
+hall of residence 	kollégium
+head boy 	a diákokat kéviselő vezető fiú
+head girl 	a diákokat képviselő vezető lány
+head teacher 	igazgató
+headmaster 	igazgató
+headmistress 	igazgatónő
+higher education 	felsőoktatás
+history 	történelem
+homework 	házifeladat
+intermediate level exam 	középfokú vizsga
+laboratory (gyakran úgy rövidítik, hogy lab) 	laboratórium
+language lab (a következő rövidítése: language laboratory) 	nyelvi labor
+lecture 	előadás
+lecture hall 	előadóterem
+lecturer 	előadó
+lesson 	tanóra
+library 	könyvtár
+locker 	öltözőszekrény
+ma 	bölcsészdoktorátus
+mark 	osztályzat
+marker pen vagy marker 	filctoll
+master’s degree 	mesterfokozat
+masters student 	mester hallgató
+maths/mathematics/math 	science/physics/chemistry
+medical school/university of medicine 	orvosi egyetem
+mistake vagy error 	hiba
+msc 	a természettudományok magisztere
+nursery school 	óvoda
+oral exam 	szóbeli vizsga
+pe 	testnevelés
+pen 	toll
+pencil 	ceruza
+phd 	bölcsészdoktor
+phd student 	doktorandusz
+philosophy 	filozófia
+playground 	játszótér
+playing field 	sportpálya
+post-graduate vagy post-graduate student 	posztgraduális hallgató
+postgraduate (course) 	másoddiplomás képzés
+prefect 	prefektus
+primary school 	általános iskola
+private school vagy independent school 	privát iskola
+professor 	professzor
+projector 	kivetítő
+pupil 	tanuló
+qualification 	végzettség
+question 	kérdés
+reading 	olvasás
+register 	nyilvántartás
+research 	kutatás
+researcher 	kutató
+right vagy correct 	jó
+school 	iskola
+school dinners 	menza
+school governor vagy governor 	iskolai igazgató
+school holidays 	iskolai szünet
+school meals 	iskolai étkeztetés
+school of veterinary sciences 	állatorvos-tudományi egyetem
+secondary school 	középiskola
+semester 	félév, szemeszter
+seminar 	szeminárium
+singing/music 	re =
+sixth-form college 	a középiskola szabadon választható utolsó általában két éve
+spelling 	betűzés
+sports hall 	sportcsarnok
+state school 	állami iskola
+student 	diák
+student loan 	diák kölcsön
+student union 	hallgatói önkormányzat
+subject 	tantárgy
+teacher 	tanár
+teacher training college 	tanárképző főiskola
+technical college 	műszaki főiskola
+technical university/college of technology 	műszaki egyetem
+term 	félév
+test 	teszt
+textbook 	tankönyv
+thesis 	szakdolgozat
+to apply for admission to … 	jelentkezik vhová
+to be admitted to … 	felveszik vhová
+to be rejected 	elutasítják, nem veszik fel vhová
+to cram 	magol
+to fail an exam 	megbukni a vizsgán
+to get a grant 	ösztöndíjat kap
+to get a place at … 	felveszik
+to get a scholarship 	ösztöndíjat kap
+to go on to college 	főiskolára megy továbbtanulni
+to go on to university 	egyetemre megy továbbtanulni
+to graduate from university 	diplomázik az egyetemen
+to learn 	megtanulni
+to pass an exam 	átmegy a vizsgán
+to prepare for an exam 	felkészül a vizsgára
+to qualify as a (doctor) 	(orvosi) képesítést szerez
+to read 	olvasni
+to revise 	ismételni
+to scrape through an exam 	átcsúszik a vizsgán
+to sit an exam 	vizsgázni
+to sit for an exam 	vizsgázik
+to spell 	betűzni
+to study 	tanulni
+to swot 	magol
+to take a degree in (medicine) 	diplomát szerez (orvostudományból)
+to take an exam 	vizsgázik
+to take one’s final exams 	érettségizik
+to take one’s school leaving exams 	érettségizik
+to teach 	tanítani
+to write 	írni
+training college for kindergarten teachers 	óvónőképző főiskola
+tuition fees 	tandíj
+undergraduate 	egyetemi hallgató
+university 	egyetem
+university campus 	egyetemi campus
+university of agronomics/ university of agriculture 	agrártudományi egyetem
+university of economics 	közgazdaságtudományi egyetem
+university of forestry 	erdészeti egyetem
+university of horticulture 	kertészeti egyetem
+vocational college 	szakiskola
+whiteboard 	fehértábla
+writing 	írás
+written exam 	írásbeli vizsga
+wrong 	hibás

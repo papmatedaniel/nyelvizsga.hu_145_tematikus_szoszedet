@@ -1,0 +1,56 @@
+ankle 	boka
+arm 	kar
+armpit 	hónalj
+back 	hát
+backbone 	gerinc
+behind 	fenék
+belly 	has
+bottom 	fenék
+breast 	mell
+bum (szleng) 	fenék
+buttocks 	tompor
+calf 	vádli
+cheek 	arc, orca
+chest 	mellkas
+chin 	áll
+ear 	fül
+elbow 	könyök
+eye 	szem
+eyeball 	szemgolyó
+eyebrow 	szemöldök
+eyelashes 	szempilla
+eyelid 	szemhéj
+finger 	ujj
+foot (többesszáma: feet) 	lábfej (lábfejek)
+forearm 	alkar
+forefinger 	mutatóujj
+forehead 	homlok
+hair 	haj
+hand 	kéz
+head 	fej
+heart 	szív
+heel 	sarok
+hip 	csípő
+knee 	térd
+leg 	láb
+limb 	végtag
+lip 	ajak
+mouth 	száj
+nape 	tarkó
+neck 	nyak
+nose 	orr
+penis 	pénisz
+rib cage 	mellkas
+shoulder 	váll
+skin 	bőr
+sole 	talp
+testicles 	herék
+thigh 	comb
+toe 	lábujj
+tooth 	fog
+trunk 	törzs
+tummy 	pocak
+upper arm 	felkar
+vagina 	vagina
+waist 	derék
+wrist 	csukló

@@ -1,0 +1,46 @@
+(natural) parents 	édesszülők
+aunt 	nagynéni
+boyfriend 	barát/fiúbarát
+brothers and sisters 	testvérek
+child (többesszáma: children) 	gyermek
+close relative/relation 	közeli rokon
+cousin 	unokatestvér
+daughter 	lány gyermek
+daughter-in-law 	meny
+distant relative/relation 	távoli rokon
+father 	apa
+father-in-law 	após
+fiancé 	vőlegény
+fiancée 	menyasszony
+foster father 	nevelőapa
+foster mother 	nevelőanya
+girlfriend 	barátnő
+goddaughter 	keresztlánya vkinek
+godfather 	keresztapa
+godmother 	keresztanya
+godparents 	keresztszülők
+godson 	keresztfia vkinek
+granddaughter 	lány unoka
+grandfather 	nagyapa
+grandmother 	nagyanya
+grandparents 	nagyszülők
+grandson 	fiú unoka
+half-brother 	fiú féltestvér
+half-sister 	lány féltestvér
+mother 	anya
+mother-in-law 	anyós
+nephew 	unokaöcs
+niece 	unokahúg
+on one’s father’s side 	apai ágon
+on one’s mother’s side 	anyai ágon
+only child 	egyke
+sister-in-law 	sógornő
+son 	fiú gyermek
+son-in-law 	vő
+stepbrother 	mostoha (fiú) testvér
+stepfather 	mostohaapa
+stepmother 	mostohaanya
+stepsister 	mostoha (lány) testvér
+the in-laws 	a házasság révén létrejött kapcsolatok
+twin 	iker
+uncle 	nagybácsi

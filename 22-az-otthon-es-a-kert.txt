@@ -1,0 +1,88 @@
+attic 	tetőtér
+axe 	balta
+back door 	hátsó ajtó
+back garden 	hátsó kert
+bath 	fürdő
+bathroom 	fűrdőszoba
+bedroom 	hálószoba
+ceiling 	plafon
+cellar 	pince
+central heating 	központi fűtés
+chimney 	kémény
+clothes line 	ruhaszárító kötél
+conservatory 	üvegház
+cook-house 	nyári konyha
+dining room 	étkező
+door 	ajtó
+doorbell 	ajtócsengő
+double glazing 	dupla falú ablaküveg
+downstairs 	földszint
+drain 	csatorna / eresz
+drainpipe 	esőcsatorna
+drive 	kocsifeljáró
+dustbin 	kuka
+electricity bill 	elektromossági számla
+fence 	kerítés
+fireplace 	kandalló
+floor 	padló
+flower bed 	virágágyás
+flowerpot 	virágcserép
+flowers 	virágok
+fork 	villa / vasvilla
+front door 	bejárati ajtó
+front garden 	első kert
+garage 	garázs
+garden furniture 	kerti bútor
+gas bill 	gáz számla
+gate 	kapu
+gravel 	sóder
+greenhouse 	üvegház
+guttering 	ereszcsatorna
+hall 	előszoba
+hanging basket 	függőkosár
+hedge 	sövény
+hoe 	kapa
+hose vagy hosepipe 	öntözőcső
+kitchen 	konyha
+landing 	lépcsőforduló
+lavatory 	mosdó
+lawn 	gyep
+lawn mower 	fűnyíró
+letterbox 	levelesláda
+living room 	nappali
+loft 	padlás
+logs 	farönkök
+lounge 	társalgó
+orchard 	gyümölcsös
+path 	kerti ösvény
+patio 	terasz
+plants 	növények
+play-room 	játszószoba
+pond 	tavacska / kis tó
+rake 	gereblye
+roof 	tető
+secateurs 	metszőolló
+shears 	kerti ollló
+shed 	kerti fabódé / kerti szerszámok raktára
+shower 	zuhany
+shower room 	zuhanyzó helyiség
+spade 	ásó
+staircase 	lépcső
+stairs 	lépcső
+study 	dolgozó szoba
+swimming pool 	úszómedence
+swing 	hinta
+telephone bill 	telefon számla
+to do the housework 	elvégezni a házimunkát
+to mow the lawn 	megnyírni a füvet
+toilet 	toalett
+trampoline 	trambulin
+upstairs 	emelet
+vegetable garden 	zöldségek
+wall 	fal
+water bill 	víz számla
+watering can 	öntözőkanna
+wc 	wc
+weeds 	gaz
+wheelbarrow 	talicska
+window 	ablak

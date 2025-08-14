@@ -1,0 +1,29 @@
+adolescent 	kamasz
+adult 	felnőtt
+baby 	baba
+child 	gyerek
+critical age 	változó kor
+elder 	felmenők
+elderly lady 	idős hölgy
+elderly man 	idős férfi
+elderly person 	idős ember
+fifty years old 	ötven éves
+forty years old 	negyven éves
+grown-up 	felnőtt
+in your early teens / twenties / thirties 	tízes / húszas / harmincas éveid elején
+in your mid teens / twenties / thirties 	tízes / húszas / harmincas éveid közepén
+kid 	gyerek, kölyök
+middle-aged lady 	középkorú hölgy
+middle-aged man 	középkorú férfi
+middle-aged person 	középkorú ember
+old man 	aggastyán
+pensioner 	nyugdíjas
+teenager 	tinédzser
+ten years old 	tíz éves
+thirty years old 	harminc éves
+toddler 	totyogó
+twenty years old 	húsz éves
+undergraduate 	egyetemista
+young lady 	fiatal hölgy
+young man 	fiatal férfi
+young person 	fiatalember

@@ -1,0 +1,178 @@
+abortion 	abortusz
+acne 	pattanás
+aids (a következő rövidítése: acquired immunodeficiency syndrome) 	aids
+allergic reaction 	allergiás reakció
+allergy 	allergia
+amnesia 	amnézia
+anaesthetic 	érzéstelenítő
+anaesthetist 	altatóorvos
+antibiotics 	antibiotikum
+appendicitis 	vakbélgyulladás
+appointment 	időpont
+arthritis 	arthritisz
+asthma 	aszma
+asthmatic 	asztmás
+athlete’s foot 	lábgombásodás
+backache 	hátfájás
+bandage 	kötszer
+bleeding 	vérzés
+blind 	vak
+blister 	hólyag
+blood pressure 	vérnyomás
+blood sample 	vérminta
+broken (például broken bone, broken arm vagy broken leg) 	törött (csont / kar / láb)
+bruise 	zúzódás
+cancer 	rák
+chest pain 	mellkasi fájdalom
+chicken pox 	bárányhimlő
+cold 	megfázás
+cold sore 	szájherpesz
+concussion 	agyrázkódás
+conjunctivitis 	kötőhártya-gyulladás
+constipation 	szorulás
+consultant 	konzulens
+contraception 	fogamzásgátlás
+corn 	tyúkszem
+cough 	köhögés
+cramp 	görcs
+crutches 	mankó
+cut 	vágás
+deaf 	süket
+dehydration 	kiszáradás (dehidráció)
+dementia 	demencia
+depression 	depresszió
+diabetes 	cukorbetegség
+diarrhoea 	hasmenés
+disabled 	fogyatékkal élő
+disease 	betegség
+dizziness 	szédülés
+doctor 	orvos
+drip 	infúzió
+dyslexia 	diszlexia
+earache 	fülfájás
+eating disorder 	táplálkozási rendellenesség
+eczema 	ekcéma
+epilepsy 	epilepszia
+epileptic 	epilepsziás
+fatigue 	fáradtság
+fever 	láz
+flu (a következő rövidítése: influenza) 	influenza
+food poisoning 	ételmérgezés
+fracture 	csonttörés
+frostbite 	fagyás
+glandular fever 	mirigyláz
+gp (a következő rövidítése: general practitioner) 	háziorvos
+graze 	horzsolás
+gynecologist 	nőgyógyász
+haemophilia 	vérzékenység
+haemophiliac 	hemofíliás
+haemorrhoids (más néven piles) 	aranyér
+hair loss vagy alopecia 	hajhullás
+hay fever 	szénanátha
+headache 	fejfájás
+hearing aid 	hallókészülék
+heart attack 	szívroham
+heart disease 	szívbetegség
+heartburn 	gyomorégés
+heat stroke 	napszúrás
+hepatitis 	hepatitis
+hernia 	sérv
+high blood pressure vagy hypertension 	magas vérnyomás
+hiv (a következő rövidítése: human immunodeficiency virus) 	hiv
+hospital 	kórház
+hypothermia 	hipotermia
+ill 	beteg
+indigestion 	emésztési zavar
+infected 	fertőzött
+infection 	fertőzés
+inflamed 	gyulladt
+inflammation 	gyulladás
+ingrown toenail 	benőtt lábköröm
+injection 	injekció
+injury 	sérülés
+insomnia 	álmatlanság
+jaundice 	sárgaság
+leukaemia 	leukémia
+low blood pressure vagy hypotension 	alacsony vérnyomás
+lump 	daganat
+lung cancer 	tüdőrák
+malaria 	malária
+measles 	kanyaró
+medicine 	orvosság
+meningitis 	agyhártyagyulladás
+migraine 	migrén
+miscarriage 	vetélés
+morning sickness 	terhességi rosszullét
+mumps 	mumpsz
+nausea 	hányinger
+nosebleed 	orrvérzés
+nurse 	nővér
+obesity 	elhízás
+operating theatre 	műtő
+operation 	operáció
+pain 	fájdalom
+painful 	fájdalmas
+paralysed 	bénült
+partially sighted 	gyengénlátó
+patient 	beteg/páciens
+physiotherapy 	fizioterápia
+pill 	pirula
+pneumonia 	tüdőgyulladás
+polio 	gyermekbénulás
+pregnancy 	terhesség
+pregnant 	terhes
+prescription 	recept
+pulse 	pulzus
+pus 	genny
+rabies 	veszettség
+radiographer 	röntgenorvos
+rash 	kiütés
+rheumatism 	reuma
+scar 	heg
+schizophrenia 	skizofrénia
+sleep 	alvás
+sling 	felkötés
+slipped disc 	porckorongsérv
+sore throat 	torokfájás
+splint 	végtagrögzítő sín
+splinter 	szálka
+spots 	pattanások
+sprain 	ficam
+stitches 	varrat
+stomach ache 	gyomorfájás
+stress 	stressz
+stroke 	agyvérzés (agyi érkatasztrófa / szélütés)
+sunburn 	leégés
+suppository 	végbélkúp
+surgeon 	sebész
+surgery 	műtő
+swelling 	duzzadás
+swollen 	megduzzadt
+tablet 	tabletta
+temperature 	hőmérséklet
+to be ill 	betegnek lenni
+to be sick 	nincs jól
+to bleed 	vérezni
+to catch a cold 	megfázni
+to cough 	köhögni
+to feel sick 	rosszul érezni magát
+to give birth 	megszülni
+to heal 	gyógyulni
+to hurt 	fájni
+to limp 	bicegni
+tonsillitis 	mandulagyulladás
+tuberculosis 	tuberkulózis
+typhoid fever vagy typhoid 	tífusz
+ulcer 	fekély
+unconscious 	eszméletlen
+unwell 	nem érzi jól magát
+urine sample 	vizeletminta
+vaccination 	oltás
+virus 	vírus
+waiting room 	váróterem
+ward 	kórterem
+wart 	szemölcs
+well 	jól van
+wheelchair 	kerekesszék
+wound 	seb
+x-ray 	röntgen

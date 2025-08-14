@@ -1,0 +1,76 @@
+aftershave 	borotválkozás utáni arcszesz
+antiseptic 	antiszeptikus anyag
+aspirin 	aszpirin
+baby foods 	babaételek
+baby wipes 	babatörlőkendő
+bandages 	kötszerek
+comb 	fésű
+conditioner 	hajkondicionáló
+condoms 	óvszerek
+contact lens solution 	kontaktlencse tisztító
+cotton wool 	vatta
+cough mixture 	köptető
+dental floss 	fogselyem
+deodorant 	dezodor
+diarrhoea tablets 	hasmenés elleni tabletta
+disposable nappies 	eldobható pelenkák
+eye drops 	szemcsepp
+eyeliner 	szemceruza
+eyeshadow 	szemhéjfesték
+face mask 	arcvédő maszk
+face powder 	arcpúder
+first aid kit 	elsősegélykészlet
+foundation 	alapozó
+hair colouring vagy hair dye 	hajfesték
+hair gel 	hajzselé
+hair spray 	hajlakk
+hair wax 	hajvax
+hairbrush 	hajkefe
+hand cream 	kézkrém
+hand sanitizer 	kézfertőtlenítő
+hay fever tablets 	szénanátha tabletta
+hot water bottle 	ágymelegítő (melegvíz tároló tasak)
+indigestion tablets 	tabletta gyomorrontásra
+laxatives 	hashajtó
+lip balm vagy lip salve 	szájbalzsam
+lip gloss 	szájfény
+lipstick 	rúzs
+make-up 	smink
+mascara 	szempillafesték
+medicine 	orvosság
+moisturising cream 	testápoló krém
+mouthwash 	szájvíz
+nail file 	körömreszelő
+nail scissors 	körömvágó olló
+nail varnish 	körömlakk
+nail varnish remover 	körömlakklemosó
+nicotine patches 	nikotintapaszok
+painkillers 	fájdalomcsillapító
+panty liners 	tisztasági betét
+paracetamol 	paracetamol
+plasters 	tapasz
+powder 	púder
+pregnancy testing kit 	terhességi teszt
+prescription 	orvosi recept
+razor 	borotva
+razorblade 	borotvapenge
+safety pins 	biztosítótű
+sanitary towels 	egészségügyi betét
+shampoo 	sampon
+shaving brush 	borotvapamacs
+shaving cream 	borotvakrém
+shaving foam 	borotvahab
+shaving gel 	borotvagél
+shower gel 	fürdő-gél
+sleeping tablets 	altató tabletták
+soap 	szappan
+sun block 	napozás elleni krém
+sun cream 	naptej
+tampons 	tampon
+thermometer 	hőmérő
+throat lozenges 	torokcukorkák
+tissues 	zsebkendők
+toothbrush 	fogkefe
+toothpaste 	fogkrém
+tweezers 	csipesz
+vitamin pills 	vitamintabletták

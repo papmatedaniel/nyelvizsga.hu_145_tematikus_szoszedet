@@ -1,0 +1,32 @@
+cat 	macska
+chameleon 	kaméleon
+chinchilla 	csincsilla
+dog 	kutya
+finch 	pinty
+gecko 	gekkó
+goldfish (többesszáma: goldfish) 	aranyhal
+guinea pig 	tengeri malac
+hamster 	hörcsög
+hedgehog 	sün
+horse 	ló
+kitten 	kiscica
+lead 	póráz
+miaow! 	nyau!
+mouse 	egér
+parrot 	papagáj
+pony 	póniló
+puppy 	kiskutya
+rabbit 	nyúl
+snake 	kígyó
+spider 	pók
+squirrel 	mókus
+to bark 	ugatni
+to bite 	harapni
+to keep a pet 	háziállatot tartani
+to ride a horse 	lovagolni
+to ride a pony 	pónilovon lovagolni
+to train 	idomítani
+to walk the dog vagy to take the dog a walk 	kutyát sétáltatni/elvinni a kutyát sétálni
+tropical fish (többesszáma: tropical fish) 	trópusi hal, trópusi halak
+turtle 	teknős
+woof! 	vau!

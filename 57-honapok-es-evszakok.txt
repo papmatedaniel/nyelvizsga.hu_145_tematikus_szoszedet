@@ -1,0 +1,38 @@
+april 	április
+august 	augusztus
+autumn (amerikai angol: fall) 	ősz
+december 	december
+february 	február
+from april 	áprilistól
+from february 	februártól
+from january 	januártól
+from march 	márciustól
+from may 	májustól
+in april 	áprilisban
+in august 	augusztusban
+in autumn 	ősszel
+in december 	decemberben
+in fall (amerikai angol) 	ősszel
+in february 	februárban
+in january 	januárban
+in july 	júliusban
+in june 	júniusban
+in march 	márciusban
+in may 	májusban
+in november 	novemberben
+in october 	októberben
+in september 	szeptemberben
+in spring 	tavasszal
+in summer 	nyáron
+in winter 	télen
+january 	január
+july 	július
+june 	június
+march 	március
+may 	május
+november 	november
+october 	október
+september 	szeptember
+spring 	tavasz
+summer 	nyár
+winter 	tél

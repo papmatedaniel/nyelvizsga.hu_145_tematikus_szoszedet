@@ -1,0 +1,35 @@
+actualities 	jelenlegi helyzet
+authority 	hatóság
+bankruptcy 	csőd
+cabinet 	kormány
+commerce 	kereskedelem
+consumer 	fogyasztó
+data 	adat
+diseconomy 	gazdaságtalanság
+economic situation 	gazdasági helyzet
+economy 	gazdálkodás
+employer 	munkáltató
+enterprise 	vállalat
+factory 	gyár
+finance 	pénzügy
+firm 	cég
+heavy industry 	nehézipar
+industry 	ipar
+infrastructure 	infrastruktúra
+insolvency 	fizetésképtelenség
+international 	nemzetközi
+issue bank 	jegybank
+light industry 	könnyűipar
+living 	megélhetés
+marketable 	piacképes
+measure 	intézkedés
+method 	módszer
+output 	termelés
+salary 	fizetés
+satisfaction 	elégedettség
+sector 	gazdasági szektor
+state 	állam
+stock exchange 	tőzsde
+strategy 	stratégia
+tax 	adó
+work 	munka

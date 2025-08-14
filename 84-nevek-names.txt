@@ -1,0 +1,12 @@
+alias 	álnév
+christian name 	keresztnév
+family name 	családi név
+first name 	keresztnév
+forbidden name 	tiltott név
+full name 	teljes név
+geographical name 	földrajzi elnevezés
+maiden name 	leánykori név
+name of the city 	a város neve
+name of the country 	az ország neve
+proper name 	tulajdonnév
+surname 	vezetéknév

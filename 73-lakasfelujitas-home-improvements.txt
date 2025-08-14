@@ -1,0 +1,22 @@
+call an expert 	szakembert hív
+drywall compound 	glett
+expert 	szakember
+hammer 	kalapál
+mix concrete 	betont kever
+rivet 	szegecsel
+screw a piece home 	helyére csavaroz valamit
+tapestry 	tapéta
+to convert 	átalakít
+to decorate 	fest, tapétáz
+to do up 	tataroz
+to furnish 	berendez
+to have something fitted 	bevezettet vmit
+to have something fixed 	megjavíttat vmit
+to have something installed 	bevezettet vmit
+to have something repaired 	megjavíttat vmit
+to make improvements 	javításokat végez
+to modernise 	modernizál, felújít
+to move house 	költözik
+to redecorate 	újrafest és -tapétáz
+to refurbish 	felújít
+to renovate 	felújít, tataroz

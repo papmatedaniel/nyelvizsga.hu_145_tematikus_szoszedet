@@ -1,0 +1,57 @@
+accelerator 	gázpedál
+air conditioning 	légkondicionáló
+automatic 	autómata sebváltó
+back seat 	hátsó ülés
+battery 	akkumulátor
+bonnet 	motorháztető
+boot 	csomagtartó
+brake light 	féklámpa
+brake pedal 	fékpedál
+brakes 	fék
+bumper 	lökhárító
+central locking 	központi zár
+child seat 	gyermekülés
+cigarette lighter 	szivargyújtó
+clutch 	kuplung
+clutch pedal 	kuplungpedál
+dashboard 	műszerfal
+engine 	motor
+exhaust 	kipufogó
+exhaust pipe 	kipufogócső
+fan belt 	ékszíj
+front seat 	első ülés
+fuel gauge 	üzemanyagszint-jelző
+fuel tank 	üzemanyagtartály
+gear box 	sebességváltó
+gear stick 	sebességváltókar
+glove compartment 	kesztyűtartó
+handbrake 	kézifék
+hazard lights 	vészjelző lámpa
+headlamp 	első lámpa
+headlamps 	fényszórók (első lámpák)
+headlights 	fényszórók (első lámák)
+heater 	fűtő
+ignition 	gyújtás
+indicator 	index
+manual 	manuális sebváltó
+number plate 	rendszám
+passenger seat 	utasülés
+petrol tank 	benzintartály
+rear view mirror 	visszapillantó tükör
+roof 	tető
+roof rack 	tetőcsomagtartó
+seatbelt 	biztonsági öv
+sidelights 	oldalsó lámpa
+spare wheel 	pótkerék
+spark plug 	gyertya (autóban)
+speedometer 	sebességmérő
+steering wheel 	kormány
+tow bar 	vontatórúd
+tyre 	kerékgumi
+warning light 	figyelmeztető lámpa
+wheel 	kerék
+window 	ablak
+windscreen 	szélvédő
+windscreen wiper 	ablaktörlő
+windscreen wipers 	ablaktörlők
+wing mirror 	oldalsó visszapillantó tükör

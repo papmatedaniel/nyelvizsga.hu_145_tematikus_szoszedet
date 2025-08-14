@@ -1,0 +1,91 @@
+(auto)bio graphy 	(ön)életrajz
+a book about … 	egy könyv vmiről
+a book on … 	egy könyv vmiről
+adventure 	kaland(regény)
+author 	szerző
+bookmark 	könyvjelző
+broadsheet 	minőségi, színvonalas újság
+comedy 	komédia, vígjáték
+comic 	vicclap
+comic book 	képregény
+cookbook 	szakácskönyv
+crime story 	krimi
+daily 	napilap
+daily newspaper 	napilap
+dictionary 	szótár
+drama 	dráma
+dramatist 	színműíró
+editorial 	vezércikk
+educational book 	nevelési célzatú, oktatási könyv
+evening paper 	esti újság
+fairy tale 	tündérmese
+fiction 	szépirodalom
+genre 	műfaj
+guide(book) 	útikönyv, útikalauz
+hero 	hős
+heroine 	hősnő
+historical novel 	történelmi regény
+horror story 	rémtörténet
+humorous reading 	tréfás, humoros olvasmány
+journal 	folyóirat
+journalist 	újságíró
+leading article 	vezércikk
+light reading 	könnyű olvasmány
+local paper 	helyi újság
+magazine 	magazin
+main characters 	főszereplők
+memoirs 	emlékirat
+message of the story 	mondanivaló, üzenet
+minor characters 	mellékszereplők
+moral of the story 	mondanivaló, tanulság
+name of a book 	egy könyv címe
+national paper 	országos napilap
+non-fiction 	tényirodalom (nem szépirodalom)
+novel 	regény
+novelist 	regényíró
+page number 	oldalszám
+paperback 	puhafedelű könyv
+philosophy 	filozófia
+play 	színdarab
+playwright 	drámaíró
+poem 	vers
+poet 	költő
+poetry 	költészet
+popular paper 	pletykalap
+press 	nyomda
+printer 	nyomdász
+printing-press 	nyomdagép
+prose 	próza
+publisher 	kiadó
+publishing house 	kiadóvállalat
+quality paper 	minőségi, színvonalas újság
+radio and tv guide 	rádió- és tv-újság
+radio and tv magazine 	rádió- és tv-magazin
+reference book 	kézikönyv
+romance 	romantikus történet, románc
+sci-fi 	tudományosfantasztikus történet
+sensational headlines 	feltűnést keltő főcím az újságban
+short story 	novella
+short story writer 	novellaíró
+small ads 	apróhirdetés
+sports page(s) 	sportoldal(ak)
+story 	történet
+technical literature 	műszaki irodalom
+the action takes place in … 	a cselekmény történik valahol …
+the plot is set in … 	a cselekmény kezdődik valahol …
+the press 	sajtó
+the story is set in … 	a cselekmény kezdődik valahol …
+thriller 	detektívregény
+title of a book 	egy könyv címe
+to come out 	megjelenik
+to cover foreign news / events 	külföldi hírekről, eseményekről tudósít
+to cover home news / events 	hazai hírekről, eseményekről, tudósít
+to publish 	publikál, kiad
+tragedy 	tragédia
+travel book 	útikönyv
+volume 	kötet
+war story 	háborús történet
+weekly 	hetilap
+whodunit 	detektívregény
+women’s magazine 	női magazin
+writer 	író

@@ -1,0 +1,19 @@
+advice 	tanács
+change 	változtatás
+class 	tanóra
+coaching 	korrepetálás
+compulsory 	kötelező olvasmány
+elective course 	fakultáció
+enough 	elegendő
+few hours 	kevés óraszám
+foreign language 	idegen nyelv
+it is necessary 	szükség van rá
+lack of something 	hiány
+language 	nyelv
+language teacher 	nyelvtanár
+learning 	tanulás
+mark/grade 	osztályzat
+necessary 	szükséges
+private lesson 	különóra
+satisfied 	elégedett
+unnecessary 	szükségtelen

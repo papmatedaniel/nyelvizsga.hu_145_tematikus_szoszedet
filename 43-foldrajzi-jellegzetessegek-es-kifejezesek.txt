@@ -1,0 +1,101 @@
+agriculture 	mezőgazdaság
+atmosphere 	légkör
+avalanche 	lavina
+barn 	csűr
+beach 	tengerpart
+bog 	láp
+border 	határ
+bridge 	híd
+canal 	csatorna
+capital city vagy capital 	főváros
+city 	város / belváros
+cliff 	szikla
+coast vagy shore 	partvidék
+copse 	szigetszerű kis erdő
+country 	vidék
+countryside 	vidék
+crater 	kráter
+crop 	termény
+dam 	(duzzasztó)gát
+desert 	sivatag
+ditch 	árok
+earthquake 	földrengés
+economy 	gazdaság
+energy 	energia
+environment 	környezet
+equator 	egyenlítő
+eruption 	kitörés
+famine 	éhínség
+farm 	farm
+farmhouse 	farm
+fence 	kerítés
+field 	rét
+forest 	erdő
+gate 	kapu
+glacier 	gleccser
+harbour 	kikötő
+harvest 	aratás
+hay 	széna
+hedge 	sövény
+hill 	domb
+irrigation 	öntözés
+island 	sziget
+jungle 	dzsungel
+lake 	tó
+landscape 	táj
+latitude 	szélesség
+lava 	láva
+life expectancy 	várható élettartam
+lighthouse 	világítótorony
+literacy 	olvasni tudás
+livestock 	állatállomány
+longitude 	hosszúság
+malnutrition 	alultápláltság
+meadow 	mező
+migration 	migráció
+mine 	bánya
+moor 	ingovány
+mountain 	hegy
+national park 	nemzeti park
+north pole 	északi-sark
+nuclear energy 	nukleáris energia
+ocean 	óceán
+oil rig 	olajfúrótorony
+path 	ösvény
+peninsula 	félsziget
+pier 	móló
+plain 	síkság
+pollution 	környezetszennyezés
+pond 	tavacska
+population 	népesség
+poverty 	szegénység
+power station 	erőmű
+rainforest 	esőerdő
+reservoir 	víztártoló / vízgyűjtő
+river 	folyó
+rock 	kő
+rural 	vidéki
+sand dune 	homokdűne
+sea 	tenger
+sea level 	tengerszint
+slum 	nyomornegyed
+south pole 	déli-sark
+stream 	patak
+swamp 	mocsár
+tide 	árapály
+to harvest 	aratni
+to plough 	szántani
+town 	város
+trade 	kereskedelem
+tsunami 	cunami
+unemployment 	munkanélküliség
+urban 	városi
+valley 	völgy
+village 	falu
+volcano 	vulkán
+wall 	fal
+waterfall 	vízesés
+wave 	hullám
+well 	forrás
+wheat 	búza
+wood 	liget

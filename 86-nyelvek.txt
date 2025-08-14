@@ -1,0 +1,75 @@
+afrikaans 	afrikansz
+albanian 	albán
+arabic 	arab
+azerbaijani vagy azeri 	azerbajdzsáni, azeri
+basque 	baszk
+belarusian 	belorusz
+bengali 	bengáli
+bosnian 	boszniai
+bulgarian 	bolgár
+cantonese 	kantoni
+catalan 	katalán
+chinese vagy mandarin chinese 	kínai
+croatian 	horvát
+czech 	cseh
+danish 	dán
+dutch (belgiumban úgy hívják, hogy flemish) 	holland
+english 	angol
+estonian 	észt
+filipino 	filippínó
+finnish 	finn
+foreign language 	idegen nyelv
+french 	francia
+georgian 	grúz
+german 	német
+greek 	görög
+gujarati 	gudzsaráti
+hebrew 	héber
+hindi 	hindi
+hungarian 	magyar
+icelandic 	izlandi
+indonesian 	indonéz
+irish 	ír
+italian 	olasz
+japanese 	japán
+kazakh 	kazah
+khmer vagy cambodian 	khmer, kambodzsai
+korean 	koreai
+language 	nyelv (mint jelrendszer)
+lao 	lao
+latin 	latin
+latvian 	lett
+lithuanian 	litván
+malay 	maláj
+marathi 	maráthi
+mongolian 	mongol
+nepali 	nepáli
+norwegian 	norvég
+pashto 	pasto
+persian vagy farsi 	perzsa, fárszi
+polish 	lengyel
+portuguese 	portugál
+punjabi 	pandzsábi
+romanian 	román
+russian 	orosz
+scottish gaelic 	skót gael
+serbian 	szerb
+slovak 	szlovák
+slovene vagy slovenian 	szlovén
+somali 	szomáli
+spanish 	spanyol
+spoken language 	beszélt nyelv
+sunda 	szunda
+swahili 	szuahéli
+swedish 	svéd
+tagalog 	tagalog
+tamil 	tamil
+telugu 	telugu
+thai 	thai
+turkish 	török
+ukrainian 	ukrán
+urdu 	urdu
+uzbek 	üzbég
+vietnamese 	vietnámi
+welsh 	walesi
+zulu 	zulu

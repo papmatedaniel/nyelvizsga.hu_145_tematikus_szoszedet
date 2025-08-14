@@ -1,0 +1,21 @@
+employee 	munkavállaló
+employer 	munkaadó
+job advertisement 	álláshirdetés
+job interview 	állásinterjú
+labourer 	munkás
+line worker 	szalagmunkás
+operator 	operátor
+permanent job 	állandó munka
+semi-skilled worker 	betanított munkás
+temporary job 	alkalmi munka
+to apply for a job 	állást megpályáz
+to be employed 	alkalmazva van
+to change one’s job 	munkát vált
+to do a job 	állásban van
+to employ sy 	alkalmaz vkit
+to find a job 	állást talál
+to get a job 	állást kap
+to lose one’s job 	elveszti az állását
+to quit one’s job 	feladja az állását
+to take sy on 	felvesz vkit
+vacancy 	üresedés

@@ -1,0 +1,35 @@
+(pay) rise 	fizetésemelés
+a badly-paid job 	rosszul fizető állás
+a well-paid job 	jól fizető állás
+bonus 	prémium
+deduction 	levonás
+fringe benefits 	járulékos juttatások (nagyobb pénzbeni juttatás)
+gross 	bruttó
+high pay 	magas fizetés
+high salary 	magas bér
+high wages 	magas fizetés
+how much is your salary? 	mennyi a fizetésed?
+income 	jövedelem, bevétel
+insufficient pay 	nem elegendő, elégtelen fizetés
+insufficient salary 	nem elegendő, elégtelen bér
+insufficient wages 	nem elegendő, elégtelen fizetés
+low pay 	alacsony fizetés
+low salary 	alacsony bér
+low wages 	alacsony fizetés
+net 	nettó
+payment 	fizetség
+perks 	járulékos juttatások
+reasonable pay 	elfogadható fizetés
+reasonable salary 	elfogadható bér
+reasonable wages 	elfogadható fizetés
+salary 	fizetés
+starting salary 	kezdő fizetés
+subsidy 	segélypénz
+to be underpaid 	alulfizetett
+to earn money 	pénzt keres
+to make a living as a … 	vmiként keresi a kenyerét
+to work as a … 	vmiként dolgozik
+toward/at the lower end of the wage range 	a fizetési sáv alsó felében / alsó felének közelében
+toward/at the upper end of the wage range 	a fizetési sáv felső felében / felső felének közelében
+wage range 	bérsáv
+what do you do for a living? 	mivel keresed a kenyered?

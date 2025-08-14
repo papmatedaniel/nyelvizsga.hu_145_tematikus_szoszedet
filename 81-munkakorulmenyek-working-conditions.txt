@@ -1,0 +1,25 @@
+annual holiday 	éves szabadság
+demote 	lefokoz
+fire 	elbocsát/kirúg
+flexible working hours 	rugalmas munkaidő
+full-time job 	teljes munkaidő
+he/she is applied 	alkalmazva van
+holiday 	szabadság
+irregular working hours 	szabálytalan munkaidő
+job description 	munkaköri leírás
+job satisfaction 	munkával való elégedettség
+part-time job 	részmunkaidő
+promotion 	előléptetés
+regular working hours 	szabályos munkaidő
+to be on day 	nappali műszakban van
+to be on holiday 	szabadságon van
+to be on night-shift 	éjszakai műszakban van
+to be promoted 	előléptetik
+to do office work 	irodai munkát végezni
+to do overtime 	túlórázik
+to do physical work 	fizikai munkát végezni
+to get a promotion 	előléptetik
+to have a day off 	szabadnapja van
+to work flexitime 	rugalmas munkaidőben dolgozik
+to work for a company 	cégnél dolgozik
+to work in a factory 	gyárban dolgozni

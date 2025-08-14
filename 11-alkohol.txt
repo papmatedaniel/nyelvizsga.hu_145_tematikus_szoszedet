@@ -1,0 +1,45 @@
+alcohol 	alkohol
+ale 	világos sör
+aperitif 	aperitif
+bar 	bár
+bar counter 	bárpult
+bar lounger 	kocsmatöltelék
+barmaid 	italoslány
+barman 	csapos
+bartender 	csapos
+beer 	sör
+beer glass 	söröspohár
+beer mat 	poháralátét
+binge drinking 	nagy ivászat
+bitter 	keserű / gyomorkeserű
+bottle 	palack
+brandy 	konyak
+brewery 	sörfőzés
+can 	doboz
+champagne 	pezsgő
+cider 	almabor
+cocktail 	koktél
+drunk 	részeg / ittas
+gin 	gin
+hangover 	másnaposság
+inn 	kocsma
+lager 	világos sör
+liqueur 	likőr
+martini 	martini
+non-alcoholic/alcohol-free 	alkoholmentes
+oenologist 	borász
+pub 	söröző
+red wine 	vörösbor
+rosé 	rosé
+rum 	rum
+shandy 	limonádés sör
+sober 	józan
+sparkling wine 	habzóbor
+spirits 	tömény szesz
+stout 	testes sör
+tipsy 	becsípett
+vodka 	vodka
+whisky, whiskey 	whisky
+white wine 	fehérbor
+wine 	bor
+wine glass 	borospohár

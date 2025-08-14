@@ -1,0 +1,19 @@
+automatic washing machine 	automata mosógép
+broom 	seprű
+bucket 	vödör
+cleaning lady 	takarítónő
+detergent 	mosószer
+dishwasher 	mosogatógép
+disinfector 	fertőtlenítőszer
+duster 	(por)törlő rongy
+henpecked husband 	papucsférj
+hoover 	porszívó
+household appliances 	háztartási eszközök
+household gadgets 	háztartási eszközök
+mop 	felmosó ruha
+swabbing-mop 	nyeles felmosó
+toilet brush 	wc kefe
+toilet pump 	wc pumpa
+vacuum cleaner 	porszívó
+washing powder 	mosópor
+washing-up liquid 	mosogatószer

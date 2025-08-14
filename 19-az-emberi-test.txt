@@ -1,0 +1,185 @@
+abdomen 	has(üreg)
+achilles tendon 	achilles-ín
+adam’s apple 	ádámcsutka
+ankle 	boka
+anus 	végbélnyílás
+appendix 	féregnyúlvány
+apron 	vastag zsírréteg
+arm 	kar
+armpit 	hónalj
+artery 	artéria
+back 	hát
+backbone 	gerinc
+beard 	szakáll
+behind 	fenék
+belly 	has
+belly button 	köldök
+big toe 	nagylábujj
+bile 	epe
+blackhead 	mitesszer
+bladder 	húgyhólyag
+blood 	vér
+blood-vessels 	véredény
+bone 	csont
+bottom 	fenék
+bowels 	belek
+brain 	agy
+breast 	mell
+bum (szleng) 	fenék
+buttocks 	tompor
+calf 	vádli
+cartilage 	porc
+cheek 	arc, orca
+chest 	mellkas
+chin 	áll
+collarbone 	kulcscsont
+collarbone vagy clavicle 	kulcscsont
+colon 	vastagbél
+cornea 	szaruhártya
+digestive system 	emésztőrendszer
+ear 	fül
+eardrum 	dobhártya
+earlobe 	fülcimpa
+elbow 	könyök
+endurance 	állóképesség
+energy 	energia
+epilate 	szőrzettől megszabadít
+eye 	szem
+eye socket 	szemüreg
+eyeball 	szemgolyó
+eyebrow 	szemöldök
+eyelashes 	szempilla
+eyelid 	szemhéj
+fat 	zsír, háj
+finger 	ujj
+fingernail 	köröm
+fitness 	kondíció
+flesh 	hús
+flesh and blood 	hús és vér (az emberi test)
+foot (többesszáma: feet) 	lábfej (lábfejek)
+forearm 	alkar
+forefinger 	mutatóujj
+forehead 	homlok
+freckle 	szeplő
+gall bladder vagy gallbladder 	epehólyag
+genitals 	nemi szervek
+gland 	mirigy
+groin 	ágyék
+gum 	íny
+hair 	haj
+hair-follicle 	szőrtüsző
+hairs 	szőrzet
+hand 	kéz
+head 	fej
+healthy 	egészséges
+hearing 	hallás
+heart 	szív
+heel 	sarok
+hip 	csípő
+humerus 	felkarcsont
+index finger 	mutatóujj
+intestines 	belek
+iris 	szivárványhártya
+jaw 	állkapocs
+joint 	izület
+kidney 	vese
+knee 	térd
+kneecap 	térdkalács
+knuckle 	ujjizület
+large intestine 	vastagbél
+leg 	láb
+ligament 	ínszalag
+limb 	végtag
+lip 	ajak
+little finger 	kisujj
+liver 	máj
+lungs 	tüdő
+middle finger 	középső ujj
+moustache 	bajusz
+mouth 	száj
+mucus 	nyálka
+muscle 	izom
+nail 	köröm
+nape 	tarkó
+neck 	nyak
+nerve 	ideg
+nervous system 	idegrendszer
+nipple 	mellbimbó
+nose 	orr
+nostril 	orrlyuk
+obesity 	elhízás
+oesophagus 	nyelőcső
+organ 	szerv
+palm 	tenyér
+pancreas 	hasnyálmirigy
+pelvis 	medence
+penis 	pénisz
+phlegm 	váladék
+pimple 	pattanás
+prostate gland vagy prostate 	prosztata
+pubic hair 	szeméremszőrzet
+pupil 	pupilla
+rectum 	végbél
+red blood corpuscle 	vörös vérsejt
+retina 	retina
+rib 	borda
+rib cage 	mellkas
+ring finger 	gyűrűsujj
+saliva vagy spit 	nyál
+semen 	ondó
+shin 	sípcsont
+shoulder 	váll
+sight 	látás
+skeleton 	csontváz
+skin 	bőr
+skin pole 	bőr pólus
+skull 	koponya
+slough 	hámló bőr
+small intestine 	vékonybél
+smell 	szaglás
+sole 	talp
+spine 	gerinc
+spine vagy backbone 	gerinc
+spleen 	lép
+stomach 	gyomor
+sweat vagy perspiration 	izzadság
+taste 	ízlelés
+tears 	könnyek
+temple 	halánték
+tendon 	ín
+testicles 	herék
+the nervous system 	idegrendszer
+thigh 	comb
+thigh bone 	combcsont
+throat 	torok
+thumb 	hüvelykujj
+tissue 	szövet
+to breathe 	lélegezni
+to cry 	sírni
+to hiccup 	csuklani
+to sneeze 	tüsszenteni
+to sweat vagy to perspire 	izzadni
+to urinate 	vizelni
+to vomit 	hányni
+to yawn 	ásítani
+toe 	lábujj
+toenail 	labujj köröm
+tongue 	nyelv
+tonsils 	mandula
+tooth 	fog
+touch 	érintés
+trunk 	törzs
+tummy 	pocak
+upper arm 	felkar
+urine 	vizelet
+vagina 	vagina
+vein 	véna
+vertebra (többesszáma: vertebrae) 	csigolya
+vomit 	hányás
+waist 	derék
+white corpuscle 	fehérvérsejt
+windpipe 	légcső
+womb vagy uterus 	méh
+workout 	edzés
+wrinkles 	rácok
+wrist 	csukló

@@ -1,0 +1,21 @@
+a week on monday 	hétfőhöz egy hétre
+a week tomorrow 	holnaphoz egy hétre
+after tuesday 	kedd után
+before monday 	hétfő előtt
+every monday 	minden hétfőn
+friday 	péntek
+monday 	hétfő
+on friday 	pénteken
+on monday 	hétfőn
+on saturday 	szombaton
+on sunday 	vasárnap
+on thursday 	csütörtökön
+on tuesday 	kedden
+on wednesday 	szerdán
+saturday 	szombat
+sunday 	vasárnap
+thursday 	csütörtök
+tomorrow 	holnap
+tuesday 	kedd
+wednesday 	szerda
+yesterday 	tegnap

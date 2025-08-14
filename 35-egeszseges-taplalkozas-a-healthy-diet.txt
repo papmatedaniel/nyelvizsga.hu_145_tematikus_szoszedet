@@ -1,0 +1,43 @@
+a balanced diet 	kiegyensúlyozott étrend
+a healthy diet 	egészséges étrend
+a special diet 	különleges diéta
+a suitable diet 	megfelelő étrend
+artificial ingredients 	mesterséges összetevők
+caloricity 	kalóriatartalom
+calorie 	kalória
+chemicals 	vegyszerek
+e numbers 	élelmiszer-adalékok
+fibrous 	rostos
+fruit 	gyümölcs
+health food 	egészséges élelmiszer
+innutrient 	kevés/alacsony kalóriatartalmú
+low fat 	zsírszegény
+natural ingredients 	természetes összetevők
+organic food 	bioélelmiszer
+salt-free diet 	sómentes diéta
+semi-veg 	hal- és szárnyasféléket is fogyasztó vegetariánus
+to avoid 	elkerül
+to bake a cake 	süteményt süt
+to be high / low in cholesterol 	magas / alacsony koleszterintartalma van
+to be high / low in fat 	magas / alacsony zsírtartalma van
+to be on a diet 	diétázik, fogyókúrázik
+to boil vegetables 	zöldséget párol
+to contain 	tartalmaz
+to cook a meal 	ételt főz
+to cook dinner 	vacsorát főz
+to cut down on … 	csökkent vmit
+to diet 	diétázik, fogyókúrázik
+to fry in breadcrumbs 	kiránt (húst)
+to fry in oil 	olajban süt
+to grill meat 	húst grillez
+to have a high / low cholesterol content 	magas / alacsony koleszterintartalma van
+to have a high / low fat content 	magas / alacsony zsírtartalma van
+to have a high / low fibre content 	magas / alacsony rosttartalma van
+to have a high / low starch content 	magas / alacsony keményítőtartalma van
+to have a high / low sugar content 	magas / alacsony cukortartalma van
+to have a high / low vitamin content 	magas / alacsony vitamintartalma van
+to roast meat in the oven 	húst süt a sütőben
+to slim 	diétázik, fogyókúrázik
+vedgetable 	zöldség
+vegan 	vegán (tejterméket és tojást sem fogyasztó vegetáriánus)
+vegetarian 	vegetáriánus

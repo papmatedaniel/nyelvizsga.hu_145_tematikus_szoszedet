@@ -1,0 +1,28 @@
+age 	kor
+antique 	antik tárgy
+antiquity 	ókor
+architecture 	építészet
+art 	művészet
+class trip 	osztálykirándulás
+culture 	kultúra
+documentary 	ismeretterjesztés
+exhibition 	kiállítás
+history 	történelem
+invention 	találmány
+inventor 	feltaláló
+king 	király
+medieval 	középkori
+monument 	műemlék
+mummy 	múmia
+notoriety 	híres személy
+object 	tárgy
+painting 	festmény
+price 	ár
+recollection 	visszaemlékezés
+sculpture 	szobrászat
+statue 	szobor
+ticket 	jegy
+tradition 	hagyomány
+treasure 	kincs
+treasury 	kincstár
+weapons 	fegyverek

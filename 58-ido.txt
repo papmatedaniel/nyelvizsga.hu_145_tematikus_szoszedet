@@ -1,0 +1,44 @@
+afternoon 	délután
+always 	mindig
+century 	évszázad
+daily 	napi
+dawn 	hajnal
+day 	nap
+decade 	évtized
+dusk 	szürkület
+earlier 	korábban
+evening 	este
+every day 	minden nap
+fortnight 	két hét
+frequently 	gyakran
+hour 	óra
+immediately 	haladéktalanul
+later 	később
+leap year 	szökőév
+midday vagy noon 	dél
+midnight 	éjfél
+minute 	perc
+month 	hónap
+monthly 	havi
+morning 	reggel
+never 	soha
+night vagy night time 	éjjel/éjszaka
+normally 	rendszerint
+now 	most
+nowadays 	mostanában
+occasionally 	alkalmanként
+often 	sokszor
+rarely 	ritkán
+regularity 	rendszeresség
+second 	másodperc
+sometimes 	néha
+soon 	hamarosan
+sunrise 	napfelkelte
+sunset 	naplemente
+then 	akkor
+usually 	általában
+week 	hét
+weekend 	hétvége
+weekly 	heti
+year 	év
+yearly 	évi

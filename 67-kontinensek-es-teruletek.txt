@@ -1,0 +1,40 @@
+africa 	afrika
+antarctica 	antarktika
+asia 	ázsia
+australia / australasia / oceania 	ausztálázsia / óceánia
+europe 	európa
+labrador sea 	labrador-tenger
+north america 	észak-amerika
+norwegian sea 	norvég-tenger
+sea of okhotsk 	ohotszki-tenger
+south america 	dél-amerika
+tasman sea 	tasmán-tenger
+the alps 	az alpok
+the amazon 	az amazonas
+the amazon rainforest 	az amazóniai esőerdő
+the andes 	az andok
+the arabian sea 	az arab-tenger
+the arctic 	a sarkvidék
+the arctic ocean 	a jeges-tenger
+the atlantic ocean vagy the atlantic 	az atlanti-óceán
+the baltic sea vagy the baltic 	a balti-tenger
+the black sea 	a fekete-tenger
+the caribbean sea vagy the caribbean 	a karib-tenger
+the caspian sea 	a kaszpi-tenger
+the danube 	a duna
+the english channel (néha úgy is nevezik, hogy the channel) 	la manche-csatorna
+the ganges 	a gangesz
+the himalayas 	a himalája
+the indian ocean 	az indiai-óceán
+the mediterranean sea vagy the mediterranean 	a földközi-tenger
+the mississippi 	a mississippi
+the nile 	a nílus
+the north sea 	az északi-tenger
+the pacific ocean vagy the pacific 	a csendes-óceán
+the rhine 	a rajna
+the rocky mountains (más néven the rockies) 	a sziklás-hegység
+the sahara vagy the sahara desert 	a szahara
+the south china sea 	a dél-kínai-tenger
+the thames 	a temze
+the volga 	a volga
+the yangtze 	a jangce

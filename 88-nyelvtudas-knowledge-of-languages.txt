@@ -1,0 +1,21 @@
+articulation 	artikuláció
+currency 	ismertség
+english 	angol nyelv
+foreign language 	idegen nyelv
+intermediate 	középszint
+interpreter 	tolmács
+knowledge 	tudás
+language 	nyelv
+language exam 	nyelvvizsga
+language skills 	nyelvi készség
+language teacher 	nyelvtanár
+learned language 	tanult nyelv
+native language 	anyanyelv
+phrase 	kifejezés
+pronunciation 	kiejtés
+the dominance of language 	a nyelv dominanciája
+the knowledge of something 	valaminek az ismerete
+to classify 	osztályozni
+translation 	fordítás
+understanding 	megértés
+universal language 	világnyelv

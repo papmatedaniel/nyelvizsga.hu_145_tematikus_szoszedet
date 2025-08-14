@@ -1,0 +1,46 @@
+accountancy 	könyvvitel
+advertising 	reklám szakma
+agriculture 	mezőgazdaság
+banking 	bank szakma
+broadcasting 	műsorszórás
+cargo 	rakomány
+computing 	számítógépes szakma
+electronics 	elektronika
+engineering 	mérnöki szakma
+farming 	állat tenyésztés
+financial services 	pénzügyi szakma
+healthcare 	egészségügy
+hotel and catering 	szálloda és vendéglátás
+human resources 	hr
+insurance 	biztosítás
+it (a következő rövidítése: information technology) 	információs technológiai szakma
+local government 	önkormányzat
+manufacturing 	gyártás
+marketing 	marketing
+mining 	bányászat
+payment 	fizetség
+publishing 	nyomda
+sales 	üzletkötés
+service 	szolgáltatás
+teaching 	tanítás
+telecommunications 	távközlés
+television 	televízió
+the armaments industry 	hadiipar
+the building trade 	epítészeti szakma
+the chemical industry 	vegyipar
+the civil service 	közigazgatás
+the construction industry 	építőipar
+the drinks industry 	italipar
+the entertainment industry 	szórakoztatóipar
+the fishing industry 	halászati ipar
+the legal profession 	jogi pálya
+the medical profession 	orvosi pálya
+the motor industry 	autóipar
+the newspaper industry 	újságipar
+the oil industry 	olajipar
+the pharmaceutical industry 	gyógyszeripar
+the retail trade 	üzleti szakma
+the shipping industry 	hajóipar
+the travel industry 	utazási ipar
+tourism 	turisztika
+trade 	kereskedelem

@@ -1,0 +1,107 @@
+(dental) surgery 	(fogászati) rendelő
+(doctor’s) fee 	vizitdíj
+(plastic) surgery 	(plasztikai) műtét
+(under) the national health service 	társadalombiztosítás
+(under) the public health service 	társadalombiztosítás
+ambulance 	mentő
+antibiotic 	antibiotikum
+antiseptic 	fertőzésgátló
+bandage 	kötszer
+blood transfusion 	vérátömlesztés
+care 	gondozás, gondoskodás
+casualty 	haláleset
+casualty department 	emergency
+check-up 	kivizsgálás
+chemotherapy 	kemoterápia
+clinic 	klinika
+consulting hours 	rendelési idő
+consulting room 	doctor’s office
+contraceptive 	fogamzásgátló
+cotton-wool 	vatta
+cream 	krém
+crown 	korona
+cure 	kúra, gyógymód
+dentist 	fogorvos
+doctors and patients 	orvosok és betegek / páciensek
+elastoplast 	band-aid
+euthanasia 	eutanázia
+examination 	vizsgálat
+family doctor 	háziorvos
+filling 	(fog)tömés
+first aid 	elsősegély
+gp 	háziorvos
+health insurance 	egészségügyi és betegbiztosítás
+homeopath 	homeopata
+homeopathy 	homeopátia
+in plaster 	be van gipszelve
+infusion 	infúzió
+injection 	injekció
+jab 	shot
+medical certificate 	orvosi bizonyítvány, igazolás
+medication 	gyógykezelés
+medicine 	drug
+naturopath 	természetgyógyász
+naturopathy 	természetgyógyászat
+needle 	tű
+nurse 	nővér, ápoló(nő)
+ointment 	kenőcs
+painkiller 	fájdalomcsillapító
+patient 	beteg, páciens
+phantom pain 	fantomfájdalom
+physician 	orvos, belgyógyász
+placebo 	placebo, látszatgyógyszer
+plaster 	gipsz
+prescription 	recept
+prosthesis 	protézis
+psychiatrist 	pszichiáter
+psychologist 	pszichológus
+recovery 	gyógyulás
+sedative 	nyugtató
+sick note 	beteg igazolás (orvos v. szülő által)
+sickness benefit 	táppénz
+sleeping pill 	altató
+specialist 	szakorvos
+stretcher 	hordágy
+surgeon 	sebész
+tablet 	tabletta
+the pill 	fogamzásgátló
+therapy 	terápia, kezelés
+to apply an ointment 	kenőcsöt használ
+to be in hospital 	kórházban van
+to be off sick 	betegség miatt távol van
+to be on the pill 	fogamzásgátlót szed
+to be taken to hospital 	kórházba szállít
+to be x-rayed 	megröntgenezik
+to call a doctor 	kihívja az orvost
+to call in sick 	beteget jelent
+to cure 	kúrál, gyógyít
+to die of … 	meghal vmiben
+to drill 	fúr
+to examine 	megvizsgál
+to fill a tooth 	betöm egy fogat
+to get better 	javul
+to get well 	meggyógyul
+to have a filling 	betömet egy fogat
+to have a tooth out 	kihúzatja a fogát
+to have an appointment 	megbeszélt időpontja van
+to have an operation 	műtétje van
+to have one’s appendix out 	kiveteti a vakbelét
+to have one’s tonsils out 	kiveteti a manduláját
+to heal 	gyógyul
+to operate on sy 	megoperál
+to prescribe medicine 	gyógyszert ír fel
+to put on a bandage 	bekötik
+to put sy on the sick list 	táppénzre vesz fel vkit
+to recover 	felgyógyul
+to see a doctor 	elmegy az orvoshoz (vizsgálatra)
+to stay in bed 	ágyban marad
+to take medicine 	gyógyszert szed
+to take sy’s pulse 	megméri vkinek a pulzusát
+to take sy’s temperature 	megméri vkinek a lázát
+to treat 	kezel
+to undergo surgery 	műtéten megy keresztül
+to vaccinate 	beolt
+tranquilliser 	nyugtató
+treatment 	kezelés
+victim 	áldozat
+ward 	kórházi osztály

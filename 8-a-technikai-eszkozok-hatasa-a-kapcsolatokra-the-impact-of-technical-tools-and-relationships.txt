@@ -1,0 +1,27 @@
+advantage 	előny
+antisocial 	antiszociális
+call 	hívás
+constant relationship 	állandó kapcsolat
+contact 	kapcsolat
+danger 	veszély
+debate 	vita
+disadvantage 	hátrány
+expression 	arckifejezés
+extroverted 	extrovertált
+generation 	generáció
+gesture 	gesztus
+hold aloof 	elzárkózik
+immediately 	azonnal
+internet 	internet
+introverted 	introvertált
+maintaining relationships 	kapcsolattartás
+message 	üzenet
+mimicry 	mimika
+mobile phone 	mobiltelefon
+muteness 	némaság
+responsibility 	felelősség
+risk 	kockázat
+telephone number 	telefonszám
+wi-fi 	wi-fi
+wire 	vezetékes
+wireless 	vezeték nélküli

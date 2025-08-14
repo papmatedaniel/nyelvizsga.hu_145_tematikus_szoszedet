@@ -1,0 +1,77 @@
+addition 	plusz (meg)
+algebra 	algebra
+angle 	szög
+area 	terület
+arithmetic 	számtan
+average 	átlag
+axis 	tengely
+calculus 	számítás
+circle 	kör
+circumference 	kerület
+cone 	kúp
+correlation 	korreláció
+cube 	kocka
+cubed 	köbön
+curve 	görbe
+cylinder 	henger
+decimal 	tizedes
+decimal point 	tizedes pont
+definition 	definíció
+diameter 	átmérő
+dimensions 	méretek
+divided by 	osztva
+division 	osztás
+equals 	egyenlő
+equation 	egyenlet
+even number 	páros szám
+exponentiation 	hatványozás
+formula 	képlet
+fraction 	törtszám
+geometry 	geometria
+graph 	grafikon
+height 	magasság
+hexagon 	hatszög
+integer 	egész szám
+length 	hossz
+line 	vonal
+minus 	mínusz
+multiplication 	szorzás
+octagon 	nyolcszög
+odd number 	páratlan szám
+oval 	ovális
+parallel 	párhuzamos
+pentagon 	ötszög
+percent 	százalék
+percentage 	százaléka
+perimeter 	kerület
+plus 	plusz (meg)
+polygon 	sokszög
+prime number 	prímszám
+probability 	valószínűség
+problem 	feladat
+proof 	bizonyítás
+pyramid 	piramis
+radius 	sugár
+rectangle 	téglalap
+right angle 	derékszög
+solution 	megoldás
+sphere 	gömb
+square 	négyzet
+square root 	gyök
+squared 	négyzeten
+star 	csillag
+statistics 	statisztika
+straight line 	egyenes vonal
+subtraction 	kivonás
+tangent 	érintő
+theorem 	tétel
+times vagy multiplied by 	szorozva
+to add 	hozzáadni
+to calculate 	számolni
+to divide 	osztani
+to multiply 	szorozni
+to subtract vagy to take away 	kivonni
+total 	végösszeg
+triangle 	háromszög
+volume 	térfogat
+width 	szélesség

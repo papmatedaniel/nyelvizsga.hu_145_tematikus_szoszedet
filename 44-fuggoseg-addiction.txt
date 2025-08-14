@@ -1,0 +1,25 @@
+alcohol 	alkohol
+anxiety 	szorongás
+chemical agents 	kémiai szerek
+cigarette 	cigaretta
+compulsive shopping 	kényszeres vásárlás
+computer addict 	számítógép-függő
+cure 	gyógymód
+curing 	gyógyítás
+depression 	depresszió
+drug 	drog
+drug addiction 	kábítószeres függőség
+eating disorder/cacotrophy 	táplálkozási zavar
+gambling 	szerencsejáték
+gambling addiction 	játékszenvedély
+harmful 	káros
+káros szenvedély 	káros szenvedély
+marijuana 	marihuána
+motivation 	motiváció
+nicotine 	nikotin
+ocd (obsessive-compulsive disorder) 	kényszerbetegség
+sexual addiction 	szexuális függőség
+smoking 	dohányzás
+therapy 	terápia
+treatment 	kezelés
+workaholic 	munkaőrült

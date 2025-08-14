@@ -1,0 +1,66 @@
+(in) a bun 	konty(ban)
+(in) a ponytail 	lófarok(ban)
+(rather) plain 	egyszerű
+a high forehead 	magas homlok
+a long face 	hosszúkás arc
+a low forehead 	alacsony homlok
+a round face 	kerek arc
+an oval face 	ovális arc
+average height 	átlagos magasságú
+bald(ing) 	kopasz(odó)
+beard 	szakáll
+big 	magas
+big nose 	nagy orr
+black hair 	fekete haj
+blond hair 	szőke haj
+broad shouldered 	széles vállú
+brown hair 	barna haj
+chubby 	pufók
+combed back 	hátra fésült (haj)
+combed to the side 	oldalra fésült (haj)
+curly hair 	göndör haj
+dyed hair 	festett haj
+elegant clothes 	elegáns ruha
+fair hair 	szőke haj
+fat 	kövér
+good-looking 	jóképű
+grey hair 	ősz haj
+hairy 	szőrös
+handsome 	jóképű
+long hair 	hosszú haj
+medium height 	középmagas
+modest 	igénytelen
+moustache 	bajusz
+ordinary nose 	átlagos orr
+ordinary-looking 	átlagos kinézetű
+plump 	telt
+pretty 	csinos
+red hair 	vörös haj
+shabbily-dressed 	szakadtan öltözött
+short 	alacsony
+short hair 	rövid haj
+skinny 	sovány
+sluttish 	ápolatlan
+small 	alacsony
+smartly-dressed 	csinosan öltözött
+snub nose 	pisze orr
+straight hair 	egyenes haj
+strong 	erős
+stubbly 	borostás
+suntanned 	napbarnította
+tall 	magas
+thick hair 	sűrű haj
+thick lips 	telt ajak
+thin 	vékony
+thin lips 	vékony ajak
+thinning hair 	ritkuló haj
+to have a dark complexion 	sötét arcszíne van
+to have a fair complexion 	világos arcszíne van
+to have a good figure 	jó alkata, alakja van
+to have a pale complexion 	sápadt arcszíne van
+to wear glasses 	szemüveget visel
+ugly 	ronda
+wavy hair 	hullámos haj
+weird 	furcsa
+well-built 	jó felépítésű
+well-dressed 	csinosan öltözött

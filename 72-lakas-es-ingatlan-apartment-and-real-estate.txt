@@ -1,0 +1,32 @@
+advertisement 	hirdetés
+balcony 	erkély
+basic area 	alapterület
+ceiling height 	belmagasság
+clear 	belterület
+comfort 	komfort
+credit 	hitel
+double-storied 	kétemeletes
+estate agent 	ingatlanügynök
+extension 	kiterjedés
+floor 	emelet
+for sale 	eladó
+handover 	átadás
+house and plot 	ház és telek
+indoor 	beltéri
+intimate sphere 	intim szféra
+mass 	tömeg
+measurement 	mérés
+orientation 	tájolás
+outdoor 	kültéri
+panorama 	panoráma
+periphery 	kültér
+plot 	telek
+pricing 	árazás
+property 	ingatlan
+property line 	telekhatár
+quantity 	mennyiség
+room 	szoba
+size 	méret
+square meter 	négyzetméter
+status 	állapot
+year of construction 	építés éve

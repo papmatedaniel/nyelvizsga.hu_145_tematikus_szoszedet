@@ -1,0 +1,41 @@
+art of school 	rajziskola
+boarding school 	bentlakásos iskola
+college 	főiskola
+comprehensive school 	általános iskola
+crèche 	bölcsőde
+day-nursery 	bölcsőde
+fee-paying school 	magániskola
+free school 	szabad iskola
+graduate 	diplomás
+high school 	középiskola vagy gimnázium
+kindergarten 	óvoda
+language school 	nyelviskola
+lower sixth forms 	brit iskolarendszerben alsó tagozat
+medical school 	orvosi iskola
+nursery school 	óvoda
+one-to-one teaching 	egyénenkénti magánoktatás
+primary school 	általános iskola
+private school 	magániskola
+secondary school 	középiskola
+sixth form 	brit középiskola legfelső osztálya
+sixth former 	legfelső osztályos, végzős (brit középiskolában)
+sixth-form college 	brit hatosztályos középiskola
+to attend a school 	iskolába jár
+to be a first year student 	elsőéves hallgató
+to be absent 	hiányzik
+to be in one’s first year 	elsőéves hallgató
+to do a course 	tanfolyamot végez
+to enrol in a course be 	iratkozik egy tanfolyamra
+to go to evening classes 	esti tagozatra jár
+to go to private lessons 	magánórákra jár
+to go to school 	iskolába jár
+to leave school 	befejezi az iskolát
+to play truant 	iskolát kerül
+to skip a lesson 	lóg az óráról
+to start school 	elkezdi az iskolát
+to take a course 	tanfolyamot végez
+trade school 	szakiskola, technikum
+tuition (fee) 	tandíj
+university 	egyetem
+upper sixth forms 	brit iskolarendszerben felső tagozat
+vocational school 	szakiskola

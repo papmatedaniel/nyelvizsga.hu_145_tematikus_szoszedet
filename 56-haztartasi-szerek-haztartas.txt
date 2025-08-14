@@ -1,0 +1,79 @@
+battery 	elem
+bin bag vagy bin liner 	szemetes zsák
+bleach 	fehérítő / hipó
+candle 	gyertya
+child rearing 	gyereknevelés
+cotton 	vatta
+detergent 	tisztítószer
+disinfectant 	fertőtlenítő
+dustbin bag 	szemetes zsák
+duster 	porrongy
+envelopes 	borítékok
+fabric softener 	öblítő
+firelighters 	gyújtós
+floorcloth 	felmosórongy
+furniture polish 	bútorfényező
+fuse 	biztosíték
+glue 	ragasztó
+hoover bag 	porszívózsák
+light bulb 	villanykörte
+lighter 	öngyújtó
+matches 	gyufa
+needle 	tű
+pen 	toll
+pencil 	ceruza
+safety pin 	biztosítótű
+scissors 	olló
+sellotape 	cellux
+shoe polish 	cipőkrém / cipőpaszta
+soap 	szappan
+stamps 	bélyeg
+tissues 	papírzsebkenő
+to air the room 	kiszellőzteti a szobát
+to buy the daily groceries 	megveszi a napi élelmiszert
+to clean the flat 	kitakarítja a lakást
+to clean the windows 	megtisztítja az ablakokat
+to do the cleaning 	kitakarít
+to do the cooking 	főz
+to do the daily chores 	elvégzi a napi teendőket
+to do the dusting 	port töröl
+to do the gardening 	kertészkedik
+to do the hoovering 	to do the vacuuming
+to do the housework 	elvégzi a házimunkát
+to do the ironing 	vasal
+to do the shopping 	bevásárol
+to do the washing 	kimos
+to do the washing-up 	elmosogat
+to dry up the dishes 	eltörölgeti az edényeket
+to dust the furniture 	leporolja a bútort
+to empty the bin 	kiüriti a szemetest
+to empty the rubbish 	kiüriti a szemetest
+to fix things 	to clean the car
+to hang out the washing 	kiteregeti a ruhákat
+to hang the clothes out to dry 	kiteregeti a ruhákat
+to iron the clothes 	kivasalja a ruhákat
+to keep the house clean 	tisztán tartja a házat
+to keep the house tidy 	rendben tartja a házat
+to look after the kids 	gondoskodik a gyerekekről
+to make the bed 	beveti az ágyat
+to mend things 	megjavít dolgokat
+to mow the lawn 	lenyírja a gyepet
+to prepare a meal 	el(ő)készíti az ételt
+to repair things 	megjavít dolgokat
+to run the household 	háztartást vezet
+to scrub the floor 	felmossa, felsúrolja a padlót
+to sew 	varr
+to share the (daily) chores 	megosztja a napi teendőket
+to share the housework 	megosztja a házimunkát
+to split the (daily) chores 	felosztja a napi teendőket
+to split the housework 	felosztja a házimunkát
+to sweep the floor 	felsöpri a padlót
+to take the rubbish out 	kiviszi a szemetet
+to tidy up 	rendet rak
+to wash the clothes 	kimossa a ruhákat
+to water the flowers / plants 	meglocsolja a virágokat
+toilet paper vagy toilet roll 	wc papír
+toothpaste 	fogkrém
+tube of toothpaste 	fogkrémes tubus
+washing powder 	mosópor
+writing paper 	írólap

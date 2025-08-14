@@ -1,0 +1,87 @@
+alarm clock 	ébresztőóra
+armchair 	karosszék
+bath 	fűrdőkád
+bathroom scales 	fürdőszobai mérleg
+bed 	ágy
+bedside table 	éjjeliszekrény
+bin 	szemeteskosár
+blanket 	pokróc
+blinds 	ablakredőny
+blu-ray player 	blu-ray lejátszó
+bookcase 	könyvesszekrény
+bookshelf 	könyvespolc
+broom 	partvis
+bucket 	vödör
+carpet 	szőnyeg
+cd player 	cd lejátszó
+chair 	szék
+chest of drawers 	fiókos szekrény
+clock 	óra
+coat hanger 	vállfa
+coat stand 	fogas
+coffee table 	kávézóasztal
+cold tap 	hidegvízcsap
+cupboard 	fali szekrény
+curtains 	függöny
+cushion 	kispárna
+desk 	íróasztal
+door handle 	ajtókilincs
+door knob 	gombkilincs
+doormat 	lábtörlő
+double bed 	franciaágy
+dressing table 	fésülködőasztal
+drinks cabinet 	bárszekrény
+dustbin 	szemetes
+dustpan and brush 	seprű és lapát
+duvet 	paplan
+dvd player 	dvd lejátszó
+electric fire 	elektromos kandalló
+filing cabinet 	iratszekrény
+fuse box 	biztosítékszekrény
+gas fire 	gáz kandalló
+hoover vagy vacuum cleaner 	porszívó
+hot tap 	melegvízcsap
+houseplant 	szobanövény
+iron 	vasaló
+ironing board 	vasaló deszka
+lamp 	lámpa
+lampshade 	lámpaernyő
+lava lamp 	lávalámpa
+light switch 	villanykapcsoló
+mattress 	matrac
+mirror 	tükör
+mop 	felmosórongy
+ornament 	dísz
+painting 	festmény
+piano 	zongora
+picture 	kép
+pillow 	párna
+pillowcase 	párnahuzat
+plug 	konnektor
+plug socket vagy power socket 	csatlakozó aljzat/konnektor
+plughole 	lefolyó
+poster 	poszter
+radiator 	radiátor
+radio 	rádió
+record player 	lemezjátszó
+rug 	kisszőnyeg
+sheet 	lepedő
+sideboard 	tálaló
+single bed 	ágy
+sofa 	kanapé
+sofa-bed 	rekamié
+spin dryer 	szárítógép
+sponge 	szivacs
+stereo 	magnó
+stool 	támlátlan szék, zsámoly
+table 	asztal
+tablecloth 	terítő
+tap 	csap
+telephone 	telefon
+towel 	törülköző
+tv (a következő rövidítése: television) 	tv (televízió)
+vase 	váza
+wallpaper 	tapéta
+wardrobe 	szekrény
+washing machine 	mosógép
+waste paper basket 	papírkosár

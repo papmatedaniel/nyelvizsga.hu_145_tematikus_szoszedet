@@ -1,0 +1,104 @@
+accident 	baleset
+bike (a következő rövidítése: bicycle) 	kerékpár
+breakdown 	elromlik
+breathalyser 	szonda
+bus 	busz
+bypass 	elkerülő út
+camper van 	lakóautó
+car 	autó
+car hire 	autókölcsönzés
+car keys 	autókulcsok
+car park 	parkoló
+car wash 	autómosó
+caravan 	vontatott lakókocsi
+coach 	távolsági busz
+corner 	sarok
+country lane 	vidéki út
+crossroads 	útkereszteződés
+cyclist 	kerékpáros
+diesel 	dízel
+disabled parking space 	mozgássérült parkolóhely
+driver 	sofőr
+driving instructor 	autóvezető oktató
+driving lesson 	autóvezetői óra
+driving licence 	jogosítvány (vezetői engedély)
+driving school 	autós-/motorosiskola
+driving test 	autóvezetői vizsga
+dual carriageway 	kétsávos út
+flat tyre 	lapos kerék
+fog 	köd
+fork 	útelágazás
+garage 	autószervíz
+hard shoulder 	leállósáv
+icy road 	jeges út
+insurance 	biztosítás
+jack 	kocsiemelő
+jump leads 	indítókábel
+junction 	csomópont
+kerb 	járda
+lay-by 	leállósáv
+learner driver 	tanulóvezető
+level crossing 	vasúti átjáró
+lorry 	teherautó
+main road 	főút
+mechanic 	szerelő
+minibus 	minibusz
+moped 	moped
+motorbike (a következő rövidítése: motorcycle) 	motorkerékpár
+motorway 	autópálya
+multi-storey car park 	többemeletes parkolóház
+oil 	olaj
+one-way street 	egyirányú út
+parking meter 	parkoló óra
+parking space 	parkolóhely
+parking ticket 	parkoló jegy
+passenger 	utas
+pavement (amerikai angol: sidewalk) 	járda
+pedestrian 	gyalogos
+pedestrian crossing 	gyalogosátkelő
+petrol 	benzin
+petrol station 	benzinkút
+puncture 	gumidefekt
+ring road 	körút
+road 	út
+road map 	úti térkép
+road sign 	közlekedési jelzőtábla
+roadside 	országúti
+roadworks 	közúti munka
+roundabout 	körforgalom
+scooter 	robogó
+signpost 	útjelzőtábla
+speed 	sebesség
+speed limit 	sebességkorlátozás
+speeding fine 	gyorshajtás büntetés
+spray 	permet
+t-junction 	t – elágazás
+taxi 	taxi
+to accelerate 	gyorsulni
+to brake 	fékezni
+to change gear 	sebességet váltani
+to crash 	összetörik
+to drive 	vezetni
+to fail your driving test 	megbukni az autóvezetői vizsgán
+to have an accident 	balesetet szenved
+to overtake 	megelőzni
+to park 	leparkolni
+to pass your driving test 	átmenni az autóvezetői vizsgán
+to reverse 	tolatni
+to skid 	megcsúszni
+to slow down 	lelassulni
+to speed up 	gyorsítani
+to stall 	elakadni / lefulladni
+to steer 	kormányozni
+to swerve 	elkanyarodni
+toll 	úthasználati díj
+toll road 	vámköteles út
+tractor 	traktor
+traffic 	forgalom
+traffic jam 	forgalmi dugó
+traffic light 	közlekedési jelzőlámpa
+traffic warden 	parkolási ellenőr
+truck 	kamion
+turning 	kanyar
+van 	furgon
+vehicle 	gépjármű

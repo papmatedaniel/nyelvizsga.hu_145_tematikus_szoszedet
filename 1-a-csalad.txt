@@ -1,0 +1,81 @@
+adopted 	örökbefogadott
+adoption 	örökbefogadás
+anniversary vagy wedding anniversary 	évforduló/házassági évforduló
+aunt 	nagynéni
+baby 	csecsemő
+best man 	tanu
+boyfriend 	barát
+bride 	menyasszony
+bridegroom 	vőlegény
+bridesmaid 	koszorúslány
+brother 	fiútestvér
+brother-in-law 	sógor
+child (többesszáma: children) 	gyermek
+cousin 	unokatestvér
+daughter 	lány
+daughter-in-law 	meny
+divorced 	elvált
+engaged 	jegyes (el van jegyezve)
+family 	család
+family care center 	családsegítő szolgálat
+family status/marital status 	családi állapot
+father (családon belül úgy mondják, hogy dad) 	apa
+father-in-law 	após
+fiancé 	vőlegény
+fiancée 	menyasszony
+girlfriend 	barátnő
+goddaughter 	keresztlány
+godfather 	keresztapa
+godmother 	keresztanya
+godson 	keresztfiú
+grandchild (többesszáma: grandchildren) 	unoka
+granddaughter 	lány unoka
+grandfather (családon belül úgy mondják, hogy granddad vagy grandpa) 	nagypapa (nagypapi)
+grandmother (családon belül úgy mondják, hogy granny vagy grandma) 	nagymama (nagyi, nagymami)
+grandparents 	nagyszülők
+grandson 	fiú unoka
+half-brother 	fiú féltestvér
+half-sister 	lány féltestvér
+honeymoon 	nászút
+husband 	férj
+infant 	gyermek / csecsemő
+marriage 	házasság
+married 	házas
+mother (családon belül úgy mondják, hogy mum) 	anya
+mother-in-law 	anyós
+nephew 	unokaöcs
+niece 	unokahúg
+only child 	egyetlen gyermek
+parent 	szülő
+partner 	partner
+relation vagy relative 	rokon
+separated 	külön él
+single 	egyedülálló
+single mother 	egyedülálló anyuka
+single parent 	egyedülálló apuka
+sister 	lánytestvér
+sister-in-law 	sógornő
+social worker 	családgondozó
+son 	fiú
+son-in-law 	vő
+stepbrother 	mostoha fiútestvér
+stepdaughter 	mostoha lány
+stepfather 	mostoha apa
+stepmother 	mostoha anya
+stepsister 	mostoha lánytestvér
+stepson 	mostoha fiú
+to adopt 	örökbefogadni
+to be born 	megszületni
+to die 	meghalni
+to get divorced 	elválni
+to get married 	megházasodni
+twin 	iker
+uncle 	nagybácsi
+wedding 	esküvő
+wedding cake 	esküvői torta
+wedding day 	esküvő napja
+wedding dress 	menyasszonyi ruha
+wedding ring 	karikagyűrű
+widow 	özvegy asszony
+widower 	özvegy úr
+wife 	feleség

@@ -1,0 +1,55 @@
+(microwave) oven 	mikrohullámú sütő
+(wall-to-wall) carpet 	padlószőnyeg
+air-conditioning 	légkondicionálás
+answering machine 	üzenetrögzítő
+answerphone 	üzenetrögzítő
+armchair 	karosszék
+bath(tub) 	fürdőkád
+bed 	ágy
+bedside lamp 	éjjeli lámpa
+bedside table 	éjjeliszekrény
+bookcase 	könyvesszekrény
+bookshelf 	könyvespolc
+cabinet 	üvegszekrény, tároló
+candlestick 	gyertyatartó
+cassette player 	magnó
+cd player 	cd-lejátszó
+central heating 	központi fűtés
+chair 	szék
+chest of drawers 	fiókos szekrény
+clock 	óra
+coat stand 	fogas
+coffee table 	dohányzóasztal
+cooker 	tűzhely
+cupboard 	fali szekrény
+curtains 	drapes
+desk 	íróasztal
+double bed 	franciaágy
+dressing table 	fésülködőasztal
+dustbin 	szemetes
+dvd player 	dvd-lejátszó
+fitted kitchen 	beépített konyha
+fixtures and fittings 	berendezési tárgyak és felszerelési cikkek
+flower stand 	virágállvány
+gas heating 	gázfűtés
+light 	világítás
+reading lamp 	olvasólámpa
+rug 	szőnyeg
+settee 	dívány
+shelf 	polc
+sink 	mosogató
+sofa 	kanapé
+standing lamp 	állólámpa
+stereo 	sztereó
+telephone 	telefon
+three-piece suite 	háromrészes ülőgarnitúra
+tile stove 	cserépkályha
+towel rack 	törülközőtartó
+tv 	televízió
+vase 	váza
+vcr 	videomagnó
+wall units 	szekrénysor
+wallpaper 	tapéta
+wardrobe 	closet
+wash basin 	mosdókagyló
+with all mod(ern) con(venience)s 	összkomfortos

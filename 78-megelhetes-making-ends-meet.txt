@@ -1,0 +1,29 @@
+basic earnings 	alapkereset
+bill 	számla
+bonus 	jutalom
+contribution 	járulék
+credit 	hitel
+deduction 	levonás
+extras 	prémium
+family budget 	családi költségvetés
+fringe benefit 	fizetésen kívüli juttatás
+income 	bevétel
+instalments 	részletfizetés
+mortgage 	jelzálogteher (ingatlanon)
+outgoings 	kiadások
+overheads 	rezsi
+pay-off 	törlesztés
+property tax 	ingatlanadó
+salary 	fizetés
+sum total 	végösszeg
+tax 	adó
+the three-year child care allowance system 	gyes
+to get by on 100,000 a month 	havi 100 000-ből él
+to get/receive alimony 	tartásdíjat kap
+to get/receive child benefit 	családi pótlékot kap
+to get/receive family allowance 	családi pótlékot kap
+to live on 100,000 a month 	havi 100 000-ből él
+to live on unemployment benefit 	munkanélkülisegélyből él
+to live on/off the dole 	munkanélkülisegélyből él
+unemployment benefit 	munkanélkülisegély
+weight tax 	súlyadó

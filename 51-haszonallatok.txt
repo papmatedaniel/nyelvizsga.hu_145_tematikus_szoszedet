@@ -1,0 +1,30 @@
+bull 	bika
+bullock 	ökör
+calf 	borjú
+camel 	teve
+cattle 	csorda
+chicken 	csirke
+cock 	kakas
+cow 	tehén
+donkey 	szamár
+duck 	kacsa
+ewe 	juh
+foal 	csikó
+goat 	kecske
+goose (többesszáma: geese) 	liba
+hen 	tyúk
+horse 	ló
+kid 	gida
+lamb 	bárány
+llama 	láma
+mule 	öszvér
+pig 	disznó
+pigeon 	galamb
+piglet 	kismalac
+quail 	fürj
+ram 	kos
+sheep (többesszáma: sheep) 	birka (juhok)
+to feed the chickens 	csirkét etetni
+to milk a cow 	tehenet fejni
+turkey 	pulyka
+yak 	jak

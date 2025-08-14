@@ -1,0 +1,23 @@
+citizenship 	állampolgárság
+colonization 	betelepítés
+compulsion 	kényszer
+culture 	kultúra
+destination 	célország
+economic reasons 	gazdasági ok
+exclusion 	kirekesztés
+home 	haza
+host country 	fogadó ország
+immigrant 	bevándorló
+integration 	beilleszkedés
+job creation 	munkahelyteremtés
+labour 	munkaerő
+living 	megélhetés
+migration 	népvándorlás
+minority 	kisebbség
+new home 	új haza
+resettlement 	áttelepülés
+social stratum 	társadalmi réteg
+to organise something 	megszervezni valamit
+war 	háború
+workplace 	munkahely
+xenophobia 	idegenellenesség

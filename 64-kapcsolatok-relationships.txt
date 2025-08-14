@@ -1,0 +1,27 @@
+accomplishment 	jó tulajdonság
+acquaintance 	ismerős
+bad traits 	rossz tulajdonság
+colleague 	munkatárs
+company 	társaság
+crony 	régi barát
+cup and can 	elválaszthatatlan jóbarátok
+extroverted 	extrovertált
+fast friends 	jóbarátok
+friend 	barát
+friendly 	barátságos
+friendship 	barátság
+get to know somebody 	ismerkedik
+girlfriend 	barátnő
+in contact 	kapcsolatot ápol
+introverted 	introvertált
+likeable 	szimpatikus
+love 	szerelem
+mate/pal/buddy 	haver
+partner 	társ
+privacy 	magánélet
+rapport 	szoros kapcsolat
+relationship 	kapcsolat
+relative 	rokon
+soulmate 	lelkitárs
+unsympathetic 	unszimpatikus
+working relationship 	munkakapcsolat

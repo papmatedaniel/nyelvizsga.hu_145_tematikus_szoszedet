@@ -1,0 +1,145 @@
+(heavy) rain 	(kiadós) eső
+(light) breeze 	(enyhe) szellő
+(thunder)storm 	zivatar
+(to) drizzle 	(szitál) / szitálás
+(to) frost 	(megfagy) / fagy
+(to) hail 	jégeső (esik)
+(to) shower 	(zuhog) / zápor
+(to) sleet 	havas eső (esik)
+above zero 	nulla fok felett
+awful 	pocsék
+bad 	rossz
+barometer 	barométer
+below zero 	nulla fok alatt
+bitterly cold 	zord hideg
+boiling hot 	tűzforró
+breeze 	szellő
+celsius 	celsius
+changeable 	változékony
+chilly 	csípős
+clear day 	tiszta nap
+clear sky 	tiszta ég
+climate 	éghajlat
+climate change 	éghajlatváltozás
+cloud 	felhő
+cloudy 	felhős
+cold 	hideg
+cold front 	hidegfront
+cool 	hűvös
+damp 	párás
+degree 	fok
+dew 	harmat
+drizzle 	szitálás
+drought 	szárazság
+dry 	száraz
+dull 	borús, felhős
+effects 	hatások
+fahrenheit 	fahrenheit
+fair 	szép, jó
+fine 	szép
+flood 	árvíz
+flooding 	áradás
+fog 	köd
+foggy 	ködös
+foul 	rossz
+freezing cold 	dermesztő hideg
+frost 	fagy
+frosty 	fagyos
+gale 	erős szél, viharos szél
+global warming 	globális felmelegedés
+good 	szép, jó
+hail 	jégeső
+hailstone 	jégesőszem / jégszem
+haze 	száraz köd
+heat wave 	melegfront
+high pressure 	nagy nyomás
+hot 	meleg
+humid 	nedves
+humidity 	nedvesség, páratartalom
+hurricane 	hurrikán
+ice 	jég
+icy 	jeges
+lightning 	villámlás
+lovely day 	szép nap
+low pressure 	kis nyomás
+mild 	enyhe
+mist 	pára
+misty 	párás
+mud 	sár
+muggy 	fülledt, nyomott
+nasty 	csúnya
+nice 	szép, jó
+north wind 	északi szél
+outbreaks of rain 	kitörés (pl. zápor)
+overcast 	borús
+rain 	eső
+rainbow 	szivárvány
+raindrop 	esőcsepp
+rainfall 	csapadék
+rainy 	esős
+roasting hot 	perzselő
+rotten 	pocsék
+scorching hot 	perzselő
+shower 	zuhé
+sleet 	havas eső
+slight wind 	enyhe szél
+slip 	elcsúszás, megcsúszás
+slippery 	csúszós
+slush 	latyak
+smog 	füstköd, szmog
+snow 	hó
+snowflake 	hópehely
+sticky 	párás
+stifling 	fülledt
+storm 	vihar
+stormy 	viharos
+strong winds 	erős szél
+sultry 	rekkenő
+sun 	nap
+sunny 	napos
+sunny spells 	napos időszakok
+sunshine 	napsütés
+sweltering 	tikkasztó
+temperature 	hőmérséklet
+thermometer 	hőmérő
+thunder 	mennydörgés
+thunderbolt 	villámcsapás
+thunderclap 	mennydörgés
+thunderstorm 	vihar
+to be cold 	fázik
+to be drenched to the skin 	bőrig ázik
+to be hot 	melege van
+to be soaked to the skin 	bőrig ázik
+to be wet through 	elázik, átázik
+to clear up 	kitisztul
+to cloud over 	felhősödik
+to evaporate 	elpárolog
+to feel cold 	fázik
+to feel hot 	melege van
+to fog over 	ködbe borul
+to freeze 	fagyni
+to freeze over 	befagy
+to get cold 	fázik
+to get drenched 	elázik, átázik
+to get hot 	melege van
+to get soaked 	elázik, átázik
+to get soaking wet 	elázik, átázik
+to get wet 	elázik, átázik
+to hail 	jégesőnek esni
+to melt 	olvad
+to pour 	zuhog, szakad
+to rain 	esőnek esni
+to snow 	havazni
+to thaw 	olvad
+tornado 	tornádó
+unbearable heat 	elviselhetetlen hőség
+unpredictable 	kiszámíthatatlan
+vapour 	pára, gőz
+warm 	meleg
+warm front 	melegfront
+weather forecast 	időjárás előrejelzés
+weather report 	időjárás-jelentés
+wet 	nedves
+wind 	szél
+windy 	szeles
+… degrees celsius / centigrade 	… celsius-fok

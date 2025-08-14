@@ -1,0 +1,109 @@
+antique shop 	régiségbolt
+apartment block 	bérház
+art gallery 	galéria
+avenue 	sugárút
+bakery 	pékség
+bank 	bank
+bar 	bár
+barbers 	borbély
+beauty salon 	szépségszalon
+betting shop vagy bookmakers 	fogadóiroda
+block of flats 	lakástömb
+bookshop 	könyvesbolt
+bowling alley 	bowlingterem
+bus shelter 	autóbuszváróhely
+bus station 	buszállomás
+bus stop 	buszmegálló
+butchers 	hentes
+café 	kávézó
+car park 	parkoló
+car showroom 	autószalon
+cathedral 	katedrális
+cemetery 	temető
+charity shop 	segélyszervezeti bolt
+chemists vagy pharmacy 	patika
+children’s playground 	gyermek játszótér
+church 	templom
+cinema 	mozi
+clothes shop 	ruhabolt
+concert hall 	koncertterem
+delicatessen 	csemegeüzlet
+dentists 	fogorvosok
+department store 	áruház
+diy store 	barkácsbolt
+doctors 	orvosok
+dress shop 	ruha bolt
+electrical shop 	elektronikai szaküzlet
+estate agents 	ingatlanügynökség
+farm shop 	gazdabolt
+fire station 	tűzoltóság
+fish and chip shop 	elsősorban halat és sült krumplit áruló létesítmény
+fishmongers 	halkereskedés
+florists 	virágárus
+garage 	autószervíz
+garden centre 	kerti centrum
+general store 	általános üzlet
+gift shop 	ajándékbolt
+greengrocers 	zöldséges
+gym (a következő rövidítése: gymnasium) 	fitness terem
+hairdressers 	fodrászat
+hardware shop 	vaskereskedés
+health centre 	egészségügyi központ
+high street 	főutca
+hospital 	kórház
+hotel 	szálloda
+kiosk 	újságosbódé
+lamppost 	lámpaoszlop
+leisure centre vagy sports centre 	egészségközpont
+library 	könyvtár
+marketplace 	piac
+mosque 	mecset
+multi-storey car park 	többemeletes parkolóház
+museum 	múzeum
+newsagents 	újságos
+office block 	irodaépület
+park 	park
+parking meter 	parkoló óra
+pavement (amerikai angol: sidewalk) 	járda
+pedestrian crossing 	gyalogosátkelő
+pedestrian subway 	aluljáró
+pet shop 	állatkereskedés
+petrol station 	benzinkút
+police station 	rendőrőrs
+post office 	posta
+pub (a következő rövidítése: public house) 	kocsma
+restaurant 	étterem
+school 	iskola
+second-hand bookshop 	antikvárium
+second-hand clothes shop 	használtruha-bolt
+shoe repair shop 	cipészet
+shoe shop 	cipőbolt
+shopping centre 	bevásárlóközpont
+side street 	mellékutca
+signpost 	jelzőtábla
+skate park 	gördeszkapálya
+skyscraper 	felhőkarcoló
+sports shop 	sportbolt
+square 	tér
+stadium 	stadion
+stationers 	papír-írószer bolt
+street 	utca
+subway 	metró
+supermarket 	szupermarket
+swimming baths 	uszoda
+synagogue 	zsinagóga
+tailors 	szabók
+tattoo parlour vagy tattoo studio 	tetoválószalon
+taxi rank 	taxiállomás
+telephone box vagy telephone booth 	telefonfülke
+theatre 	színház
+tower block 	toronyház
+town hall 	városháza
+town square 	főtér
+toy shop 	játékbolt
+train station 	vasútállomás
+university 	egyetem
+vets 	állatkórház
+wildlife parks 	vadaspark
+wine bar 	borozó
+zoo 	állatkert

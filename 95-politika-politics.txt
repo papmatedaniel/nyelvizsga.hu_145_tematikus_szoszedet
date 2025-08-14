@@ -1,0 +1,34 @@
+(trade) union 	szakszervezet
+christian democrats 	kereszténydemokraták
+communist party 	kommunista párt
+conservative party 	konzervatív párt
+corruption 	korrupció
+embezzlement 	sikkasztás
+government 	kormány
+green party 	zöldek pártja
+justice minister 	igazságügyi miniszter
+labour party 	munkáspárt
+left-wing 	baloldali
+liberal democrats 	szabad demokraták
+member of parliament (mp) 	országgyűlési képviselő
+minister of economy 	gazdasági miniszter
+parliament 	országgyűlés
+party 	párt
+policy 	államvezetés, államigazgatás
+political system 	politikai rendszer
+politicians 	politikusok
+president 	köztársasági elnök
+prime minister 	miniszterelnök
+red tape 	bürokrácia
+responsible leadership 	felelős vezetés
+right-wing 	jobboldali
+scandal 	botrány
+smallholders 	kisgazdák
+socialist party 	szocialista párt
+the left 	baloldal
+the right 	jobboldal
+to lose the election 	elveszti a választást
+to vote 	szavaz
+to win the election 	megnyeri a választást
+under-secretary of state 	államtitkár
+young democrats 	fiatal demokraták

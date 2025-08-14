@@ -1,0 +1,30 @@
+(football) pools 	totó
+amusement 	szórakozás
+board game 	társasjáték
+charity work 	jótékonysági munka
+dancing 	táncolás
+diy 	barkácsolás
+doing crosswords 	keresztrejtvényfejtés
+drawing 	rajzolás
+gambling 	szerencsejáték
+gardening 	kertészkedés
+keep-fit classes 	gimnasztikaórák
+keeping pets 	háziállatokat tart
+knitting 	kötés
+lottery 	lottó
+pastime 	időtöltés
+photography 	fényképezés
+playing a musical instrument 	hangszeren játszik
+playing computer games 	számítógépes játékokkal játszik
+reading 	olvasás
+singing in a choir 	kórusban énekel
+taking photographs 	fényképezés
+to collect coins 	érméket gyűjt
+to collect napkins 	szalvétákat gyűjt
+to collect phone cards 	telefonkártyákat gyűjt
+to collect stamps 	bélyegeket gyűjt
+to deal with cars 	autókkal foglalkozni
+to have fun 	szórakozni
+to relax 	kikapcsolódni
+workout 	edzés
+writing 	írás

@@ -1,0 +1,49 @@
+(to) bruise 	(horzsol) / horzsolás
+(to) fracture 	(eltörik) / törés
+(to) sprain 	(kifi camít) / fi cam
+blood-sugar 	vércukor
+bloodless 	vérszegény
+contagious disease 	fertőző betegség
+disability 	rokkantság
+disease 	betegség
+epidemic 	járvány
+fatal 	halálos, végzetes
+handicap 	fogyaték
+hereditary disease 	örökletes betegség
+hyperglycaemia 	magas vércukortartalom
+illnesses 	betegségek
+immune system 	immunrendszer
+immune to … 	védett vmi ellen, immúnis vmivel szemben
+incurable 	gyógyíthatatlan
+infection 	fertőzés
+infectious disease 	fertőző betegség
+iron-deficient anaemia 	vashiányos vérszegénység
+major injury 	súlyos sérülés
+mental illness 	mentális betegség
+minor injury 	apró sérülés
+problem 	probléma
+there’s something wrong with … 	valami baj van valamivel
+thyroid 	pajzsmirigy
+thyroid hyperfunction 	pajzsmirigy túlműködés/túltengés
+to be hurt 	megsérül
+to be injured 	megsérül
+to be taken ill 	megbetegedni
+to become / get ill 	megbetegszik
+to break 	eltörik
+to catch something 	megbetegedni
+to develop a disease 	megbetegszik
+to fall ill 	megbetegszik
+to get hurt 	megsérül
+to get injured 	megsérül
+to get sick 	megbetegszik
+to hurt sy 	megsebesít valakit, fájdalmat okoz valakinek
+to hurt your arm 	megsérti a karját
+to hurt yourself 	megsérti magát
+to immunise sy against … 	ellenállóvá tesz
+to infect 	megfertőz
+to injure sy 	megsebesít valakit, fájdalmat okoz valakinek
+to injure your arm 	megsérti a karját
+to injure yourself 	megsérti magát
+to suffer from … 	szenved valamitől
+trouble 	baj, probléma
+wound 	sérülés, seb

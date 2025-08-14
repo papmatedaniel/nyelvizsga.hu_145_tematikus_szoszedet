@@ -1,0 +1,37 @@
+ant 	hangya
+antenna (többesszáma: antennae) 	csáp
+bedbug 	poloska
+bee 	méhecske
+beetle 	bogár
+bite 	csípés
+butterfly 	lepke
+carpet beetle 	gyapjúbogár
+caterpillar 	hernyó
+centipede 	százlábú
+cockroach 	csótány
+cricket 	tücsök
+flea 	tetü
+fly 	légy
+gnat 	szúnyog
+goliath beetle 	góliátbogár
+grasshopper 	szöcske
+ladybird 	katicabogár
+lucanus 	szarvasbogár
+midge 	muslica
+mosquito 	szúnyog
+moth 	molylepke
+potato beetle 	krumplibogár
+rose beetle 	rózsabogár
+scorpion 	skorpió
+slug 	meztelen csiga
+snail 	csiga
+spider 	pók
+spider web vagy spider’s web 	pókháló
+sting 	fullánk
+termite 	termesz
+to bite 	megmarni
+to crawl 	mászni
+to sting 	megcsípni
+wasp 	darázs
+woodlouse 	ászkarák
+worm 	giliszta

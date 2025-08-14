@@ -1,0 +1,26 @@
+advanced 	felsőfokú
+articles 	cikkek
+audio file 	hangfájl
+course 	kurzus
+cultural knowledge 	kulturális ismeretek
+dictionary 	szótár
+elementary 	alapfokú
+exchange student 	cserediák
+foreign language 	idegen nyelv
+foreign language learning 	külföldi nyelvtanulás
+grammar 	nyelvtan
+intermediate 	középfokú
+language education 	nyelvoktatás
+language exam 	nyelvvizsga
+language teacher 	nyelvtanár
+level of knowledge 	tudásszint
+method 	módszer
+news 	hírek
+partner 	társ
+private lesson 	magánóra
+private tutor 	magántanár
+puzzle 	fejtörő
+reading 	olvasmány
+skills 	ismeretek
+user-friendly 	felhasználóbarát
+vocabulary 	szószedet

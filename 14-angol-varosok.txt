@@ -1,0 +1,22 @@
+communication 	kommunikáció
+dialect 	tájnyelv
+english-speaking 	angol nyelvet beszélő
+foreign language 	idegen nyelv
+grammar 	nyelvtan
+international 	nemzetközi
+isolation 	izoláció
+job/employment 	munka
+knowledge 	ismeret
+language skills 	nyelvtudás
+linguist 	nyelvész
+monolingualism 	egynyelvűség
+official language 	hivatalos nyelv
+optional language 	választható nyelv
+polyglottism 	többnyelvűség
+population 	lakosság
+society 	társadalom
+speak fluent english 	folyékonyan beszél angolul
+spoken language 	beszélt nyelv
+statistics 	statisztika
+universal language 	világnyelv
+worldwide/throughout the world 	világszerte

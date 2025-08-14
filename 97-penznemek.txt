@@ -1,0 +1,14 @@
+australian dollar 	ausztrál dollár
+canadian dollar 	kanadai dollár
+couronnes islandaises 	izlandi korona
+dollar (us dollar) 	dollár
+euro 	euro
+hungarian forint 	magyar forint
+livres turques 	török líra
+mexican peso 	mexikói peso
+pound (british pound vagy pound sterling) 	font
+rouble 	rubel
+rupee 	rúpia
+swiss franc 	svájci frank
+yen 	yen
+yuan 	yuan

@@ -1,0 +1,28 @@
+administration 	ügyintézés
+atm 	pénzautomata
+bank account 	bankszámla
+bank deposit 	bankbetét
+businessman 	üzletember
+credit 	hitel
+credit card 	bankkártya
+crowd 	tömeg
+currency 	valuta
+debt 	adósság
+exchange rate 	árfolyam
+finance 	pénzügy
+guarantor 	kezes
+inflation 	infláció
+interest 	kamat
+investor 	befektető
+invoice number 	számlaszám
+issue bank 	jegybank
+line 	sor
+merchant 	kereskedő
+money 	pénz
+number 	sorszám
+redemption 	törlesztés
+safe 	széf
+security guard 	biztonsági őr
+signature 	aláírás
+stock exchange 	tőzsde
+transaction 	tranzakció

@@ -1,0 +1,23 @@
+(old age) pensioner 	nyugdíjas
+dole money 	munkanélküli-segély
+inopportune 	alkalmatlan
+job centre 	munkaközvetítő iroda
+job seeker 	álláskereső
+out of cash 	kifogyott a készpénzből
+pension 	nyugdíj
+redundancy 	létszámfölösleg, elbocsátás
+retirement 	nyugdíjazás, nyugalomba vonulás
+subsidy 	segélypénz
+to be dismissed 	elbocsát
+to be fired 	kirúg
+to be given the sack 	kirúgják az állásából
+to be laid off 	fölöslegessé válik, megszűnik a munkakör
+to be made redundant 	fölöslegessé válik, megszűnik a munkakör
+to be on the dole 	munkanélküli segélyen él
+to be out of work 	munka nélkül van
+to be sacked 	kirúgják az állásából
+to be unemployed 	munkanélküli
+to get the sack 	kirúgják az állásából
+to retire 	nyugdíjba megy
+unemployment 	munkanélküliség
+unemployment benefit 	munkanélküli-segély

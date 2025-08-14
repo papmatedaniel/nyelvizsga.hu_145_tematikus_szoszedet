@@ -1,0 +1,234 @@
+afghan/afghani 	afgán
+afghanistan 	afganisztán
+albania 	albánia
+albanian 	albán
+algeria 	algéria
+algerian 	algériai
+american 	amerikai
+angola 	angola
+angolan 	angolai
+argentina 	argentína
+argentine/argentinian 	argentin
+australia 	ausztrália
+australian 	ausztráliai
+austria 	ausztria
+austrian 	osztrák
+bangladesh 	banglades
+bangladeshi 	bangladesi
+belarus 	belorusszia
+belarusian 	belorusz
+belgian 	belga
+belgium 	belgium
+bolivia 	bolívia
+bolivian 	bolíviai
+botswana 	botswana
+botswanan 	botswanai
+brazil 	brazília
+brazilian 	brazil
+british 	brit
+bulgaria 	bulgária
+bulgarian 	bulgár
+burmese 	burmai
+cambodia 	kambodzsa
+cambodian 	kambodzsai
+canada 	kanada
+canadian 	kanadai
+chile 	chile
+chilean 	chilei
+china 	kína
+chinese 	kínai
+colombia 	kolumbia
+colombian 	kolumbiai
+congolese 	kongói
+croatia 	horvátország
+croatian 	horvát
+cuba 	kuba
+cuban 	kubai
+cypriot 	ciprusi
+cyprus 	ciprus
+czech 	cseh
+czech republic 	cseh köztársaság
+danish 	dán
+democratic republic of the congo 	kongói demokratikus köztársaság
+denmark 	dánia
+dutch 	holland
+dutchman/dutchwoman 	holland férfi/holland nő
+ecuador 	ecuador
+ecuadorian 	ecuadori
+egypt 	egyiptom
+egyptian 	egyiptomi
+england 	anglia
+englishman/englishwoman 	angol férfi/angol nő
+enlish 	angol
+estonia 	észtország
+estonian 	észt
+ethiopia 	etiópia
+ethiopian 	etiópiai
+fiji 	fidzsi
+fijian 	fidzsi
+filipino 	fülöp-szigeteki
+finland 	finnország
+finnish 	finn
+france 	franciaország
+french 	francia
+frenchman/frenchwoman 	francia férfi/francia nő
+georgia 	grúzia
+georgian 	grúz
+german 	német
+germany 	németország
+ghana 	ghána
+ghanaian 	ghánai
+greece 	görögország
+greek 	görög
+guatemala 	guatemala
+guatemalan 	guatemalai
+hungarian 	magyar
+hungary 	magyarország
+iceland 	izland
+icelandic 	izlandi
+india 	india
+indian 	indiai
+indonesia 	indonézia
+indonesian 	indonéz
+iran 	irán
+iranian/persian 	iráni
+iraq 	irak
+iraqi 	iraki
+ireland 	írország
+irish 	ír
+irishman/irishwoman 	ír férfi/ír nő
+israel 	izrael
+israeli 	izraeli
+italian 	olasz
+italy 	olaszország
+ivorian 	elefántcsontparti
+ivory coast 	elefántcsontpart
+jamaica 	jamaika
+jamaican 	jamaikai
+japan 	japán
+japanese 	japán
+jordan 	jordánia
+jordanian 	jordán
+kazakh/kazakhstani 	kazah/kazahsztáni
+kazakhstan 	kazahsztán
+kenya 	kenya
+kenyan 	kenyai
+kuwait 	kuvait
+kuwaiti 	kuvaiti
+laos 	laosz
+laotian/lao 	laoszi/lao
+latvia 	lettország
+latvian 	lett
+lebanese 	libanoni
+lebanon 	libanon
+libya 	líbia
+libyan 	líbiai
+lithuania 	litvánia
+lithuanian 	litván
+madagascan 	madagaszkári
+madagascar 	madagaszkár
+malaysia 	malájzia
+malaysian 	malájziai
+mexican 	mexikói
+mexico 	mexikó
+mongolia 	mongólia
+mongolian/mongol 	mongol
+moroccan 	marokkói
+morocco 	marokkó
+mozambican 	mozambiki
+mozambique 	mozambik
+myanmar 	burma
+namibia 	namíbia
+namibian 	namíbiai
+nepal 	nepál
+nepalese/nepali 	nepáli
+netherlands 	hollandia
+new zealand 	új zéland
+nigeria 	nigéria
+nigerian 	nigériai
+north korea 	észak-korea
+north korean 	észak-koreai
+northern irish 	észak-írországi
+northern irishman/northern irishwoman 	észak-írországi férfi/észak-írországi nő
+northern island 	észak-írország
+norway 	norvégia
+norwegian 	norvég
+pakistan 	pakisztán
+pakistani 	pakisztáni
+palestinian 	palesztin
+palestinian territories 	palesztin területek
+paraguay 	paraguay
+paraguayan 	paraguayi
+peru 	peru
+peruvian 	perui
+philippines 	fülöp-szigetek
+poland 	lengyelország
+polish 	lengyel
+portugal 	portugália
+portuguese 	portugál
+romania 	románia
+romanian 	román
+russia 	oroszország
+russian 	orosz
+saudi arabia 	szaúd-arábia
+saudi arabian 	szaúd-arábiai
+scot/scotsman/scotswoman 	skót/skót férfi/skót nő
+scotland 	skócia
+scottish 	skót
+serbia 	szerbia
+serbian 	szerb
+singapore 	szingapúr
+singaporean 	szingapúri
+slovak/slovakian 	szlovák
+slovakia 	szlovákia
+slovenia 	szlovénia
+slovenian/slovene 	szlovén
+somali/somalian 	szomáli/szomáliai
+somalia 	szomália
+south africa 	dél-afrika
+south african 	dél-afrikai
+south korea 	dél-korea
+south korean 	dél-koreai
+spain 	spanyolország
+spanish 	spanyol
+sri lanka 	srí lanka
+sri lankan 	srí-lankai
+sudan 	szudán
+sudanese 	szudáni
+sweden 	svédország
+swedish 	svéd
+swiss 	svájci
+switzerland 	svájc
+syria 	szíria
+syrian 	szíriai
+taiwan 	tajvan
+taiwanese 	tajvani
+tanzania 	tanzánia
+tanzanian 	tanzániai
+thai 	thaiföldi
+thailand 	thaiföld
+tunisia 	tunézia
+tunisian 	tunéziai
+turkey 	törökország
+turkish 	török
+uganda 	uganda
+ugandan 	ugandai
+ukraine 	ukrajna
+ukrainian 	ukrán
+united kingdom 	egyesült királyság
+united states 	amerikai egyesült államok (usa)
+uruguay 	uruguay
+uruguayan 	uruguayi
+venezuela 	venezuela
+venezuelan 	venezuelai
+vietnam 	vietnám
+vietnamese 	vietnámi
+wales 	wales
+welsh 	walesi
+welshman/welshwoman 	walesi férfi/walesi nő
+yemen 	jemen
+yemeni/yemenite 	jemeni
+zambia 	zambia
+zambian 	zambiai
+zimbabwe 	zimbabwe
+zimbabwean 	zimbabwei

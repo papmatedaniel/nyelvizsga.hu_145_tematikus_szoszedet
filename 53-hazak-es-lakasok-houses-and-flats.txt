@@ -1,0 +1,16 @@
+apartment block 	bérház
+block of flats 	panellakás
+brick house 	tégla ház
+bungalow 	földszintes családi ház
+chalet 	faház
+condominium 	társasház
+cottage 	falusi ház
+council housing 	önkormányzati bérház
+detached house 	családi ház
+house with a garden 	kertes ház
+on the first floor 	első emeleten
+pisé-building 	vályogház
+semi-detached house 	ikerház
+stairs 	lépcső
+terraced house 	sorház
+weekend house 	hétvégi ház

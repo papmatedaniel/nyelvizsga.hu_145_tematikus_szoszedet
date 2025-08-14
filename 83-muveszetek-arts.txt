@@ -1,0 +1,33 @@
+abstract 	elvont
+acrylic 	akril
+architecture 	építészet
+asymmetry 	aszimmetria
+balance 	egyensúly
+charcoal drawing 	szénrajz
+colors/colours 	színek
+constructivism 	konstruktivizmus
+crreation 	alkotás
+dance 	tánc
+drawing 	rajz
+emotions 	érzelmek
+esthetics 	esztétika
+expression 	kifejezés
+expressionism 	expresszionizmus
+futurism 	futurizmus
+history of art 	művészettörténet
+impact 	hatás
+impressionism 	impresszionizmus
+literature 	irodalom
+masterpiece 	remekmű
+modernism 	modernizmus
+novel 	novella
+oil painting 	olajfestmény
+painting 	festmény
+poem 	vers
+poet 	költő
+realism 	realizmus
+section 	ágazat
+self-realization 	önmegvalósítás
+style 	stílus
+theatre 	színház
+writer 	író

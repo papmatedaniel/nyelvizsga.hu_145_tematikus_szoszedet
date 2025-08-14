@@ -1,0 +1,39 @@
+abbey 	apátság
+beech 	bükk
+buda palace 	budavári palota
+capital 	főváros
+castle 	kastély
+cave 	barlang
+cave system 	barlangrendszer
+chain bridge 	lánchíd
+church 	templom
+civilization 	művelődés
+culture 	kultúra
+eger castle 	egri vár
+excursion 	kirándulás
+festetics palace 	festetics-kastély
+fisherman’s bastion 	halászbástya
+gellért hill 	gellért-hegy
+heroes square 	hősök tere
+history 	történelem
+house of parliament 	országház
+lake 	tó
+lake balaton 	balaton
+margaret island 	margit-sziget
+mecsek 	mecsek
+monastery 	kolostor
+monument 	műemlék
+national park 	nemzeti park
+palace of arts (art gallery) 	műcsarnok
+pannonhalma archabbey 	pannonhalmi apátság
+sculpture 	szobor
+sight 	nevezetesség
+spectacle 	látványosság
+st. stephen’s basilica 	szent istván bazilika
+statue of liberty 	szabadság szobor
+the citadel 	citadella
+the city park 	városliget
+the hungarian conquest 	honfoglalás
+tihany abbey 	tihanyi bencés apátság
+tourism 	turisztika
+zoo 	állatkert

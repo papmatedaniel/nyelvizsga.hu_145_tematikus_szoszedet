@@ -1,0 +1,17 @@
+business trip 	üzleti út
+currency 	valuta
+foreign language 	idegen nyelv
+immigration control 	bevándorlási ellenőrzés
+security check 	biztonsági ellenőrzés
+to apply for a passport 	útlevelet igényel
+to apply for a visa 	vízumot igényel
+to check documents 	iratokat, dokumentumokat ellenőriz
+to clear customs 	vámkezelés
+to cross the border 	átlépi a határt
+to declare 	elvámol
+to expire 	lejár
+to go by car 	autóval menni
+to go by plane 	repülővel menni
+to go in groups 	csoportosan menni
+to have sg renewed 	megújít vmit
+to pay duty on … 	vámot fizet vmire

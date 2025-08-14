@@ -1,0 +1,52 @@
+(poisonous) emissions 	károsanyagkibocsátás
+a broken watermain 	eltörött vízvezetékfőcső
+air pollution 	levegőszennyezés
+animal rights activist 	állatok jogaival foglalkozó aktivista
+blast 	robbanás
+blaze 	tűz, lángok
+bottle bank 	üveggyűjtő konténer
+car exhaust fumes 	autó kipufogógáza
+cloud 	felhő
+collision 	ütközés, karambol
+derailment 	kisiklás
+destruction 	pusztítás
+disasters 	katasztrófák
+disposal of hazardous waste 	veszélyes hulladék ártalmatlanítása
+dog days 	kánikula
+earthquake 	földrengés
+ecological disaster 	ökológiai katasztrófa, szerencsétlenség
+ecological group 	ökológiai csoport
+environmental hazard 	környezeti ártalom
+environmental protection 	környezetvédelem
+environmentalist 	környezetvédő
+environmentally friendly 	környezetbarát
+environmentally unfriendly 	környezetszennyező
+explosion 	robbanás
+fire 	tűz
+gas-leak 	gázszivárgás
+global problems 	globális, az egész világra kiterjedő problémák
+green issues 	környezeti kérdések, problémák
+hurricane 	hurrikán
+industrial disaster 	ipari, üzemi baleset, katasztrófa
+landfill 	szemétlerakó
+landslide 	hegyomlás
+noise pollution 	zajártalom
+nuclear power station 	atomerőmű
+ozone layer 	ózonréteg
+plane crash 	repülőgépszerencsétlenség
+radioactive waste 	radioaktív hulladék
+rain 	eső
+recycling 	újrafeldolgozás
+sandstorm 	homokvihar
+storm 	vihar
+sunshine 	napsütés
+the natural environment 	a természetes környezet
+the sky is full of stars 	csillagos az égbolt
+the state of the environment 	a környezet állapota
+to dispose of sg 	megszabadul vmitől
+to recycle 	újrahasznosít
+tsunami 	cunami
+unleaded petrol 	ólommentes benzin
+volcanic eruption 	vulkánkitörés
+waste dumping 	hulladék lerakása, kiszórása (pl. tengerbe)
+water pollution 	vízszennyezés

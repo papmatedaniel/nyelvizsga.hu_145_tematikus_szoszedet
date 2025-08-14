@@ -1,0 +1,22 @@
+centre of the city 	városközpont
+downtown 	district
+greenbelt 	zöldövezet
+handy for the shops 	könnyen elérhetőek a boltok
+in the city centre 	városközpontban
+inner city 	belváros
+just off 	vmihez közel
+located 	elhelyezkedik
+location 	elhelyezkedés
+neighboring 	szomszédos
+neighbour/neighbor 	szomszéd
+next door 	a szomszédban
+on a housing estate 	lakótelepen
+on the outskirts 	külkerület
+relationship 	kapcsolat
+situated 	elhelyezkedik
+slum 	nyomornegyed
+suburbs 	külváros
+warren 	lakótelep
+with every amenity 	minden kényelemmel
+with good public transport connections 	jó tömegközlekedéssel
+within easy reach of … 	vminek a közelében

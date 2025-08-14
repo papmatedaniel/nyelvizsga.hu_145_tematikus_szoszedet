@@ -1,0 +1,18 @@
+cousin 	unokatestvér
+daughter 	lány gyermek
+expectant mother 	várandós anya
+granddaughter 	lány unoka
+grandson 	fiú unoka
+nephew 	unokaöcs
+niece 	unokahúg
+only child 	egyke
+pregnancy 	terhesség
+son 	fiú gyermek
+to be on maternity leave 	szülési szabadságon van
+to be pregnant 	terhesnek lenni
+to bring up children 	felnevel gyerekeket
+to give birth 	megszül
+to have a child 	gyermeke van
+to raise children 	felnevel gyerekeket
+to rear children 	felnevel gyerekeket
+twin 	iker

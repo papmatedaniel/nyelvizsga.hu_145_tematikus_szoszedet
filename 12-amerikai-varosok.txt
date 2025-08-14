@@ -1,0 +1,26 @@
+atlanta 	atlanta
+boston 	boston
+chicago 	chicago
+dallas 	dallas
+detroit 	detroit
+honolulu 	honolulu
+houston 	houston
+indianapolis 	indianapolis
+kansas city 	kansas city
+las vegas 	las vegas
+los angeles 	los angeles
+memphis 	memphis
+miami 	miami
+nashville 	nashville
+new orleans 	new orleans
+new york (más néven new york city) 	new york
+oklahoma city 	oklahoma city
+philadelphia 	philadelphia
+phoenix 	phoenix
+pittsburgh 	pittsburgh
+san antonio 	san antonio
+san diego 	san diego
+san francisco 	san francisco
+seattle 	seattle
+st. louis 	st. louis
+washington, dc 	washington, dc

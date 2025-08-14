@@ -1,0 +1,43 @@
+(personnel) department 	(munkaügyi) osztály
+basic earnings 	alapkereset
+blue-collar worker 	fizikai munkás
+bonus 	jutalom
+boss 	főnök
+capital 	tőke
+career 	(élet)pálya, hivatás, karrier
+contribution 	járulék
+deduction 	levonás
+employee 	alkalmazott
+entrepreneur 	vállalkozó (saját tőkéjét kockáztató üzleti vállalkozó)
+factory 	gyár
+factory hand 	segédmunkás
+funds 	(alap)tőke, anyagi eszközök
+job 	munka
+management 	igazgatás, igazgatóság
+manager 	igazgató
+manual work/job 	fizikai munka
+menial work 	alantas munka
+occupation 	foglalkozás
+payment 	fizetség
+post 	állás, elhelyezkedés
+private sector 	magánszektor
+profession 	hivatás
+professional people 	diplomás, értelmiségi
+qualifications 	képzettség, végzettség
+salary 	fizetés
+skilled worker 	szakképzett dolgozó
+sum total 	végösszeg
+tax 	adó
+to be a freelance … 	szabadúszó
+to be selfemployed 	maszek, magánvállalkozó
+to run one’s own business 	saját üzletet vezet, vállalkozik
+to set up a business enterprise 	üzleti vállalkozást beindítani
+to start one’s own business 	üzleti vállalkozást beindítani
+trade 	szakma
+unskilled worker 	szakképzetlen dolgozó
+vocation 	hivatás
+wage 	bérezés
+walk(s) of life 	életpálya, hivatás
+white-collar worker 	szellemi munkás
+work 	munka
+workplace 	munkahely

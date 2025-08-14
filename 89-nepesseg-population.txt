@@ -1,0 +1,18 @@
+birth rate 	születési arány
+continent 	kontinens
+crowd 	tömeg
+date 	dátum
+death rate 	halálozási arány
+demography 	demográfia
+density of population 	népsűrűség
+estimated 	becsült
+growth 	növekedés
+headcount 	létszám
+international 	nemzetközi
+overpopulation 	túlnépesedés
+population 	lakosság
+population explosion 	népességrobbanás
+rate of growth 	növekedési ütem
+statistics 	statisztika
+world 	világ
+world population 	világnépesség
