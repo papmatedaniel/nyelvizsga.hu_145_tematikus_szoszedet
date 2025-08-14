@@ -1,0 +1,58 @@
+(on) telly 	tv-ben
+(on) the box 	tv-ben
+(on) tv 	tv-ben
+a new release 	újonnan megjelent
+acid house 	acid house
+album 	album
+blue movie 	erotikus film
+camera 	kamera
+cartoon 	rajzfilm
+cd disk 	cd lemez
+cd player 	cd-lejátszó
+cd-rom 	cd-rom
+chat show 	beszélgetős műsor
+commercial 	reklám
+commercial and satellite channels 	kereskedelmi és műholdas csatornák
+commercial and satellite stations 	kereskedelmi és műholdas csatornák
+commercial and satellite tv 	kereskedelmi és műholdas televízió
+couch potato 	tv-mániás
+country 	country
+current affairs programme 	aktuális események műsora
+discussion 	vita
+documentary 	dokumentumfilm
+educational programme 	oktatóműsor
+feature film 	játékfilm
+game show 	játékműsor
+general interest programme 	közérdekű műsor
+guest 	vendég
+heavy metal 	heavy metal
+hit 	siker, sláger
+host 	házigazda
+jazz 	dzsessz
+listener 	hallgató
+live broadcast 	élő közvetítés
+magazine 	magazinműsor
+news feature 	hírműsor
+on the radio 	rádióban
+political programme 	politikai műsor
+pop 	pop
+presenter 	műsorvezető
+quiz show 	kvízműsor
+radio station 	rádióállomás
+record player 	lemezjátszó
+rock 	rock
+serial 	sorozat
+series 	sorozat
+single 	kislemez
+soap (opera) 	szappanopera
+sound pick-up 	hanglejátszó
+sports programme 	sportműsor
+successful 	sikeres
+techno 	techno
+to broadcast 	közvetít, sugároz
+tv channel 	tv-csatorna
+vcr 	videomagnó
+video 	videó
+viewer 	néző
+voice recorder 	hangrögzítő
+wildlife documentary 	természetfilm

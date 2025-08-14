@@ -1,0 +1,37 @@
+anglican 	anglikán
+atheist 	ateista, istenben nem hívő
+bishop 	püspök
+buddhist 	buddhista
+calvinist 	református
+christian 	keresztény
+congregation 	gyülekezet
+cross 	kereszt
+cult 	kultusz
+denomination 	felekezet
+faith 	hit
+fanatic 	fanatikus
+god 	isten
+hindu 	hindu
+jewish 	zsidó
+mass 	mise
+minister 	lelkész, lelkipásztor (protestáns)
+monk 	szerzetes
+muslim 	muzulmán, mohamedán
+non-believer 	nem hívő
+places of worship 	imahely
+prayer 	ima
+prayerbook 	imakönyv
+priest 	pap
+protestant 	protestáns
+rabbi 	rabbi
+religious 	vallásos
+roman catholic 	római katolikus
+sect 	szekta
+service 	istentisztelet
+the bible 	a biblia
+the church 	egyház
+the pope 	a pápa
+to believe in sg 	hisz vmiben
+to go to church 	templomba jár
+to pray 	imádkozik
+vicar 	lelkész (anglikán)

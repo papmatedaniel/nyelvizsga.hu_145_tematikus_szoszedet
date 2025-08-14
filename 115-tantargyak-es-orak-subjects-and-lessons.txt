@@ -1,0 +1,53 @@
+answer 	válasz
+arithmetic 	számtan
+art college 	képzőművészeti főiskola
+art/arts 	history of art
+arts subjects 	humán tantárgyak
+assembly 	iskolai gyűlés
+attendance 	jelenlévők
+biology 	biológia
+blackboard 	iskolatábla
+break 	szünet
+calculator 	számológép
+certificate 	oklevél
+chalk 	kréta
+changing room 	öltöző
+class 	osztály, óra
+classroom 	osztályterem
+cloakroom 	ruhatár
+compulsory subjects 	kötelező tantárgyak
+course 	szak, tanfolyam
+course book 	tankönyv
+curriculum 	tanterv, tanmenet
+form 	osztály
+grade 	jegy
+in a lesson 	órán
+lesson 	tanóra
+mark 	jegy
+optional subjects 	választható tantárgyak
+requirements 	követelmények
+school report 	félévi/évvégi bizonyítvány
+school year 	tanév
+science subjects 	reál tantárgyak
+standard(s) 	színvonal
+straight as 	kitűnő
+syllabus 	összefoglaló tanterv, tanmenet
+teaching methods 	tanítási módszerek
+term 	félév
+textbook 	tankönyv
+the humanities 	humán tantárgyak
+the sciences 	reál tantárgyak
+timetable 	órarend
+to answer questions 	felel / kérdésekre válaszol
+to be bad at 	rossz vmiből
+to be good at 	jó vmiből
+to be weak in 	gyenge vmiből
+to do a subject 	egy tantárgyat tanul
+to do a test 	dolgozatot ír
+to do well at school 	jól tanul az iskolában
+to do well in a subject 	jól teljesít egy tantárgyból
+to get good marks in … 	jó jegyeket kap vmiből
+to get high marks in … 	jó jegyeket kap vmiből
+to get low marks in … 	rossz jegyeket kap vmiből
+to specialise in a subject 	szakosodik
+to study a subject 	egy tantárgyat tanul

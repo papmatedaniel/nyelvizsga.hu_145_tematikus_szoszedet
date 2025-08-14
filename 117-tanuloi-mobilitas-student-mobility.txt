@@ -1,0 +1,22 @@
+abroad 	külföld
+camp 	tábor
+class trip 	osztálykirándulás
+elective course 	fakultáció
+exchange student 	cserediák
+excursion 	kirándulás
+exhibition 	kiállítás
+experience 	élmény
+freshman camp 	gólyatábor
+host family 	fogadó család
+international 	nemzetközi
+landscape 	táj
+language examination 	nyelvvizsga
+lifekind 	életforma
+meeting 	találkozó
+museum visit 	múzeumlátogatás
+seminar 	szeminárium
+student 	diák
+student council 	diákönkormányzat
+student exchange program 	cserediák program
+to get acquainted with something 	megismerni valamit
+tolerance 	tolerancia

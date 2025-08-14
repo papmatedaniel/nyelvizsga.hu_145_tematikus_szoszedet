@@ -1,0 +1,87 @@
+“o” 	nulla (úgy ejtik ki, mint az angol „o” betűt; beszélt nyelvben használják, különösen telefonszámoknál)
+approximately 	mintegy/körülbelül
+division 	osztás
+eight 	nyolc
+eighteen 	tizennyolc
+eighteenth 	tizennyolcadik
+eighth 	nyolcadik
+eightieth 	nyolcvanadik
+eighty 	nyolcvan
+eleven 	tizenegy
+eleventh 	tizenegyedik
+fifteen 	tizenöt
+fifteenth 	tizenötödik
+fifth 	ötödik
+fiftieth 	ötvenedik
+fifty 	ötven
+first 	első
+five 	öt
+five hundred thousand 	ötszázezer
+five times 	ötször
+fortieth 	negyvenedik
+forty 	negyven
+four 	négy
+four times 	négyszer
+fourteen 	tizennégy
+fourteenth 	tizennegyedik
+fourth 	negyedik
+hundredth 	századik
+lakh/one hundred thousand 	százezer
+minus number 	mínusz szám
+multiplication 	szorzás
+nil 	nul (amikor sporteredményekről beszélnek)
+nine 	kilenc
+nineteen 	tizenkilenc
+nineteenth 	tizenkilencedik
+ninetieth 	kilencvenedik
+ninety 	kilencven
+ninth 	kilencedik
+nought 	nulla (a 0 szám)
+once 	egyszer
+one 	egy
+one billion, a billion 	egy billió, egybillió
+one hundred and one, a hundred and one 	százegy
+one hundred, a hundred 	száz
+one million, a million 	egy millió, egymillió
+one thousand, a thousand 	ezer
+prime number 	prímszám
+second 	második
+seven 	hét
+seventeen 	tizenhét
+seventeenth 	tizenhetedik
+seventh 	hetedik
+seventieth 	hetvenedik
+seventy 	hetven
+six 	hat
+sixteen 	tizenhat
+sixteenth 	tizenhatodik
+sixth 	hatodik
+sixtieth 	havanadik
+sixty 	hatvan
+ten 	tíz
+tenth 	tizedik
+third 	harmadik
+thirteen 	tizenhárom
+thirteenth 	tizenharmadik
+thirtieth 	harmincadik
+thirty 	harminc
+thousandth 	ezredik
+three 	három
+three hundred 	háromszáz
+three thousand 	háromezer
+three times 	háromszor
+twelfth 	tizenkettedik
+twelve 	tizenkettő
+twentieth 	huszadik
+twenty 	húsz
+twenty-first 	huszonegyedik
+twenty-one 	huszonegy
+twenty-second 	huszonkettedik
+twenty-third 	huszonharmadik
+twenty-three 	huszonhárom
+twenty-two 	huszonkettő
+twice 	kétszer
+two 	kettő
+two hundred 	kettőszáz
+two thousand 	kétezer
+zero 	nulla (beszélt nyelvben és hőmérsékleti értékként)

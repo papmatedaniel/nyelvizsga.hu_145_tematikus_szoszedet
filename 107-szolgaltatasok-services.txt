@@ -1,0 +1,23 @@
+accounting 	könyvelés
+banking 	banki ügylet
+bill/receipt 	számla
+break down 	elromlik
+certificate 	igazolvány
+check on something 	ellenőriz valamit
+client 	ügyfél
+communication 	kommunikáció
+customer service 	vevőszolgálat
+energy services 	energiaszolgáltatás
+get damaged 	megsérül
+loss of warranty 	garancia elvesztése
+product 	termék
+put in repair 	javításba ad
+reliability 	megbízhatóság
+renovation 	felújítás
+repair 	javítás
+shipping 	szállítás
+skim through something 	átnéz valamit
+tax counseling 	adótanácsadás
+telecommunications 	távközlés
+warranty 	garancia
+warranty card 	garancialevél

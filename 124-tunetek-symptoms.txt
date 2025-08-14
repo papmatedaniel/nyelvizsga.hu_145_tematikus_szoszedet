@@ -1,0 +1,96 @@
+(to) hiccup 	(csuklik) / csuklás
+(to) sigh 	(sóhajt) / sóhajtás
+(to) sneeze 	(tüsszent) / tüsszentés
+(to) wheeze 	(zihál, liheg) / zihálás
+a dull pain 	tompa fájdalom
+a sharp pain 	éles, szúró fájdalom
+aches and pains 	fájdalmak
+an upset stomach 	gyomorrontás
+an upset tummy 	gyomorrontás
+be seized with a cramp 	görcs fogja el
+birthmark 	anyajegy
+blister 	hólyag
+burn 	égés
+chromatism 	elszíneződés
+contusion 	ütődés
+corn 	tyúkszem
+depression 	depresszió
+fainting 	ájulás
+fever 	láz
+his foot hurts 	fáj a talpa
+his hands hurt 	fáj a keze
+inflammation 	gyulladás
+mutation 	elváltozás
+pain in the legs 	fáj a lába
+painful 	fájó, fájdalmas
+pimple 	pattanás
+scar 	sebhely
+skin 	bőr
+sore 	fájó, fájdalmas
+sounds 	hangok
+spasm 	görcs
+spasmodical 	görcsös rángás
+stomach 	gyomor
+sty 	árpa
+suffering 	szenvedés
+swelling 	duzzanat
+telltale signs 	árulkodó jelek
+to ache 	fáj, fájdalma van
+to be / feel a bit under the weather 	rosszul érzi magát
+to be depressed 	depressziós
+to be exhausted 	kimerült
+to be inflamed 	gyulladt
+to be jumpy 	izgatott
+to be nervous 	ideges
+to be nervy 	ideges
+to be sick 	hány
+to be strained 	feszült
+to be stressed 	feszült
+to be tense 	feszült
+to be unconscious 	eszméletlen
+to bring up 	kihány
+to come out in a rash 	kiütések keletkeznek rajta
+to come to 	magához tér
+to cough 	köhög
+to feel bad 	rosszul érzi magát
+to feel dizzy 	szédül
+to feel funny 	furcsán érzi magát
+to feel poorly 	rosszul van
+to feel run-down 	kimerült
+to feel shivery 	reszket
+to feel sick 	hányingere van
+to feel terrible 	rosszul érzi magát
+to get a headache 	fáj a feje
+to get a sore throat 	fáj a torka
+to get backache 	fáj a háta
+to get chest pains 	mellkasi fájdalmai vannak
+to get earache 	fáj a füle
+to get stomach ache 	fáj a gyomra
+to get toothache 	fáj a foga
+to have a (bad) cough 	(csúnyán) köhög
+to have a cavity 	lyukas a foga
+to have a headache 	fáj a feje
+to have a pain in … 	fáj, fájdalma van vhol
+to have a rash on … 	kiütései vannak vhol
+to have a runny nose 	folyik az orra
+to have a sore throat 	fáj a torka
+to have a temperature of … 	a hőmérséklete …
+to have backache 	fáj a háta
+to have chest pains 	mellkasi fájdalmai vannak
+to have diarrhoea 	to have diarrhea
+to have earache 	fáj a füle
+to have heartburn 	gyomorégése van
+to have high blood pressure 	magas a vérnyomása
+to have low blood pressure 	alacsony a vérnyomása
+to have spots on … 	kiütési, pattanásai vannak vhol
+to have stomach ache 	fáj a gyomra
+to have toothache 	fáj a foga
+to hurt 	fáj, fájdalma van
+to lose consciousness 	elveszti az eszméletét
+to lose your appetite 	elmegy az étvágya, étvágytalan lesz
+to lose your voice 	elmegy a hangja
+to puke (up) 	hány, okád
+to swell 	megdagad
+to throw up 	kihány
+to vomit 	hány
+wart 	szemölcs

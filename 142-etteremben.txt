@@ -1,0 +1,23 @@
+bar 	bár
+bill 	számla
+booking vagy reservation 	foglalás
+breakfast 	reggeli
+buffet 	svédasztal
+chef 	szakács
+dessert 	desszert
+dinner 	vacsora
+kitchen boy 	kukta
+lunch 	ebéd
+main course 	főétel
+meal 	étel
+menu 	étlap
+order 	rendelés
+pricing 	árazás
+restaurant 	étterem
+service 	felszolgálás
+service charge 	felszolgálási díj
+starter 	előétel
+tip 	borravaló
+waiter 	pincér
+waitress 	pincérnő
+wine list 	borlap

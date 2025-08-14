@@ -1,0 +1,52 @@
+bland 	ízetlen
+breakfast 	reggeli
+calorie 	kalória
+delicious 	felséges
+dinner 	fő étkezés délben (ilyenkor a vacsorát suppernek mondják) vagy este (ilyenkor az ebédnek a lunch-öt hívják).
+expiration date 	lejárati dátum
+fat 	zsír
+fresh 	friss
+horrible 	borzalmas
+ingredient 	hozzávaló
+juicy 	szaftos
+lunch 	könnyű déli étkezés/ebéd
+mild 	enyhe
+mouldy 	penészes
+off 	megromlott
+oil 	olaj
+over-done vagy over-cooked 	átsült
+poor 	gyatra
+quality 	minőség
+recipe 	recept
+ripe 	érett
+rotten 	rohadt
+salty 	sós
+sickly 	émelyítő
+sour 	savanyú
+spice 	fűszer
+spicy vagy hot 	csípős
+stale 	állott (kenyérre vagy tésztára mondják)
+supper 	könnyű későesti étkezés (egy könnyű étkezés késő éjszaka)
+sweet 	édes
+tasty 	ízletes
+tea 	délutáni tea (egy könnyű kis étkezés, délután 4–5 óra körül)
+tender 	zsenge
+to bake 	sütni
+to boil 	főzni
+to clear the table 	leszedni az asztalt
+to come to the table 	asztalhoz ülni
+to cook 	főzni
+to fry 	megsütni
+to grill 	grillezni
+to have breakfast 	reggelizni
+to have dinner 	vacsorázni
+to have lunch 	ebédelni
+to lay the table vagy to set the table 	megteríteni az asztalt
+to leave the table 	felállni az asztaltól
+to prepare a meal 	ételt készíteni
+to roast 	kisütni
+to steam 	párolni
+to wipe the table 	letörölni az asztalt
+tough 	rágós
+under-done 	félig sült
+unripe 	éretlen

@@ -1,0 +1,27 @@
+black 	fekete
+blue 	kék
+bright blue 	világoskék
+bright green 	világoszöld
+bright red 	világospiros
+brown 	barna
+color wheel 	színkör
+dark blue 	sötétkék
+dark brown 	sötétbarna
+dark green 	sötétzöld
+gold 	arany
+green 	zöld
+grey vagy gray 	szürke
+light blue 	világoskék
+light brown 	világosbarna
+light green 	világoszöld
+magenta 	magenta
+multicoloured 	többszínű
+orange 	narancssárga
+pink 	rózsaszínű
+purple 	lila
+red 	piros
+saturation 	telítettség
+silver 	ezüst
+turquoise 	türkizkék
+white 	fehér
+yellow 	sárga

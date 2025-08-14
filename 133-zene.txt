@@ -1,0 +1,103 @@
+acoustic 	akusztikus
+alto 	alt
+amp (a következő rövidítése: amplifier) 	erősítő
+audience 	hallgatóság
+band 	banda / csapat / zenekar
+baritone 	bariton
+bass 	basszus
+bassist vagy bass player 	basszusgitáros
+beat 	ütem
+blues 	blues
+brass band 	trombitaegyüttes
+cd 	cd
+cd player 	cd lejátszó
+cellist 	csellista
+choir 	kórus
+classical 	klasszikus
+composer 	dalszerző
+concert 	koncert
+concert band 	koncertzenekar
+conductor 	karmester
+country 	country
+dance 	dance
+dj 	dj
+drummer 	dobos
+dubstep 	dubstep
+duet 	duett
+easy listening 	könnyűzene
+electronic 	elektronikus
+flautist 	fuvolás
+folk 	népzene
+guitarist 	gitáros
+harmony 	harmónia
+headphones 	fülhallgató
+heavy metal 	heavy metal
+hi-fi vagy hi-fi system 	hi-fi
+hip hop 	hip hop
+hymn 	himnusz
+in tune 	behangolva
+instrument 	hangszer
+jazz 	jazz
+jazz band 	jazz együttes
+keyboard player 	billentyűs
+latin 	latin
+loud 	hangos
+love song 	szerelmes dal
+lyrics 	dalszöveg
+melody 	dallam
+melody vagy tune 	melódia
+mic (a következő rövidítése: microphone) 	mikrofon
+mp3 player 	mp3 lejátszó
+music stand 	kottatartó állvány
+musician 	zenész
+national anthem 	nemzeti himnusz
+note 	hang
+opera 	opera
+orchestra 	szimfonikus zenekar
+organist 	orgonaművész
+out of tune 	hamis
+parody song 	paródia zene
+performer 	előadó
+pianist 	zongoraművész
+pop 	pop
+pop group 	popegyüttes
+pop star 	popsztár
+quiet 	halk
+rap 	rap
+rapper 	rapper
+record 	felvétel
+record label 	lemezkiadó
+record player 	lemezjátszó
+recording 	felvétel
+recording studio 	stúdió
+reggae 	reggae
+rhythm 	ritmus
+rock 	rock
+rock band 	rockegyüttes
+rumba 	rumba
+salsa 	salsa
+saxophonist 	szakszofonos
+scale 	skála
+singer 	énekes
+soft 	csendes
+solo 	szóló
+song 	ének / dal
+soprano 	szoprán
+speakers 	hangszórók
+stage 	színpad
+stereo vagy stereo system 	sztereo magnó
+string quartet 	vonósnégyes
+symphony 	szimfónia
+techno 	techno
+tenor 	tenor
+to listen to music 	zenét hallgatni
+to play an instrument 	hangszeren játszani
+to record 	felvenni
+to sing 	énekelni
+track 	zeneszám
+trap 	trap
+tribal 	törzsi
+trombonist 	harsonás
+trumpeter 	trombitás
+violinist 	hegedűművész
+voice 	hang

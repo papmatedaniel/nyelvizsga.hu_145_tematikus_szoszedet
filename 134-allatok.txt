@@ -1,0 +1,58 @@
+aigrette 	kócsag
+ant 	hangya
+bear 	medve
+bee 	méhecske
+butterfly 	lepke
+camel 	teve
+cat 	macska
+chicken 	csirke
+claw 	karom
+cod (többesszáma: cod) 	tőkehal
+cow 	tehén
+crab 	rák
+crocodile 	krokodil
+crow 	varjú
+deer (többesszáma: deer) 	őz
+deer 	szarvas
+dog 	kutya
+dove 	gerle
+duck 	kacsa
+eagle 	sas
+elephant 	elefánt
+fly 	légy
+fox 	róka
+frog 	béka
+fur 	szőrzet
+giraffe 	zsiráf
+goldfish 	aranyhal
+goose 	lúd
+hamster 	hörcsög
+hoof 	pata
+horse 	ló
+kangaroo 	kenguru
+koala 	koala
+lion 	oroszlán
+mane 	sörény
+monkey 	majom
+mouse (többesszáma: mice) 	egér
+owl 	bagoly
+parrot 	papagáj
+paw 	mancs
+pig 	disznó
+pigeon 	galamb
+rabbit 	nyúl
+rat 	patkány
+salmon (többesszáma: salmon) 	lazac
+shark 	cápa
+sheep (többesszáma: sheep) 	birka
+snake 	kígyó
+snout 	pofa
+spider 	pók
+swan 	hattyú
+tail 	farok
+tiger 	tigris
+trout (többesszáma: trout) 	pisztráng
+trunk 	ormány
+tuna (többesszáma: tuna) 	tonhal
+wasp 	darázs
+zebra 	zebra

@@ -1,0 +1,35 @@
+act 	cselekvés
+activity 	tevékenység
+book 	könyv
+calendar 	naptár
+calvary 	kálvária
+castle 	vár
+church 	templom
+civilized 	kultúrált
+commemoration 	megemlékezés
+culture 	kultúra
+ethnography 	néprajz
+festivities 	ünnepkör
+folk 	népi
+folklore 	néphagyomány
+gaining knowledge 	ismeretszerzés
+history 	történelem
+inheritance 	örökség
+knowledge 	ismeret
+memory 	emlék
+monument 	emlékmű
+ornament 	dísz
+palace 	palota
+past 	múlt
+permanent 	időtálló
+phenomenon 	jelenség
+repetition 	ismétlődés
+sculptor 	szobrász
+social studies 	társadalomismeret
+solstice 	napforduló
+statue 	szobor
+tower 	torony
+tradition 	hagyomány
+tradition/custom 	szokás
+traditional costume 	népviselet
+well 	kút

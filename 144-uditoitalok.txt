@@ -1,0 +1,38 @@
+black coffee 	fekete kávé
+calorie 	kalória
+cappuccino 	cappuccino
+cocoa 	kakaó
+coffee 	kávé
+cola / coke 	kóla
+decaffeinated coffee vagy decaf coffee 	koffeinmentes kávé
+diet cola 	cukormentes/diétás kóla
+fibrous juice 	rostos gyümölcslé
+fruit juice 	gyümölcslé
+fruit tea 	gyümölcstea
+grapefruit juice 	grépfrútlé
+green tea 	zöldtea
+herbal tea 	gyógytea
+hot chocolate 	forró csokoládé
+iced tea 	jeges tea
+lemonade 	limonádé
+lime cordial 	zöldcitromszörp
+milkshake 	tejturmix
+mineral water 	ásványvíz
+orange juice 	narancslé
+orange squash 	narancsszörp
+pineapple juice 	ananászlé
+pop 	szénsavas ital (csak egyes területeken)
+smoothie 	smoothie
+soda/soda-water 	szóda
+sparkling water 	szénsavas víz
+squash 	szörp
+still water 	szénsavmentes víz
+strong 	erős
+sugar 	cukor
+sugar free 	cukormentes
+tap water 	csapvíz
+tea 	tea
+tea bag 	teafilter
+tomato juice 	paradicsomlé
+water 	víz
+weak 	gyenge

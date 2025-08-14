@@ -1,0 +1,20 @@
+acquirement 	elsajátítás
+blended teaching 	vegyes tanulás
+classroom 	tanterem
+coaching 	oktatás
+curriculum 	tananyag
+didacticism 	oktatáselmélet
+distance teaching 	távoktatás
+educational environment 	oktatási környezet
+electronic 	elektronikus
+environment 	környezet
+independent 	független
+independent task 	önálló feladat
+internet 	internet
+knowledge 	ismeret
+methodology 	módszertan
+organization 	szervezés
+software 	program
+teaching management 	oktatásszervezés
+to bridge a problem 	áthidalni egy problémát
+virtual education 	virtuális oktatás

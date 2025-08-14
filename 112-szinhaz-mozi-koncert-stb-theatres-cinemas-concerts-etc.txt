@@ -1,0 +1,48 @@
+(leading) role 	(fő)szerep
+a box-office hit 	kasszasiker
+a piece 	darab
+action films 	akciófilmek
+actor 	színész
+actress 	színésznő
+audience 	közönség
+band 	zenekar, banda
+box office 	jegypénztár
+cast 	szereposztás
+circle 	erkély (színházban)
+classical music 	komolyzene
+comedy 	vígjáték
+conductor 	karmester
+director 	rendező
+dubbed films 	szinkronizált filmek
+fans 	rajongók
+films with subtitles 	feliratos filmek
+folk music 	népzene
+group 	együttes
+horror films 	horrorfilmek
+music genre 	zenei műfaj
+musical 	musical
+musician 	zenész
+narrator 	narrátor
+operetta 	operett
+orchestra 	zenekar
+performance 	előadás
+play 	színdarab
+pop music 	popzene
+popcorn 	pattogatott kukorica
+production 	produkció
+prompter 	súgó
+rock music 	rockzene
+screen 	képernyő, vászon
+soloist 	szólista
+stage 	színpad
+stalls 	földszint, zsöllye (színházban)
+subtitled films 	feliratos filmek
+to book a seat 	jegyet vált (előre)
+to go dancing 	táncolni megy
+to go to the cinema 	moziba megy
+to go to the disco 	diszkóba megy
+to go to the opera 	operába megy
+to go to the theatre 	színházba megy
+to have fun 	szórakozni
+to relax 	kikapcsolódni
+war films 	háborús filmek

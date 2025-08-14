@@ -1,0 +1,77 @@
+buffet car 	büféskocsi
+bus 	busz
+bus driver 	buszvezető
+bus fare 	busz
+bus journey 	buszos út
+bus lane 	buszsáv
+bus station 	autóbuszállomás
+bus stop 	busz megálló
+carriage 	kocsi
+coach 	távolsági autóbusz
+coach station 	távolsági autóbuszállomás
+compartment 	fülke
+conductor 	ellenőr, kalaúz
+derailment 	kisiklás
+double-decker bus 	emeletes busz
+express train 	gyorsvonat
+first class 	első osztály
+guard 	vasutas
+inspector 	kalauz
+level crossing 	vasúti sorompó
+line closure 	vasúti pálya lezárás
+live rail 	feszültség alatti sín
+luggage hold 	csomagtér
+luggage rack 	csomagtér
+night bus 	éjszakai buszjárat
+penalty fare 	büntetés
+platform 	vágány
+railcard 	vasúti bérlet
+railway line 	vasúti sínpár
+railway station 	vasútállomás
+request stop 	kívánság szerinti megálló
+restaurant car 	étkezőkocsi
+return (ticket) 	retúrjegy
+route 	útvonal
+season ticket 	bérlet
+seat 	ülés
+seat number 	ülésszám
+second class 	másodosztály
+signal 	jelző
+single (ticket) 	egy utazásra szóló jegy
+sleeper train 	alvókocsi
+station 	állomás
+stopping service 	személyvonat
+terminus 	végállomás
+the next stop 	következő megálló
+ticket barrier 	jegykezelő kapu
+ticket collector 	jegy ellenőr
+ticket inspector 	kalauz
+ticket office vagy booking office 	jegypénztár
+timetable 	menetrend
+to board 	beszáll, felszáll
+to catch a bus 	felszállni egy buszra
+to catch a train 	felszállni egy vonatra
+to catch a train to 	vonattal megy vhová
+to get a bus to 	busszal megy vhová
+to get a train to 	vonattal megy vhová
+to get off the bus 	leszállni a buszról
+to get off the train 	leszállni a vonatról
+to get on the bus 	felszállni a buszra
+to get on the train 	felszállni a vonatra
+to miss 	lekési
+to miss a bus 	lekésni egy buszt
+to miss a train 	lekésni egy vonatot
+to take a bus to 	busszal megy vhová
+to take a train to 	vonattal megy vhová
+track 	vasúti sín
+train 	vonat
+train crash 	vasúti baleset
+train driver 	mozdonyvezető
+train fare 	vasúti menetdíj
+train journey 	vasúti utazás
+train services 	vonatforgalom, közlekedés
+train station 	vonatállomás
+travelcard 	bérlet
+tube station vagy underground station 	metrómegálló
+tunnel 	alagút
+waiting room 	váróterem

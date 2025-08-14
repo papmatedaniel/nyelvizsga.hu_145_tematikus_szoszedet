@@ -1,0 +1,17 @@
+binoculars 	távcső
+compass 	iránytű
+direction 	irány
+east 	kelet
+map 	térkép
+marking 	jelölés
+north 	észak
+northeast 	északkelet
+northwest 	északnyugat
+orientation 	tájolás
+south 	dél
+southeast 	délkelet
+southwest 	délnyugat
+to read a compass 	megnézni iránytűn
+to use a compass 	iránytűt használni
+topometer 	topométer
+west 	nyugat

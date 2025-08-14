@@ -1,0 +1,58 @@
+air steward / air stewardess 	légi utaskísérő / légi utaskísérőnő
+air ticket 	repülőjegy
+aircraft 	repülőgép
+airline 	légitársaság
+airport 	repülőtér
+aisle 	folyosó
+aisle seat 	folyosó melletti ülés
+arrival 	érkezés
+arrival lounge 	érkezési csarnok
+baggage allowance vagy luggage allowance 	megengedett poggyász
+baggage handler 	poggyászrakodó
+baggage reclaim 	poggyászfelvétel
+boarding 	beszállás
+boarding card 	beszállókártya
+boarding pass 	beszállókártya
+cabin 	kabin
+captain 	kapitány
+carousel 	körhinta / futószalag
+check-in counter 	jegy- és poggyászkezelés
+check-in desk 	utasfelvételi pult
+cockpit 	pilótafülke
+connecting flight 	csatlakozó járat
+departure 	indulás
+departure lounge 	indulási csarnok
+departures 	indulások
+engine 	motor
+first officer (más néven co-pilot) 	másodpilóta
+flight 	repülőjárat
+flight attendant 	légi utaskísérő
+flight number 	járatszám
+gate 	kapu
+hand baggage vagy hand luggage 	kézipoggyász
+helicopter 	helikopter
+hold baggage vagy hold luggage 	feladandó poggyász
+in-flight entertainment 	fedélzeti program
+in-flight meal 	repülőn felszolgált étel
+jet 	sugárhajtású repülőgép
+landing 	leszállás
+landing gear 	futómű
+passport 	útlevél
+pilot 	pilóta
+plane (a következő rövidítése: aeroplane) 	repülő
+propeller 	légcsavar
+runway 	kifutópálya
+seatbelt 	biztonsági öv
+security 	biztonsági személyzet
+take-off 	felszállás
+terminal 	terminál
+to check in 	bejelentkezik (reptéren)
+to check in luggage 	to check in baggage
+to fly 	repülni
+to land 	leszáll, landol
+to miss a flight 	lekésni a repülőt
+to take off 	felszállni
+trolley 	poggyászkocsi
+turbulence 	örvény (turbulancia)
+window seat 	ablak melletti ülés
+wing 	szárny

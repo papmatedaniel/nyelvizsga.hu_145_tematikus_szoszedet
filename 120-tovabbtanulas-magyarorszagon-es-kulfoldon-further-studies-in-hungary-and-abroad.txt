@@ -1,0 +1,18 @@
+abroad 	külföld
+advanced 	fejlett
+advantage 	előny
+apartment 	lakás
+big/large 	nagy
+choice of profession 	pályaválasztás
+condition 	állapot
+disadvantage 	hátrány
+economy 	gazdaság
+further education 	továbbtanulás
+hungary 	magyarország
+opportunity 	lehetőség
+professional 	szakmai
+reason 	ok
+study 	tanulás
+travel 	utazás
+wider 	szélesebb
+worth 	érdemes

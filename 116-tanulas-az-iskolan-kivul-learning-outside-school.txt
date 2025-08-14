@@ -1,0 +1,24 @@
+adult education 	felnőttoktatás
+class 	tanóra
+coaching 	korrepetálás
+course 	kurzus
+curriculum 	tananyag
+deadline 	határidő
+direct connection 	közvetlen kapcsolat
+distance teaching 	távoktatás
+exam 	vizsga
+extra credit 	szorgalmi feladat
+homework 	házifeladat
+independence 	önállóság
+individual task 	önálló feladat
+internet 	internet
+methodology 	módszertan
+own schedule 	saját időbeosztás
+practice 	gyakorlat
+preparation 	felkészülés
+private lesson 	magánóra
+private tutor 	magántanár
+task 	feladat
+the will of the student 	a diák akarata
+theoretics 	elméleti rész
+vocational training 	szakmai képzés

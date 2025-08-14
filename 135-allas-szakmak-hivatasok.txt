@@ -1,0 +1,153 @@
+(car) mechanic 	autószerelő
+accountant 	könyvelő
+actor 	színész
+actress 	színésznő
+ad vagy advert (a következő rövidítése: advertisement) 	reklám
+advertising executive 	reklámfőnök
+application form 	jelentkezési lap
+appointment 	időpont
+apprentice 	szakmunkás gyakornok
+apprenticeship 	szakmunkás szakmai gyakorlat
+architect 	építész
+artist 	művész
+bonus 	jutalom
+boss 	főnök
+broker 	ügynök, közvetítő, bróker
+builder 	építőmunkás
+bus driver 	buszsofőr
+car allowance 	autóhasználati juttatás
+career 	karrier
+carpenter 	ács
+child minder 	gyermekfelügyelő, gyermekgondozó
+civil engineer 	általános mérnök
+cleaner 	takarító
+clerk 	hivatalnok, tisztviselő
+colleague 	kolléga
+company car 	céges autó
+computer programmer 	számítógépprogramozó
+contract 	szerződés
+cook 	szakács(nő)
+cv (a következő rövidítése: curriculum vitae) 	önéletrajz
+dancer 	táncos
+department 	osztály / tagozat
+director 	igazgató
+doctor 	orvos
+dressmaker 	varrónő
+dustman 	szemetes(ember)
+economist 	közgazdász
+electrical engineer 	villamosmérnök
+electrician 	villanyszerelő
+estate agent 	ingatlan ügynök
+experience 	tapasztalat
+factory 	gyár
+farmer 	gazda, földműves
+fire drill 	tűzriadó
+fisherman 	halász
+full-time 	teljes állás
+guard 	őr
+hair stylist 	fodrász
+hairdresser 	fodrász
+health and safety 	egészség és biztonság
+health insurance 	egészségügyi biztosítás
+holiday entitlement 	szabadság jogosultság
+holiday pay 	fizetett szabadság
+hotel manager 	szállodaigazgató
+interior designer 	belsőépítész, lakberendező
+internship 	irodai szakmai gyakorlat
+interview 	meghallgatás
+job 	munka
+job description 	munka leírás
+job offer vagy offer of employment 	munkahely felajánlás
+joiner 	asztalos
+kindergarten teacher 	óvónő
+lawyer 	jogász
+leaving date 	befejezés dátuma
+librarian 	könyvtáros
+manager 	menedzser
+managing director 	vezérigazgató
+maternity leave 	anyasági szabadság
+mechanical engineer 	gépészmérnök
+meeting 	megbeszélés / tárgyalás
+notice period 	elbocsátási időtartam
+nurse 	ápoló(nő)
+office 	iroda
+overtime 	túlóra
+owner 	tulajdonos
+painter and decorator 	szobafestő és mázoló
+part-time 	fél állás
+part-time education 	levelező oktatás
+paternity leave 	apasági szabadság
+pension scheme vagy pension plan 	nyugdíj alap
+permanent 	állandó
+personal assistant 	személyi asszisztens
+photographer 	fényképész
+pilot 	pilóta
+plumber 	vízvezeték-szerelő
+police inspector 	rendőrfelügyelő
+policeman 	rendőr
+policewoman 	rendőrnő
+postman 	postás
+priest 	pap
+production engineer 	gyártásvezető mérnök
+promotion 	előléptetés
+psychologist 	pszichológus
+qualifications 	végzettségek
+rate of pay 	bérszint
+reception 	recepció
+redundancy 	redundancia (elbocsátás)
+redundancy pay 	végkielégítés
+redundant 	redundáns (elbocsátott)
+research worker 	kutató
+retired 	nyugdíjas
+retirement age 	nyugdíjkorhatár
+road sweeper 	utcaseprő
+salary 	fizetés
+salary increase 	fizetés emelés
+school teacher 	tanár(nő)
+scientist 	tudós
+secretary 	titkár(nő)
+security 	biztonsági személyzet
+security officer 	biztonsági őr
+self-employed 	magánvállalkozó
+shift work 	váltóműszak
+shop assistant 	bolti eladó
+sick pay 	betegállomány
+social worker 	szociális munkás
+solicitor 	ügyvéd
+specialist in finance 	pénzügyi szakértő
+staff restaurant 	dolgozók étterme
+starting date 	kezdés dátuma
+strike 	sztrájk
+switchboard 	központ
+tailor 	szabó
+taxi driver 	taxisofőr
+temporary 	átmeneti
+timekeeping 	időbetartás
+to accept an offer 	elfogadni egy ajánlatot
+to apply for a job 	jelentkezni egy munkahelyre
+to be off sick 	betegszabadságon lenni
+to fire 	elbocsátani
+to get the sack 	kirúgni (bizalmas)
+to go on strike 	sztrájkolni menni
+to hire 	felvenni
+to reject an offer vagy to turn down an offer 	elutasítani egy ajánlatot
+to resign 	lemondani
+to retire 	nyugdíjba vonulni
+trade union 	szakszervezet
+trainee 	gyakornok
+training course 	képzési tanfolyam
+training scheme 	tréning
+travel agent 	utazási ügynök
+travel expenses 	utazási költségek
+turner 	esztergályos
+unemployed 	munkanélküli
+university lecturer 	előadó, egyetemi oktató
+vet 	állatorvos
+volunteer 	önkéntes
+wages 	bér / munkabér
+waiter 	pincér
+waitress 	pincérnő
+work 	munka
+work experience 	munkatapasztalat
+working conditions 	munkahelyi viszonyok
+working hours 	munkahelyen töltött órák

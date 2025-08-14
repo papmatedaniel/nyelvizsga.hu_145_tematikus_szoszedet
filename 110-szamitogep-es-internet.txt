@@ -1,0 +1,71 @@
+antivirus software 	antivírus szoftver
+attachment 	melléklet
+broadband internet vagy broadband 	szélessávú internet/szélessáv
+cable 	kábel
+copier 	fénymásoló
+database 	adatbázis
+desktop computer (gyakran úgy rövidítik, hogy desktop) 	asztali számítógép
+document 	dokumentum
+earphones 	fülhallgató
+email 	e-mail (elektronikus levél)
+email address 	e-mailcím
+external drive 	külső meghajtó
+file 	akta
+firewall 	tűzfal
+folder 	mappa
+hard drive 	merevlemez
+hardware 	hardver
+headphones 	fejhallgató
+isp (a következő rövidítése: internet service provider) 	internet szolgáltató
+keyboard 	billentyűzet
+laptop 	laptop
+lower case letter 	kisbetű
+memory 	memória
+microphone 	mikrofon
+monitor 	monitor
+mouse 	egér
+network 	hálózat
+new message 	új üzenet
+password 	jelszó
+pc (a következő rövidítése: personal computer) 	pc (személyi számítógép)
+photocopying 	fénymásolás
+power cable 	tápkábel
+power supply 	tápegység
+printer 	nyomtató
+processor 	processzor
+processor speed 	processzorsebesség
+router 	router
+screen 	képernyő
+software 	szoftver
+space bar 	szóközbillentyű
+speakers 	hangszóró/hangfal
+spreadsheet 	táblázat
+tablet computer (gyakran úgy rövidítik, hogy tablet) 	táblagép
+the internet 	internet
+to browse the internet 	az interneten nézelődni
+to download 	letölteni
+to email 	e-mailezi
+to forward 	továbbítás
+to log off 	kijelentkezés
+to log on 	bejelentkezés
+to plug in 	csatlakoztatni
+to print 	nyomtatás
+to reply 	válasz
+to restart 	újraindítani
+to scroll down 	legörgetni
+to scroll up 	felgörgetni
+to send an email 	küldés
+to shut down 	leállítani
+to start up 	elindítani
+to switch off vagy to turn off 	kikapcsolni
+to switch on vagy to turn on 	bekapcsolni
+to type 	gépelni
+to unplug 	lecsatlakoztatni
+upper case letter vagy capital letter 	nagybetű
+username 	felhasználói név
+virus 	vírus
+web hosting 	web hosting / web tárhely
+website 	weboldal
+wireless internet vagy wifi 	vezeték nélküli internet /wifi
+wireless router 	vezeték nélküli útválasztó
+word processor 	szövegszerkesztő

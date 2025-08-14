@@ -1,0 +1,40 @@
+anchor 	vasmacska
+bar 	bár
+buffet 	büfé
+bureau de change 	pénzváltó iroda
+cabin 	fülke
+cabin number 	kabinszám
+calm sea 	nyugodt tenger
+captain 	kapitány
+car deck 	gépkocsifedélzet
+crew 	személyzet
+crew member 	személyzet tagja
+crossing 	átkelő
+cruise 	körutazás
+cruise ship 	sétahajó
+currency exchange 	valuta váltás
+deck 	fedélzet
+ferry 	komp
+ferry terminal 	kompkikötő
+foot passenger 	személy utas
+gangway 	hajóhíd
+harbour 	kikötő
+hovercraft 	légpárnás hajó
+information desk 	információs pult
+life belt 	mentőöv
+life jacket 	mentőmellény
+lifeboat 	mentőcsónak
+mast 	árboc
+port 	kikőtő
+restaurant 	étterem
+rough sea 	viharos tenger
+rudder 	kormánylapát
+sail 	vitorla
+seasick 	tengeri betegség
+self-service restaurant 	önkiszolgáló étterem
+sextant 	szextáns
+to disembark 	hajóról leszállni
+to embark 	hajóra szállni
+to sail 	vitorlázni
+voyage 	hajóút
+yacht 	jacht

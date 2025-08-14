@@ -1,0 +1,24 @@
+badger 	borz
+bat 	denevér
+deer (többesszáma: deer) 	őz/szarvas
+fox 	róka
+frog 	béka
+ground squirrel 	ürge
+hare 	mezei nyúl
+hedgehog 	sün
+lizard 	gyík
+mole 	vakond
+moppet 	pocok
+mouse (többesszáma: mice) 	egér
+otter 	vidra
+polecat 	görény
+rabbit 	nyúl
+raccoon 	mosómedve
+rat 	patkány
+reindeer (többesszáma: reindeer) 	rénszarvas
+snake 	kígyó
+squirrel 	mókus
+toad 	varangyos béka
+wild boar 	vaddisznó
+wild cat 	vadmacska
+wolf 	farkas

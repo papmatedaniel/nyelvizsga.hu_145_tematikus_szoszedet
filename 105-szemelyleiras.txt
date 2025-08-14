@@ -1,0 +1,116 @@
+absent-minded 	figyelmetlen
+adventurous 	kalandos
+angry 	mérges
+annoyed 	bosszús
+anxious 	szorongó
+arrogant 	arogáns
+astonished 	elámult
+attractive 	vonzó
+bad-mannered 	rossz modorú
+bad-tempered 	összeférhetetlen
+bald 	kopasz
+bald-headed 	kopasz fejű
+beard 	szakáll
+beautiful 	gyönyörű
+blond-haired vagy blonde-haired 	szőke hajú
+blonde 	szőke
+bored 	unatkozó
+boring 	unalmas
+brave 	bátor
+brown-haired 	barna hajú
+brunette 	barna
+calm 	nyugodt
+cautious 	óvatos
+cheeky 	pimasz
+cheerful 	vidám
+clever 	okos
+conceited 	beképzelt
+confident 	magabiztos
+cowardly 	gyáva
+crazy 	bolond
+crude 	bárdolatlan
+curly hair 	göndör haj
+dark-haired 	sötét hajú
+delighted 	elragadtatott
+depressed 	depressziós
+disappointed 	csalódott
+disgusted 	undorodó
+dishonest 	nem becsületes / tisztességtelen
+easy-going 	könnyű kijönni vele
+emotional 	érzelgős
+enthusiastic 	lelkes
+excited 	izgatott
+exhausted 	kimerült
+extroverted 	kifelé forduló (extroverált)
+fair-haired 	világos hajú
+fat 	kövér
+fed up 	megcsömörlött
+friendly 	barátságos
+funny 	vicces
+furious 	haragos
+generous 	bőkezű
+ginger-haired 	vörös hajú
+good-humoured 	jó humorú
+good-looking 	jóképű
+handsome 	jóvágású
+happy 	boldog
+hard-working 	szorgalmas
+honest 	őszinte
+hot-headed 	forró fejű
+impatient 	türelmetlen
+impolite 	tiszteletlen
+impulsive 	lobbanékony
+intelligent 	inteligens
+introverted 	befelé forduló (introverált)
+kind 	kedves
+lazy 	lusta
+livid 	felrobban a haragtól
+long hair 	hosszú haj
+mean 	gonosz
+medium height 	közepes magasságú
+middle-aged 	középkorú
+miserable 	boldogtalan
+modest 	szerény
+moody 	szeszélyes
+moustache 	bajusz
+obese 	elhízott
+old 	idős
+outgoing 	társaságkedvelő
+overweight 	túlsúlyos
+patient 	türelmes
+pleased 	örömteli
+polite 	tisztelettudó
+pretty 	szép
+redhead 	vörös
+relaxed 	relaxált
+rude 	szemtelen
+sad 	szomorú
+scruffy 	ápolatlan
+sensible 	ésszerű
+sensitive 	érzékeny
+serious 	komoly
+short 	alacsony
+short hair 	rövid haj
+shy 	szégyenlős
+slim 	karcsú
+smart 	sikkes
+snobbish 	sznob
+sophisticated 	kitanult
+straight hair 	egyenes haj
+stressed 	stresszelt
+stupid 	buta
+surprised 	meglepett
+talented 	tehetséges
+tall 	magas
+thin 	vékony
+tired 	fáradt
+ugly 	csúnya
+unfriendly 	barátságtalan
+unhappy 	boldogtalan
+unintelligent 	unintelligens
+weary 	elcsigázott
+well-built 	jó felépítésű
+well-dressed 	jól öltözött
+witty 	szellemes
+worried 	aggódó
+young 	fiatal

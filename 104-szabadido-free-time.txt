@@ -1,0 +1,28 @@
+at weekends / at the weekend 	hétvégén
+free time 	szabadidő
+gardening 	kertészkedés
+in sy’s spare time 	vkinek a szabadidejében
+indoor activities 	benti tevékenységek
+leisure time 	szabadidő
+leisure time activity 	szabadidős tevékenység
+on weekdays 	hétköznap
+outdoor activities 	szabadtéri, kinti tevékenységek
+spare time 	szabadidő
+spare time activity 	szabadidős tevékenység
+time off 	kikapcsolódás
+to do some sporting activity 	sportol
+to do workout 	edzeni
+to go cycling 	biciklizik
+to go fishing 	halászni megy
+to go for a walk 	sétál
+to go hiking 	túrázik
+to go on an excursion 	kirándul
+to go on an outing 	kirándul
+to go riding 	lovagol
+to go swimming 	úszni megy
+to go to a football match 	focimeccsre menni
+to go to a museum 	múzeumba menni
+to have a rest 	pihen
+to play games 	játékokkal játszani
+to stay in 	otthon marad, nem megy szórakozni
+video game 	videójáték

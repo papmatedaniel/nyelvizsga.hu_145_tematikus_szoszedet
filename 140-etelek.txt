@@ -1,0 +1,237 @@
+(salad) dressing 	salátaöntet
+anchovy 	ajóka
+apple 	alma
+apricot 	sárgabarack
+artichoke 	articsóka
+asparagus 	spárga
+aubergine 	padlizsán
+avocado 	avokádó
+bacon 	szalonna
+bag of potatoes 	csomag krumpli
+baguette 	francia kenyér
+baked beans 	főzőtt bab
+baking powder 	sütőpor
+banana 	banán
+bar of chocolate 	tábla csokoládé
+basil 	bazsalikom
+beansprouts 	babcsíra
+beef 	marha
+beefsteak 	marhahússzelet
+beetroot 	cékla
+biscuits 	kekszek
+blackberry 	szeder
+blackcurrant 	feketeribizli
+blue cheese 	kéksajt
+blueberry 	fekete áfonya
+bottle of milk 	üveg tej
+box of eggs 	doboz tojás
+bread rolls 	zsömlék
+breaded / fried cheese 	rántott sajt
+breaded / fried chicken 	rántott csirke
+breaded / fried mushrooms 	rántott gomba
+breaded / fried pork chops 	rántott sertésszelet
+breakfast cereal 	zabpehely
+broad beans 	disznóbab
+broccoli 	brokkoli
+brown bread 	barna kenyér
+brown sugar 	barna cukor
+brussels sprouts 	kelbimbó
+bunch of bananas 	banánfürt
+bunch of grapes 	szőlőfürt
+butter 	vaj
+cabbage 	káposzta
+cake 	sütemény/torta
+carrot 	répa
+carton of milk 	doboz tej
+cauliflower 	karfiol
+celery 	zeller
+cheese 	sajt
+cherry 	cseresznye
+chicken 	csirke
+chicken paprika with dumplings 	csirkepaprikás galuskával
+chicken soup 	csirkeleves
+chilli powder 	őrölt chilipaprika
+chilli vagy chilli pepper 	csilipaprika
+chips 	sültkrumpli
+chives 	snidling
+chocolate 	csokoládé
+cinnamon 	fahéj
+clove of garlic 	fokhagymagerezd
+coconut 	kókusz
+cod 	tőkehal
+cooked meat 	főtt hús
+cooking oil 	étolaj
+coriander 	koriander
+corned beef 	sózott marhahúskonzerv
+cornflakes 	kukoricapehely
+cornflour 	kukoricaliszt
+cottage cheese 	túró
+courgette 	cukkini
+cream 	tejszín
+crisps 	chips
+crème fraîche 	tejföl
+cucumber 	uborka
+cumin 	kömény
+curry powder 	currypor
+danish pastry 	dán péksütemény
+dates 	datolya
+dessert 	desszert
+dill 	kapor
+dried apricots 	aszalt sárgabarack
+duck 	kacsa
+eggs 	tojások
+fig 	füge
+fish fingers 	hal rudacskák
+free range eggs 	tojások (szabadban nevelkedett tyúkok tojása)
+french beans 	zöldbab
+frozen peas 	mirelit borsó
+frozen pizza 	fagyasztott pizza
+full-fat milk 	teljes tej
+garlic 	fokhagyma
+garlic bread 	fokhagymás kenyér
+ginger 	gyömbér
+goats cheese 	kecskesajt
+gooseberry 	egres
+goulash soup 	gulyásleves
+grape 	szőlő
+grapefruit 	grépfrút
+haddock 	foltos tőkehal
+ham 	sonka
+herring 	hering
+honey 	méz
+hummus 	humusz
+hungarian cuisine 	magyar konyhaművészet
+ice cream 	fagylalt
+icing sugar 	porcukor
+jam 	dzsem
+jar of jam 	üveg dzsem
+ketchup 	ketchup (paradicsomszósz)
+kidney beans 	vesebab
+kidneys 	vese
+kipper 	füstölt hering (füstölt hal, általában hering)
+kiwi fruit 	kiwi
+lamb 	bárány
+leek 	póréhagyma
+lemon 	citrom
+lettuce 	saláta
+lime 	zöldcitrom
+liver 	máj
+loaf vagy loaf of bread 	cipó
+mackerel 	makréla
+main course 	főfogás
+mango 	mangó
+margarine 	margarin
+marmalade 	narancslekvár
+mayonnaise 	majonéz
+melon 	dinnye
+milk 	tej
+mince vagy minced beef 	darált hús / darált marhahús
+muesli 	műzli
+mushroom 	gomba
+mustard 	mustár
+noodles 	metélt
+noodles with cabbage 	káposztás tészta
+noodles with cottage cheese 	túrós tészta
+nutmeg 	szerecsendió
+nuts 	mogyorófélék
+olive oil 	olívaolaj
+olives 	olivabogyók
+onion 	hagyma
+orange 	narancs
+organic 	bio (élelmiszer)
+pack of butter 	csomag vaj
+packet of biscuits 	csomag keksz
+packet of cheese 	csomag sajt
+packet of crisps vagy bag of crisps 	zacskó csipsz
+pancakes with meat filling 	húsos palacsinta
+paprika 	paprika
+parsley 	petrezselyem
+pasta 	tészta
+pasta sauce 	tésztaszósz
+pastry 	tészta
+paté 	pástétom
+peach 	barack
+peanuts 	mogyorók
+pear 	körte
+peas 	borsó
+pepper 	paprika
+pickles 	savanyúság
+pilchard 	szardínia
+pineapple 	ananász
+pitta bread 	pitta kenyér
+pizza 	pizza
+plaice 	lepényhal
+plain flour 	sima liszt
+plum 	szilva
+pomegranate 	gránátalma
+pork 	sertés
+pork pie 	sertés pite
+pork stew 	párolt hús, pörkölt
+porridge 	zabkása
+potato (többesszáma: potatoes) 	krumpli
+prunes 	aszalt szilva
+pumpkin 	sütőtök
+punnet of strawberries 	doboz eper
+quiche 	quiche
+radish 	retek
+raisins 	mazsola
+raspberry 	málna
+ready meal 	készétel
+redcurrant 	ribizli
+rhubarb 	rebarbara
+rice 	rizs
+rocket 	rukkola
+rosemary 	rozmaring
+runner beans 	törökbab
+saffron 	sáfrány
+sage 	zsálya
+salad dressing 	salátaöntet
+salami 	szalámi
+salmon 	lazac
+salt 	só
+sardine 	szardínia
+sausage roll 	virslis tekercs
+sausages 	virsli
+self-raising flour 	élesztővel dúsított liszt
+semi-skimmed milk 	félzsíros tej
+skimmed milk 	sovány tej
+sliced loaf 	szeletelt kenyér
+smoked salmon 	füstölt lazac
+sole 	nyelvhal
+soup 	leves
+sour cream 	tejföl
+spaghetti 	spagettitészta
+spinach 	spenót/paraj
+sponge cake 	piskóta
+spring onion 	újhagyma
+squash 	tök
+starter 	előétel
+stick of celery 	zellerszár
+stock cubes 	leveskockák
+strawberry 	eper
+stuffed cabbage 	töltött káposzta
+sugar 	cukor
+sultanas 	szultánmazsola
+swede 	karórépa
+sweet potato (többesszáma: sweet potatoes) 	édesburgonya
+sweetcorn 	kukorica
+sweets 	édességek
+thyme 	kakukkfű
+tin of baked beans 	babkonzerv
+tinned tomatoes 	konzerv paradicsom
+toast 	piritós
+tomato (többesszáma: tomatoes) 	paradicsom
+tomato purée 	paradicsompüré
+trout 	pisztráng
+tub of ice cream 	doboz fagylalt
+tuna 	tonhal
+turkey 	pulyka
+turkey breast kiev style 	kijevi pulykamell
+turnip 	fehérrépa
+veal 	borjú
+vinaigrette 	vinaigrette
+vinegar 	ecet
+walnuts 	diók
+white bread 	fehér kenyér
+yeast 	élesztő
+yoghurt 	joghurt

@@ -1,0 +1,256 @@
+(two-piece) dress 	kétrészes ruha
+(un)fashionable 	(nem) divatos
+(under)pants 	shorts
+anorak 	anorák
+apron 	kötény
+baseball cap 	baseball sapka
+bathing suit 	fürdőruha
+bathrobe 	fürdőköpeny
+belt 	öv
+bikini 	bikini
+blazer 	blézer
+blouse 	blúz
+body 	body (női ruhadarab)
+boots 	csizma
+bow tie 	csokor nyakkendő
+boxer shorts 	boxer alsó
+bra 	melltartó
+bracelet 	karkötő
+brand 	márka
+briefs 	alsónadrág
+buckle 	csat, kapocs
+button 	gomb
+button-down collar 	legombolós gallér
+camisole 	trikó
+cap 	sapka
+cardigan 	kardigán
+casual dress 	hétköznapi ruha
+catwalk 	kifutó
+checkered 	kockás
+chic 	elegáns, ízléses, sikkes
+clogs 	klumpa
+clothes 	ruhák
+coat 	kabát
+collarless shirt 	gallér nélküli ing
+colour 	szín
+comb 	fésű
+corduroy 	kordbársony
+cotton 	pamut
+cufflinks 	mandzsetta gomb
+cuffs 	mandzsetta
+denim 	farmervászon
+designer 	tervező
+dinner jacket 	szmoking
+dotted 	apró pöttyös, pontozott
+dress 	(női) ruha
+dressing gown 	fürdőköpeny
+dressmaker 	varrónő
+earrings 	fülbevaló
+embroidered 	hímzett
+engagement ring 	kísérő gyűrű / jegygyűrű
+fabrics 	szövet
+fashion 	divat
+fashion-show 	divatbemutató
+fashionably dressed 	divatosan öltözött
+fasteners 	kapcsok
+flared trousers 	trapéznadrág
+fly 	slicc
+formal clothes 	hivatalos, ünnepélyes ruha
+full evening dress 	estélyi ruha
+fur 	szőrme, prém
+fur coat 	bunda
+galoshes 	sárcipő
+garment 	öltözet
+garments 	öltözetek
+gear 	holmi, felszerelés
+glasses 	szemüveg
+gloves 	kesztyű
+gym shoes 	tornacipő
+hair tie vagy hair band 	hajgumi/hajpánt
+hairbrush 	hajkefe
+handbag 	kézitáska
+handkerchief 	zsebkendő
+hat 	sapka, kalap
+high heels (a következő rövidítése: high-heeled shoes) 	magas sarkú cipő
+high-heeled shoes 	magas sarkú cipő
+hood 	csuklya
+informal clothes 	hétköznapi ruha
+items of clothing 	ruhadarabok
+jacket 	dzseki
+jeans 	farmer
+jersey 	gyapjúmellény
+jewel 	ékszer
+jogging suit 	tréningruha
+jumper 	pulóver
+keyring 	kulcstartó
+keys 	kulcsok
+knickers 	bugyi
+knitted 	kötött
+lace 	csipke
+latest fashion 	a legújabb divat
+leather 	bőr
+leather jacket 	bőrdzseki
+lighter 	öngyújtó
+linen 	vászon
+lipstick 	ajakrúzs
+long skirt 	hosszú szoknya
+long-sleeved 	hosszú ujjú
+loose 	laza
+loose-fitting 	laza szabású
+made-to measure 	méretre szabott
+makeup 	smink
+man-made 	mesterséges, mű
+materials 	szövet, anyag
+mini skirt 	miniszoknya
+miniskirt 	miniszoknya
+mirror 	tükör
+mittens 	egyujjas kesztyű
+model 	modell
+necklace 	nyaklánc
+nightdress 	hálóing
+nightie (a következő rövidítése: nightdress) 	pizsama
+nightshirt 	(férfi ) hálóing
+nylon 	nejlon
+off-the-shelf 	készruha, konfekció
+open-necked 	nyitott gallérú / nyakú
+other 	egyéb
+outfit 	öltözet
+overalls 	kezeslábas
+overcoat 	felöltő, felsőkabát
+pair of shoes 	egy pár cipő
+pair of trousers 	egy nadrág
+panties 	knickers
+pants 	slacks
+patterned 	mintás
+patterns 	minták
+petticoat 	kombiné
+piercing 	piercing (testékszer)
+plain 	egyszerű, sima
+platform shoes 	telitalpú cipő
+pleated skirt 	rakott szoknya
+plimsolls 	fürdőpapucs, gumitalpú vászoncipő
+pocket 	zseb
+polka dotted 	pettyes
+polo-neck 	turtle-neck
+pullover 	pulóver
+purse 	pénztárca
+pyjamas 	pizsama
+raincoat 	esőkabát
+ready-made 	készruha, konfekció
+ring 	gyűrű
+sandals 	szandál
+satin 	szatén
+scarf 	sál
+scoop-neck 	ovális (mély) nyakkivágás
+seamstress 	varrónő
+shirt 	ing
+shoelace 	cipőfűző
+shoelaces 	cipőfűző
+shoes 	cipő
+short-sleeved 	rövid ujjú
+shorts 	rövidnadrág
+silk 	selyem
+size 	méret
+skirt 	szoknya
+sleeveless 	ujjatlan
+slip 	kombiné
+slippers 	papucs
+smart clothes 	csinos, elegáns ruha
+socks 	zokni
+sports shoes 	sportcipő
+sporty clothes 	sportos ruha
+stilettos 	tűsarkú cipő
+stockings 	harisnya
+straight skirt 	egyenes vonalú szoknya
+straight trousers 	egyenesszárú nadrág
+striped 	csíkos
+style 	stílus
+styles 	stílusok
+stylish 	divatos
+suit 	öltöny
+sunglasses 	napszemüveg
+sweater 	pulóver
+sweatshirt 	melegítőfelső
+swimming costume 	fűrdőruha
+swimming trunks 	úszónadrág
+swimsuit 	fürdőruha
+synthetic fabrics 	műszálas anyagok
+t-shirt 	póló
+tailor 	szabó
+tartan 	skótkockás mintájú
+tennis shoes 	teniszcipő
+thick soled shoes 	vastag talpú cipő
+thong 	tanga bugyi
+tie 	nyakkendő
+tight 	szoros
+tight-fitting 	szűk szabású
+tights 	harisnya
+to be badly dressed 	rosszul öltözött
+to be dressed to kill 	szívdöglesztően öltözött
+to be elegant 	elegáns
+to be immaculate 	hibátlan
+to be in 	divatos
+to be in fashion 	divatos
+to be out 	nem divatos
+to be out of fashion 	divatjamúlt, ódivatú
+to be shabbily dressed 	szakadtan öltözött
+to be smart 	csinos
+to be sporting sg 	visel vmit
+to button up 	begombol
+to change into sg 	átöltözik vmibe
+to come into fashion 	divatba jön
+to do up 	begombol/becsatol
+to dress for dinner 	vacsorához öltözik
+to dress for work 	munkához öltözik
+to fit 	illik (a ruha) vkire
+to get (un)dressed 	levetkőzik
+to get changed 	átöltözik
+to get dressed 	felöltözni
+to get undressed 	levetkőzni
+to go out of fashion 	kimegy a divatból
+to go with 	összeillik, megy vmihez
+to have sg on 	hord, visel vmit
+to let out 	kiereszt (ruhából)
+to match 	összeillik
+to put sg on 	felvesz vmit
+to suit 	jól áll vmi vkinek
+to take in 	bevesz (ruhából)
+to take sg off 	levesz vmit
+to tie 	megkötni
+to try on 	felpróbál
+to unbutton 	kigombol
+to undo 	kigombol/kicsatol
+to untie 	kioldozni
+to unzip 	kicipzáraz
+to wear (clothes, accessories, colours) 	visel, hord (ruhákat, kiegészítőket, színeket)
+to wear 	hordani
+to zip 	becipzáraz
+too loose 	túl bő
+too tight 	túl szűk, feszes
+top 	felső / top
+tracksuit 	melegítő
+trainers 	edzőcipő
+trendy 	divatos
+trousers 	nadrág
+turn-ups 	felhajtás (pl. nadrágé)
+tweed 	skót gyapjúszövet
+umbrella 	esernyő
+underclothes 	fehérneműk
+underpants 	alsónadrág
+underskirt 	alsószoknya
+underwear 	fehérnemű
+uniform 	egyenruha
+v-necked 	v-kivágású
+velcro(-fastener) 	tépőzár
+velvet 	bársony
+vest 	mellény
+waistcoat 	mellény
+walking stick 	sétabot
+wallet 	tárca
+watch 	óra
+wearing clothes 	ruhát hord, visel
+wedding ring 	jegygyűrű
+well dressed 	jól öltözött, csinosan öltözött
+wellingtons 	gumicsizma
+wool / woollen 	gyapjú, gyapjúból készült
+zip 	cipzár

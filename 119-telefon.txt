@@ -1,0 +1,50 @@
+answerphone 	üzenetrögzítő
+area code 	körzeti hívószám
+battery 	elem
+business call 	üzleti hívás
+caller 	hívó fél
+cordless phone 	vezeték nélküli telefon
+country code 	külföldi hívószám
+dialling tone 	hívóhang
+directory enquiries 	tudakozó
+engaged 	foglalt
+ex-directory 	telefonkönyvben nem szereplő
+extension 	mellék
+fault 	hiba
+interference 	interferencia
+international directory enquiries 	nemzetközi tudakozó
+landline phone 	vezetékes telefon
+message 	üzenet
+missed call 	nem fogadott hívás
+mobile (a következő rövidítése: mobile phone) 	mobil / mobilszám
+mobile phone charger 	mobiltelefon-töltő
+off the hook 	félretéve
+operator 	telefonkezelő
+outside line 	külső vonal
+personal call 	személyes hívás
+phone (a következő rövidítése: telephone) 	telefon
+phone book vagy telephone directory 	telefonkönyv
+phone box vagy call box 	telefonfülke
+phone card 	telefonkártya
+phone charger 	telefontöltő
+phone number (a következő rövidítése: telephone number) 	telefonszám
+push-button 	nyomógomb
+receiver 	telefonkagyló
+reception 	térerő
+ringtone 	csengőhang
+signal 	jelzés
+smartphone 	okostelefon
+switchboard 	telefonközpont
+telephone cable 	telefonvezeték
+text message 	sms
+to be cut off 	a vonal megszakadt
+to call someone back 	visszahívni valakit
+to call vagy to phone 	hívni
+to dial a number 	tárcsázni egy számot
+to hang up 	lerakni a kagylót
+to leave a message 	üzenetet hagyni
+to put the phone on loudspeaker 	telefont kihangosítani
+to ring 	megcsörgetni
+to send a text message 	szöveges üzenetet küldeni
+to text 	szöveges üzenetet küldeni
+wrong number 	rossz szám

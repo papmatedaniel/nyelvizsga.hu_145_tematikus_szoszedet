@@ -1,0 +1,79 @@
+all day breakfast 	egész napos reggeli
+apple crumble 	morzsolt almás pite
+apple pie 	almás pite
+bacon and eggs 	tojás szalonnával
+baked potato vagy jacket potato 	sült krumpli
+beefburger vagy hamburger 	marhaburger/hamburger
+boiled potatoes 	főzött krumpli
+boiled rice 	főtt rizs
+bread and butter pudding 	kenyeres süti
+catch of the day 	a nap halétele
+cauliflower cheese 	sajtos karfiol
+cheese and biscuits 	sajt és keksz
+cheeseburger 	sajtburger
+cheesecake 	sajttorta
+chicken 	csirke
+chocolate cake 	csokoládétorta
+chocolate mousse 	csokoládéhab
+crème brûlée 	crème brûlée
+cucumber salad 	uborkasaláta
+curry 	curry (csípős fűszerekkel készített indiai mártás)
+custard 	vaníliapuding
+danish pastry 	dán sütemény
+dish of the day 	a nap egytálétele
+dumplings 	nokedli
+egg and chips 	tojás sültkrumplival
+fillet steak 	bélszín
+fish and chips 	hal sültkrumplival
+fish pie 	halas krumplis rakott étel, „pite” (angolul a pite szót szélesebb értelemben használják, mint magyarul)
+french fries vagy fries 	sült krumpli
+fried cheese 	rántott sajt
+fried chicken 	rántott csirke
+fried rice 	sült rizs
+fried roasted pork cutlets 	cigánypecsenye
+fruit salad 	gyümölcssaláta
+full english breakfast 	angol reggeli
+green salad 	zöldsaláta
+hotdog 	hotdog
+ice cream 	fagylalt
+lasagne 	lasangne
+lemon meringue pie 	citromos-habcsókos pite
+lemon tart 	citromtorta
+mashed potatoes 	krumplipüré
+mince pies 	gyümölcskosár
+mixed grill 	grillezett húsok
+mixed salad 	vegyes saláta
+onion rings 	hagymakarikák
+pancakes 	palacsinta
+pizza 	pizza
+poached eggs 	buggyantott tojás
+pork chops 	sertésszelet
+pudding 	puding
+rhubarb crumble 	morzsolt rebarbarás pite
+rice pudding 	tejberizs
+roast beef 	marhasült
+roast chicken 	sült csirke
+roast duck 	kacsasült
+roast meat 	sült tarja
+roast pork 	sertéssült
+roast potatoes 	tepsiben sült krumpli
+roasted vegetables 	grillezett zöldségek
+salad 	saláta
+sandwich 	szendvics
+sausage and mash 	virsli krumplipürével
+sauté potatoes 	hirtelen sült krumpli
+scampi 	szkampó
+schnitzel 	rántott hús
+scrambled eggs 	tojásrántotta
+shepherd’s pie 	pásztor pite (húsos-krumplipürés rakott étel)
+sirloin steak 	vesepecsenye
+sorbet 	sörbet
+soup 	leves
+soup of the day 	a nap levese
+spaghetti bolognese 	bolonyai spagetti
+steak and chips 	marhaszelet sültkrumplival
+steak and kidney pie 	marhahúsos és vesés pite
+stew 	pörkölt
+toasted sandwich 	melegszendvics
+trifle 	borban áztatott piskóta pudinggal és tejszínnel
+yorkshire pudding 	yorkshire puding (az angol konyha egy körete)

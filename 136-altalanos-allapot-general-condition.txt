@@ -1,0 +1,38 @@
+(fighting) fit 	egészséges
+a picture of health 	a megtestesült egészség
+airsickness 	légibetegség
+be crummy 	rosszul van
+blind 	vak
+bloodless 	vérszegény
+deaf 	siket
+dumb 	néma
+feel well 	jól érzi magát
+fine 	jól van, rendben van
+fit as a fiddle 	makkegészséges
+handicaps 	hátrányos helyzetűek, fogyatékosok
+hard of hearing 	nagyothalló
+healthy 	egészséges
+ill 	beteg
+in (great) shape 	(jó) formában
+in a lifethreatening condition 	életveszélyben van
+in a serious but stable condition 	súlyos, de stabil állapotban van
+in good shape 	jó formában
+in poor shape 	rossz állapotban
+in terrible condition 	szörnyű állapotban van
+in terrible shape 	szörnyű állapotban van
+infected 	fertőzött
+iron-deficient anaemia 	vashiányos vérszegénység
+lame 	béna
+mentally handicapped 	szellemileg fogyatékos
+mentally ill 	mentálisan, szellemileg beteg
+ok 	jól van, rendben van
+out of shape 	rossz bőrben van, nincs formában
+physically handicapped 	testileg fogyatékos
+short-sighted 	rövidlátó
+sleepy 	álmos
+to stammer 	dadog
+unfit 	egészségtelen
+unhealthy 	egészségtelen
+unwell 	nincs jól
+viral 	vírusos
+well 	jól van, rendben van

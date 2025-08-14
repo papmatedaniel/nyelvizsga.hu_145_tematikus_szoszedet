@@ -1,0 +1,322 @@
+(at) the olympic games 	olimpiai játékok(on)
+100 metres 	100 méteres futás
+1500 metres 	1500 méteres futás
+a draw 	döntetlen
+ace 	ász
+aerobics 	aerobik
+amateur 	amatőr
+american football 	amerikai futball
+archery 	íjászat
+athletics 	atlétika
+backgammon 	backgammon
+badminton 	tollaslabda
+badminton racquet 	tollasütő
+ball 	labda
+baseball 	baseball
+baseball bat 	baseball ütő
+basketball 	kosárlabda
+beach volleyball 	strandröplabda
+bell 	csengő
+bicycle pump 	kerékpárpumpa
+bishop 	futó
+blackjack 	huszonegy
+blood sport 	vadászat
+board game 	társasjáték
+booking 	sárga vagy piros lap
+bowls 	tekézés
+boxing 	boxolás
+boxing glove 	boxkesztyű
+boxing ring 	boxring
+brake 	fék
+bridge 	bridzs
+canoeing 	kenuzás
+card 	kártya
+chain 	lánc
+championship(s) 	bajnokság
+check 	sakk
+checkmate 	sakk-matt
+chess 	sakk
+chessboard 	sakktábla
+climbing 	hegymászás
+club 	egyesület, klub
+clubs 	treff
+coach 	edző
+competition 	verseny
+competitive 	versengő
+competitor 	versenyző, résztvevő
+corner kick vagy corner 	szöglet (rúgás)
+cricket 	krikett
+cricket bat 	krikett ütő
+cricket ground 	krikettpálya
+crossbar vagy bar 	keresztrúd
+cup 	kupa
+cup final 	kupadöntő
+cycling 	kerékpározás
+darts 	célbadobós játék / dart
+defeat 	vereség
+diamonds 	káró
+discus throw 	diszkoszvetés
+diving 	búvárkodás
+do you do any (physical) exercise? 	tornázol?
+do you do any sport? 	sportolsz?
+dominoes 	dominó
+draughts 	dámajáték
+draw 	döntetlen
+european champion 	európa-bajnok
+extreme 	extrém
+fan 	drukker
+fishing 	halászás
+fishing rod 	horgászbot
+fixture 	mérkőzés
+football 	futball / foci
+football boots 	futballcipő
+football club 	futballkub
+football pitch 	futballpálya
+foul 	szabálytalanság
+free kick 	szabadrúgás
+game 	játék
+gears 	fogaskerekek/sebességváltó
+go 	go
+go-karting 	gokartozás
+goal 	gól
+goal kick 	kirúgás
+goalkeeper 	kapus
+goalpost vagy post 	kapu
+golf 	golf
+golf club 	golfütő
+golf course 	golfpálya
+good move! 	ez jó lépés volt!
+gym 	edzőterem
+gymnastics 	torna
+half-time 	félidő
+half-way line 	felezővonal
+hammer throw 	kalapácsvetés
+hand 	leosztás
+handball 	kézilabda
+handlebars 	kormány
+header 	fejes
+hearts 	kőr
+heat 	verseny, játszmasor
+high jump 	magasugrás
+hiking 	túrázás
+hockey 	hoki
+hockey stick 	hokiütő
+horse racing 	lóverseny
+horse riding 	lovaglás
+hunting 	vadászat
+hurdles 	gátfutás
+ice hockey 	jégkorong
+ice rink 	jégpálya
+ice skates 	jégkorcsolya
+ice skating 	korcsolyázás
+indoor games 	benti játékok
+inline skating vagy rollerblading 	görkorcsolyázás
+inner tube 	gumibelső
+jack 	jumbó
+javelin throw 	gerelyhajítás
+jogging 	kocogás
+joker 	dzsóker
+judo 	cselgáncs
+karate 	karate
+keep-fit 	edzés
+kick boxing 	kick-boxolás
+king 	király
+knight 	ló
+lacrosse 	lacrosse
+league table 	bajnoki tabella
+leisure 	szabadidő
+linesman 	vonalbíró
+long jump 	távolugrás
+loser 	vesztes
+loss 	veszteség
+manager 	vezetőedző
+marathon 	maraton
+martial arts 	harcművészetek
+match 	meccs
+motor racing 	motorkerékpár versenyzés
+mountaineering 	hegymászás
+move 	lépés
+national champion 	országos bajnok
+net 	háló
+netball 	kézilabda játék
+offside 	les
+olympic champion 	olimpiai bajnok
+olympic games 	olimpiai játékok
+opponent 	ellenfél
+opposition 	ellenfél
+outdoor games 	szabadtéri játékok
+pack of cards 	pakli kártya
+participant 	résztvevő
+pass 	passz
+pawn 	paraszt
+pedal 	pedál
+penalty 	tizenegyes
+penalty area 	tizenhatos
+penalty spot 	büntetőpont
+piece 	bábu
+player 	játékos
+poker 	póker
+pole vault 	rúdugrás
+pool 	biliárd szerű játék
+pool cue 	dákó
+professional 	profi
+puncture 	defekt
+puncture repair kit 	defektjavító készlet
+queen 	dáma
+racetrack 	versenypálya
+red card 	piros lap
+referee 	bíró / játékvezető
+result 	eredmény
+rook vagy castle 	bástya
+rowing 	evezés
+rugby 	rögbi
+rugby ball 	rögbilabda
+running 	futás
+running shoes 	futócipő
+running track 	futópálya
+saddle 	nyereg/ülés
+sailing 	vitorlázás
+score 	eredmény
+scuba diving 	búvárkodás
+shooting 	lövészet
+shot 	rúgás
+shot put 	súlylökés
+skateboard 	gördeszka
+skateboarding 	gördeszkázás
+skiing 	síelés
+skis 	síléc
+snooker 	biliárd
+snowboarding 	snowboardozás
+solitary 	egyéni
+spades 	pikk
+spectator 	néző
+spokes 	küllők
+sporting event 	sportesemény
+sports equipment 	sportfelszerelés, eszköz
+sports event 	sportesemény
+sportsman 	sportoló
+sportswoman 	sportolónő
+squash 	fallabda / squash
+squash court 	fallabdapálya
+squash racquet 	fallabda ütő / squash ütő
+stalemate 	patt
+stand 	lelátó
+suit 	szín
+supporter 	támogató, rajongó
+surfing 	szörfözés
+swimming 	úszás
+swimming pool 	úszómedence
+table football 	csocsó
+table tennis 	asztali tenisz / ping-pong
+tackle 	szerelés
+team 	csapat
+technical 	műszaki
+ten-pin bowling 	bowling / tekézés
+tennis 	tenisz
+tennis court 	teniszpálya
+tennis racquet 	teniszütő
+the (football) world cup 	(labdarúgó) világbajnokság
+the olympics 	olimpia
+throw-in 	bedobás
+to be a hungarian international player 	válogatott csapatba bevesz
+to be a sporty person 	sportos személy
+to be capped for hungary 	válogatott csapatba bevesz
+to be good at sport 	jó a sportokban
+to be interested in a sport 	érdeklődik a sport iránt
+to be keen on sport 	szívesen, örömmel sportol
+to be sent off 	kiállított
+to beat / to defeat 	legyőz
+to book 	sárga vagy piros lapot adni
+to break a record (for a sport) 	megdönti a rekordot
+to castle 	sáncolni
+to come first 	első lesz
+to come last 	utolsó lesz
+to come second 	második lesz
+to cut the cards 	kártyát emelni
+to deal the cards 	kártyát osztani
+to do a little sport 	keveset sportol
+to do a lot of sport 	sokat sportol
+to do aerobics 	tornázik
+to do exercise 	testmozgást végez
+to do gymnastics 	tornázik
+to do much sport 	sokat sportol
+to do some / any sport 	sportol
+to draw 	döntetlen játék / döntetlen mérkőzés
+to draw with … 	döntetlenre végződik
+to get some exercise 	tornázik
+to go (horse) riding 	lovagol
+to go cycling 	biciklizik
+to go fishing 	halászik
+to go jogging 	kocog
+to go skiing 	síel
+to go swimming 	úszik
+to have a puncture 	defeket kap
+to head the ball 	labdát fejelni
+to hold a record 	tartja a rekordot
+to kick the ball 	labdát rúgni
+to lose (by two goals) 	veszít (két góllal)
+to lose 	veszíteni
+to lose a point 	pontot veszít
+to move 	lépni
+to pass the ball 	passzolni
+to play 	játszani
+to play at home 	hazai pályán játszani
+to play away 	idegenben játszani
+to play chess 	sakkozik
+to play football 	focizik
+to play games 	játszik
+to play tennis 	teniszezik
+to qualify for the final 	bejut a döntőbe
+to qualify for the semi-final 	bejut az elődöntőbe
+to resign 	lemondani / feladni
+to ride a bicycle vagy to ride a bike 	kerékpározni/biciklizni
+to ride a bike 	biciklizik
+to ride a horse 	lovagol
+to score 	pontot szerez
+to score a goal 	gólt szerez
+to score a point 	pontot szerez
+to send off 	játákból való kiállítás
+to shoot 	kapura lőni
+to shuffle the cards 	megkeverni a kártyát
+to take a penalty 	büntetőt rúg
+to take exercise 	tornázik
+to take part in physical activities 	testedzést végez
+to take part in sporting activities 	sporttevékenységben vesz részt
+to take the lead 	átveszi a vezetést
+to take up a sport 	elkezd vmit sportolni
+to take vagy to capture 	elfogni
+to watch 	nézni
+to win (by two goals) 	nyer (két góllal)
+to win 	nyerni
+to win a bronze medal in the … 	bronzérmet nyer vmiben
+to win a gold medal in the … 	aranyérmet nyer vmiben
+to win a point 	pontot nyer
+to win a silver medal in the … 	ezüstérmet nyer vmiben
+touchline 	oldalvonal
+tournament 	bajnokság
+training (session) 	edzés
+training 	edzés
+trick 	trükk
+triple jump 	hármasugrás
+tyre 	abroncs
+umpire 	bíró
+victory 	győzelem
+volleyball 	röplabda
+walking 	sétálás
+water polo 	vízilabda
+water skiing 	vízisíelés
+weightlifting 	súlyemelés
+well, i don’t get much (physical) exercise these days. 	nos, mostanában nem tornázom sokat.
+wheel 	kerék
+win 	nyereség
+windsurfing 	széllovaglás
+winner 	nyertes
+workout 	testedzés
+world champion 	világbajnok
+world cup 	világbajnokság
+world record 	világrekord
+wrestling 	birkózás
+yellow card 	sárga lap
+yoga 	jóga
+your move! 	te lépésed!
+your turn! 	te jössz!

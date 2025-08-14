@@ -1,0 +1,71 @@
+a double room 	kétágyas szoba
+a paying guest 	fizetővendég
+a single room 	egyágyas szoba
+air conditioning 	légkondicionálás
+b&b (a következő rövidítése: bed and breakfast) 	félpanzió
+bar 	bár
+bath 	fürdőkád
+bed and breakfast 	panzió
+camp(ing) site 	kemping
+campsite 	kempingezőhely
+car park 	parkoló
+chambermaid 	szobalány
+check-in 	bejelentkezés
+check-out 	kijelentkezés
+corridor 	folyosó
+doorman 	ajtónálló
+double room 	kétágyas szoba
+en-suite bathroom 	hálószobából nyíló fürdőszoba
+fire alarm 	tűzriasztó
+fire escape 	tűzkijárat
+full board 	teljes ellátás
+games room 	játékszoba
+guesthouse 	vendégház
+gym 	konditerem
+half board 	félpanzió
+hostel 	hostel
+hotel 	szálloda, hotel
+housekeeper 	házvezető
+internet access 	internet-hozzáférés
+laundry 	mosoda
+laundry service 	mosoda
+lift 	lift
+lobby 	szállodai aula
+manager 	menedzser
+minibar 	minibár
+motel 	motel, szálló
+porter 	portás
+reception 	recepció
+receptionist 	recepciós
+reservation 	foglalás
+restaurant 	étterem
+room attendant 	szobalány/szobafiú
+room key 	szobakulcs
+room number 	szobaszám
+room service 	szobaszervíz
+safe 	széf
+sauna 	szauna
+shower 	zuhany
+single room 	egyágyas szoba
+suite 	lakosztály
+swimming pool 	úszómedence
+to book 	foglalni
+to book a room 	szobát foglal
+to check in 	bejelentkezni
+to check out 	kijelentkezni
+to make a reservation in advance 	előre foglal
+to pay the bill 	kifizetni a számlát
+to pitch a tent 	felállítja a sátrat
+to put sy up 	elszállásol vkit
+to put up a tent 	felállítja a sátrat
+to put up somewhere 	elszállásol vhol
+to reserve accommodation 	szállást foglal
+to settle the bill 	rendezi a számlát
+to stay at a hotel 	szállodában megszállni
+to stay with a friend 	barátnál száll meg
+to stay with relatives 	rokonoknál száll meg
+triple room 	háromágyas szoba
+twin room 	kétágyas szoba
+vacancy 	üresedés
+wake-up call 	telefonos ébresztés
+youth hostel 	ifjúsági szálló

@@ -1,0 +1,34 @@
+a 3 by 4 room 	3 × 4 (láb/méter) méretű helység
+a three-bedroom flat 	három hálószobás lakás
+a three-storey building 	háromemeletes épület
+attic 	padlás
+balcony 	erkély, balkon
+bathroom 	fűrdőszoba
+bed-sitting room 	garzonlakás (egyszobás)
+bedroom 	hálószoba
+bench 	terasz
+cellar 	pince
+conservatory 	üvegház
+dining room 	étkező
+downstairs 	földszint
+floor 	földszint
+garden 	kert
+hall 	előszoba, hall
+kitchen 	konyha
+landing 	lépcsőforduló
+larder 	spejz
+lavatory 	mosdó
+living room 	nappali
+lounge 	nappali
+on the third floor 	a harmadik emeleten
+patio 	belső udvar
+shower room 	zuhanyzó helyiség
+sitting room 	nappali
+square metre 	négyzetméter
+study 	dolgozószoba
+three-story 	kétemeletes
+to face south 	délre néz
+to look onto 	néz vmerre
+to overlook 	néz vmerre
+toilet 	wc
+upstairs 	emelet

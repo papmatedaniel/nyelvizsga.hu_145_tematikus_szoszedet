@@ -1,0 +1,84 @@
+amsterdam 	amszterdam
+athens 	athén
+baghdad 	bagdad
+bangkok 	bangkok
+barcelona 	barcelona
+beijing 	peking
+belgrade 	belgrád
+berlin 	berlin
+bogota 	bogota
+bratislava 	pozsony
+brussels 	brüsszel
+bucharest 	bukarest
+budapest 	budapest
+buenos aires 	buenos aires
+cairo 	kairó
+cape town 	fokváros
+caracas 	caracas
+chicago 	chicago
+copenhagen 	koppenhága
+dhaka 	dakka
+dubai 	dubai
+dublin 	dublin
+frankfurt 	frankfurt
+geneva 	genf
+hanoi 	hanoi
+helsinki 	helsinki
+hong kong 	hongkong
+istanbul 	isztambul
+jakarta 	dzsakarta
+jerusalem 	jeruzsálem
+johannesburg 	johannesburg
+kabul 	kabul
+karachi 	karachi
+kiev 	kijev
+kuala lumpur 	kuala lumpur
+lagos 	lagos
+lahore 	lahore
+lima 	lima
+lisbon 	lisszabon
+ljubljana 	ljubljana
+london 	london
+los angeles 	los angeles
+luxembourg 	luxembourg
+madrid 	madrid
+manila 	manila
+marrakesh 	marrakesh
+mexico city 	mexikóváros
+montreal 	montreal
+moscow 	moszkva
+mumbai (korábbi nevén bombay) 	mumbai
+nairobi 	nairobi
+new delhi (más néven delhi) 	új-delhi
+new york (más néven new york city) 	new york
+nicosia 	nicosia
+oslo 	oslo
+ottawa 	ottawa
+paris 	párizs
+prague 	prága
+reykjavik 	reykjavik
+riga 	riga
+rio de janeiro 	rio de janeiro
+rome 	róma
+saint petersburg 	szentpétervár
+san francisco 	san francisco
+santiago (más néven santiago de chile) 	santiago
+seoul 	szöul
+shanghai 	shanghaj
+singapore 	szingapúr
+sofia 	szófia
+stockholm 	stockholm
+sydney 	sydney
+são paulo 	são paulo
+tallinn 	tallin
+tehran 	teherán
+the hague 	hága
+tokyo 	tokió
+toronto 	torontó
+venice 	velence
+vienna 	bécs
+vilnius 	vilnius
+warsaw 	varsó
+washington, d.c. 	washington, d.c.
+wellington 	wellington
+zagreb 	zágráb

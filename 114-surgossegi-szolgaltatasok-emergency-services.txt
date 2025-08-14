@@ -1,0 +1,26 @@
+accident 	baleset
+aggrieved 	károsult
+ambulance 	mentő
+ambulance transport/emergency transport 	betegszállítás
+bleeding 	vérzés
+break-down service 	autómentő segélyszolgálat
+catastrophe 	katasztrófa
+claim adjustment 	kárrendezés
+collision 	karambol
+duty 	ügyelet
+emergency 	vészhelyzet
+emergency call 	segélyhívás
+fire department 	tűzoltóság
+fireman/fire-fighter 	tűzoltó
+first aid 	elsősegély
+hygiene 	egészségügy
+injured 	sérült
+injury 	sérülés
+insurance 	biztosítás
+law enforcement 	rendvédelem
+life-saving 	életmentés
+neurology 	neurológia
+patrol service 	segélyszolgálat
+police 	rendőrség
+service station 	autószervíz
+wrecker 	autómentő

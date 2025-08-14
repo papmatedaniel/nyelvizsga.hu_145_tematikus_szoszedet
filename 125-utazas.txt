@@ -1,0 +1,48 @@
+accommodation 	szállás
+booking 	foglalás
+brochure 	brossúra
+business trip 	üzleti út
+by bicycle 	kerékpárral
+by boat 	hajóval
+by bus 	busszal
+by car 	autóval
+by coach 	távolsági busszal
+by ferry 	komppal
+by motorcycle 	motorkerékpárral
+by plane 	repülővel
+by train 	vonattal
+cancellation 	törlés
+cancelled 	törölt
+customs 	vám
+delay 	késés
+delayed 	késik
+destination 	úti cél
+distance 	távolság
+fare 	útiköltség
+flight time 	repülési idő
+holiday 	szabadság
+information desk 	információspult
+itinerary 	útvonal
+journey 	utazás
+luggage vagy baggage 	csomag
+map 	térkép
+on foot 	gyalog
+passenger 	utas
+passport control 	útlevél-ellenőrzés
+price 	ár
+recreation 	üdülés
+reservation 	rezerváció
+sightseeing 	városnézés
+suitcase 	bőrönd
+ticket 	jegy
+ticket office 	jegyiroda
+to arrive 	megérkezni
+to book 	foglalni
+to cancel a booking 	lemondani a foglalást
+to depart 	eltávozni
+to leave 	elhagyni
+to travel 	utazni
+to visit 	ellátogatni
+travel agent 	utazási iroda
+travel insurance 	utazásbiztosítás
+travel time 	utazási idő

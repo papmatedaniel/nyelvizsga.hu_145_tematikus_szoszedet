@@ -1,0 +1,247 @@
+(spring) onion 	(új)hagyma
+a bottle of … 	egy üveg / palack …
+a box of … 	egy doboz …
+a carton of … 	egy karton …
+a jar of … 	egy kancsó …
+a loaf of … 	egy cipó / vekni …
+a packet of … 	egy csomag …
+a roll of … 	egy tekercs …
+a tube of … 	egy tubus …
+aisle 	áruházi folyosó a polcok között
+almond 	mandula
+apple 	alma
+apricot 	sárgabarack
+at a reduced price 	leértékelt áron
+bacon 	szalonna
+baker’s, bakery 	pékség
+banana 	banán
+bargain 	előnyös vétel
+basket 	kosár
+bean 	bab
+beef 	marha
+beer 	sör
+beetroot 	cékla
+biscuits 	cookies
+book shop 	könyvesbolt
+brandy 	konyak
+bread 	kenyér
+breadcrumbs 	kenyérmorzsa
+broccoli 	brokkoli
+brussels sprouts 	kelbimbó
+butcher’s 	hentesüzlet
+butter 	vaj
+cabbage 	káposzta
+cake shop 	cukrászda
+caraway 	kömény
+carp 	ponty
+carrier-bag 	bevásárlószatyor
+carrot 	sárgarépa
+cash 	készpénz
+cash desk 	pénztár
+cashier 	pénztáros
+catalogue 	katalógus
+cauliflower 	karfi ol
+celeriac 	zellergumó
+celery 	zeller
+cereals 	gabonapehely
+champagne 	pezsgő
+change 	apró
+cheap 	olcsó
+checkout 	fizetés
+chemist’s 	drugstore
+cherry 	cseresznye
+chestnut 	gesztenye
+chicken 	csirke
+china shop 	porcelánbolt
+cinnamon 	fahéj
+cloves 	szegfűszeg
+cod 	tőkehal
+cold meat / cuts 	vegetables
+complaint 	panasz
+confectioner’s 	cukrászda
+consumer goods 	fogyasztási cikkek
+convenience food 	készétel
+corn cob 	csöves kukorica
+cornflakes 	kukoricapehely
+cottage cheese 	túró
+counter 	pult
+cream 	tejszín
+credit card 	hitelkártya
+cube sugar 	kockacukor
+cucumber 	uborka
+customer 	vásárló
+dairy 	tejtermékeket árusító üzlet
+dairy products 	tejtermékek
+date 	datolya
+department store 	áruház
+discount 	leárazás
+dry wine / sweet wine 	száraz bor / édes bor
+duck 	kacsa
+durables 	tartós fogyasztási cikkek
+electrical appliances shop 	műszaki bolt
+expensive 	drága
+fig 	füge
+fitting room 	öltöző
+fizzy 	soda
+flour 	liszt
+foodstuff 	élelmiszer
+freshwater fish 	édesvízi hal
+frozen food 	fagyasztott étel
+fruit 	gyümölcs
+furniture shop 	bútorbolt
+game 	vad
+garlic 	fokhagyma
+goods 	áruk
+goose 	liba
+granulated sugar 	kristálycukor
+grapes 	szőlő
+green pepper 	zöldpaprika
+greengrocer’s 	zöldséges
+grocer’s 	fűszerüzlet
+groceries 	élelmiszer
+haberdasher’s 	rövidáru-kereskedő
+ham 	sonka
+hard / alcoholic drinks 	alkoholos italok
+hardware shop 	vas-, fém- és acéláru
+hazelnut 	mogyoró
+hot chocolate 	kakaó
+hypermarket 	bevásárlóközpont, hipermarket
+icing sugar 	porcukor
+in stock 	raktáron
+instant coffee 	azonnal oldódó kávé
+item 	(áru)cikk
+jam 	lekvár
+kiosk 	elárusítóbódé
+kitchenware shop 	konyhai felszerelések boltja
+ladies’ wear shop 	nőiruha-bolt
+lamb 	bárányhús
+lemon 	citrom
+lettuce 	fejes saláta
+lobster 	homár
+long drinks 	vízzel higított szeszes ital
+lump sugar 	kockacukor
+mail order 	postai rendelés
+manager 	üzletvezető/menedzser
+margarine 	margarin
+market 	piac
+marmalade 	narancslekvár
+marrow 	tök
+mayonnaise 	majonéz
+meat 	hús
+melon 	sárgadinnye
+microwavable food 	mikrózható étel
+milk 	tej
+mince 	vagdalt hús, darált hús
+monthly instalments 	havi részletek (részletfizetésnél)
+mushroom 	gomba
+mustard 	mustár
+mutton 	birkahús
+nectarine 	nektarin, kopaszbarack
+news stand 	újságos
+newsagent’s 	újságos
+nutmeg 	szerecsendió
+oil 	olaj
+on sale 	leértékelt áron
+optician’s 	látszerész
+orange 	narancs
+other 	egyéb
+out of stock 	nincs raktáron
+paprika 	paprika
+parsley 	petrezselyem
+parsnip 	paszternák
+part-exchange 	régi árucikk bevétele, csereakció
+pea 	borsó
+peach 	őszibarack
+peanut 	földimogyoró
+pear 	körte
+pepper 	bors
+pharmacy 	gyógyszertár
+pickled onions 	savanyított hagyma
+pike 	csuka
+pineapple 	ananász
+plastic bag vagy carrier bag 	műanyag szatyor/tasak
+plum 	szilva
+pork 	disznó
+potato 	krumpli
+poultry 	szárnyas
+preserved fruit 	befőtt
+price 	ár
+price tag 	árcédula
+pumpkin 	sütőtök
+purse 	erszény
+queue 	sor
+radish 	retek
+raspberry 	málna
+ready made food 	készétel
+receipt 	blokk
+red / black / white currant 	ribizli
+refund 	visszatérítés
+rice 	rizs
+roll 	zsemle
+salami 	szalámi
+sale 	kiárusítás
+salmon 	lazac
+salt 	só
+sausage 	kolbász
+sea-fish 	tengeri hal
+shelf 	polc
+sherry 	sherry
+shoe shop 	cipőbolt
+shop 	üzlet
+shop assistant 	bolti eladó
+shop window 	kirakat
+shopper 	vásárló
+shopping bag 	bevásárlószatyor
+shopping centre 	bevásárlóközpont
+shopping complex 	bevásárlóközpont
+shopping list 	bevásárlólista
+shopping mall 	selling and buying
+soft drinks 	üdítők
+sorrel 	sóska
+sour cream 	tejföl
+souvenir shop 	ajándékbolt
+sparkling 	szénsavas
+special offer 	különleges ajánlat
+spices 	fűszerek
+spinach 	spenót
+spirits 	szesz(es ital)
+sportswear shop 	sportbolt
+stationer’s 	papír-írószer bolt
+still 	szénsavmentes
+stockroom 	raktár
+strawberry 	eper
+supermarket 	abc
+sweet-shop 	édességbolt
+sweetener 	édesítőszer
+till 	kassza, pénztárgép
+tinned food 	konzerv élelmiszer
+to buy 	vásárolni
+to buy sg on hire purchase 	részletre vásárol vmit
+to buy sg on the installment plan 	leasing
+to go shopping 	vásárolni menni
+to include vat 	áfát tartalmaz
+to order 	megrendelni
+to purchase 	bevásárol, beszerez
+to reduce prices 	csökkenti az árakat
+to sell 	eladni
+tobacconist’s 	dohányárus
+tomato 	paradicsom
+toy shop 	játékbolt
+trade-in 	deposit
+trolley 	bevásárlókocsi
+trout 	pisztráng
+tuna 	tonhal
+turkey 	pulyka
+veal 	borjú
+venison 	szarvas / őz húsa
+vinegar 	ecet
+wallet 	pénztárca
+walnut 	dió
+watermelon 	dinnye
+whipped cream 	tejszínhab
+white coffee 	tejeskávé
+wide choice of goods 	áru(cikke)k széles választéka
+wide variety of goods 	áru(cikke)k széles választéka
+wild boar 	vaddisznó
+window-shopping 	kirakatnézés
+yoghurt 	joghurt

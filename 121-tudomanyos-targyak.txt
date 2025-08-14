@@ -1,0 +1,46 @@
+accountancy 	könyvelés
+archaeology 	régészet
+architecture 	építészet
+art 	művészet
+astronomy 	csillagászat
+biology 	biológia
+business studies 	kereskedelmi szak
+chemistry 	kémia
+classics 	klasszikusok
+coaching 	oktatás
+computer science 	számítástechnika
+dentistry 	fogászat
+design and technology 	tervezés és technológia
+drama 	dráma
+economics 	közgazdaságtan
+engineering 	mérnöki szak
+fine art 	képzőművészet
+geography 	földrajz
+geology 	geológia
+hemoglobin 	hemoglobin/vörös vértest
+history 	történelem
+history of art 	művészettörténelem
+law 	jog
+literature (french literature, english literature stb.) 	irodalom (francia irodalom, angol irodalom, stb.)
+maths (a következő rövidítése: mathematics) 	matek (matematika)
+media studies 	média
+medicine 	orvostudomány
+modern languages 	modern nyelvek
+music 	zene
+nature 	természet
+nursing 	ápolás
+pe (a következő rövidítése: physical education) 	testnevelés
+philosophy 	filozófia
+physics 	fizika
+politics 	politika
+psychology 	pszihológia
+religious studies 	vallástudomány
+science 	tudományok
+sex education 	szexuális felvilágosítás
+social studies 	szociológiai szak
+sociology 	szociológia
+subject 	tantárgy
+taxonomy 	rendszertan
+theology 	teológia
+timetable 	órarend
+veterinary medicine 	állatorvosi
